@@ -1,0 +1,1076 @@
+<!DOCTYPE html><!-- Last Published: Fri Jul 05 2024 08:34:03 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.mantrachain.io" data-wf-page="6633a3ec4614dd1332585a1b" data-wf-site="6622236200773f0f3dbee8a0" lang="en"><head><meta charset="utf-8"/><title>Powered by the OM Token | Stake and Earn with $OM | MANTRA</title><meta content="Harness the Power of $OM to unlock the full potential of MANTRA’s Ecosystem." name="description"/><meta content="Powered by the OM Token | Stake and Earn with $OM | MANTRA" property="og:title"/><meta content="Harness the Power of $OM to unlock the full potential of MANTRA’s Ecosystem." property="og:description"/><meta content="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66506323b279af48034d363c_mantra-opengraph.webp" property="og:image"/><meta content="Powered by the OM Token | Stake and Earn with $OM | MANTRA" property="twitter:title"/><meta content="Harness the Power of $OM to unlock the full potential of MANTRA’s Ecosystem." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66506323b279af48034d363c_mantra-opengraph.webp" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/css/mantra2024.webflow.28714c653.min.css" rel="stylesheet" type="text/css"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17b6a1c93f7ec3a37eb9_m%20favicon.webp" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17d980ac2709c36f0ccb_m%20webclip.webp" rel="apple-touch-icon"/><script src="https://www.google.com/recaptcha/api.js" type="text/javascript"></script><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=5">
+<!-- 
+ ** Marketing Scripts 
+ -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16577912309"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-16577912309');
+</script>
+<!-- Yahoo -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10202680','he': 'marketing@mantrachain.io','hph': '+85255058483'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<!-- Twitter conversion tracking base code -->
+<script>
+  !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+                                                   },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+                                 a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+  twq('config','om8rv');
+</script>
+<!-- End Twitter conversion tracking base code →
+<!-- Xandr Universal Pixel init -->
+<script>
+  !function(e,i){if(!e.pixie){var n=e.pixie=function(e,i,a){n.actionQueue.push({action:e,actionValue:i,params:a})};n.actionQueue=[];var a=i.createElement("script");a.async=!0,a.src="//acdn.adnxs.com/dmp/up/pixie.js";var t=i.getElementsByTagName("head")[0];t.insertBefore(a,t.firstChild)}}(window,document);
+  pixie('init', '311d6584-4988-40ca-9910-ce634ce92f33');
+</script>
+<!-- Xandr Universal Pixel - PageView Event -->
+<script>
+  pixie('event', 'PageView');
+</script>
+<noscript><img src="https://ib.adnxs.com/pixie?pi=311d6584-4988-40ca-9910-ce634ce92f33&e=PageView&script=0" width="1" height="1" style="display:none"/></noscript>
+
+<!-- Cookie Consent -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="informational"></script>
+<!-- 
+ ** Marketing Scripts 
+ -->
+<!-- Yahoo -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10202680','he': 'marketing@mantrachain.io','hph': '+85255058483'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+
+
+<!-- Styles -->
+<style>  
+  /*
+  @view-transition {
+  navigation: auto;
+  }
+  ::view-transition {
+  background: black;
+  }
+  :root {
+  view-transition-name: none;
+  }
+  body {
+  view-transition-name: page;
+  }
+  ::view-transition-group(page) {
+  animation-duration: 0.7s;
+  }
+  */
+
+  /* ---------------------- General Styling*/
+  .w-webflow-badge { display: none !important; }
+  select {
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+  }
+  .lang__toggle.w-dropdown-toggle.w--open {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+  .nav-menu__mobile--w {
+    min-height: 100dvh !important;}
+  .company-loop__mid-w {
+    margin-top: -15em;
+    margin-bottom: -15em;
+  }
+
+  /* ---------------------- Contact Form Styling*/
+  .contact-form__input--wrap .contact__form-field:focus {
+    border: 0px solid hsla(0, 0%, 100%, 0.3);
+  }
+  /* wrapper for field */
+  .contact-form__input--wrap {
+    background-image: linear-gradient(
+      306deg,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3)
+    );
+  }
+  .contact-form__input--wrap:focus-within {
+    background-image: linear-gradient(306deg, var(--pink), var(--cream));
+  }
+  input,
+  select,
+  textarea {
+    color: #dbd9d8 !important;
+  }
+  textarea:focus,
+  input:focus {
+    color: #dbd9d8;
+  }
+
+  /* ---------------------- Weglot Styling*/
+  .language-option {
+    white-space: nowrap;
+    font-size: 0.88em;
+    text-align: center;
+  }
+  .weglot_switcher.vertical_expand .language-option {
+    font-size: 0.88em !important;
+    line-height: 1 !important;
+    padding: 0.75em 1.5em !important;
+    font-family: inherit !important;
+    height: 2.63em;
+  }
+  .wg-default {
+    right: 0 !important;
+  }
+  .weglot-container.wg-default {
+    min-width: 11em;
+  }
+  .language-option,
+  .language-option.active-language {
+    border-radius: 0 !important;
+    border-color: #343434;
+    display: flex;
+    justify-content: center;
+  }
+  .language-option.active-language {
+    border-top-left-radius: 0.5em !important;
+    border-color: #343434 !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+  }
+  .language-option a {
+    font-weight: inherit !important;
+    line-height: 1 !important;
+  }
+  :where(.nav-dropdown--wrapper) {
+    height: 0px;
+  }
+
+  /*responsive*/
+  @media screen and (max-width: 991px) {
+    .wg-default {
+      position: relative !important;
+      width: 100% !important;
+    }
+    .language-option.active-language {
+      border-radius: 0.5em !important;
+      border-color: #343434 !important;
+      border-width: 1px !important;
+      border-style: solid !important;
+    }
+    .weglot_switcher.vertical_expand .language-option {
+      font-size: 0.88em !important;
+      line-height: 1 !important;
+      padding: 1.25em 1.5em !important;
+      font-family: inherit !important;
+      height: auto !important;
+    }
+    .weglot_switcher.vertical_expand.down .language-list {
+      bottom: 0 !important;
+      top: auto !important;
+    }
+  }
+</style>
+<!-- dev css links
+<link
+      rel="stylesheet"
+      href="https://mytrvx-5000.csb.app/company/contact.css"
+      />
+<link
+      rel="stylesheet"
+      href="https://mytrvx-5000.csb.app/weglot-code.css"
+      />
+--> 
+<!-- [Attributes by Finsweet] Disable scrolling -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+<!-- Weglot hrefs -->
+<link rel="alternate" hreflang="en" href="https://www.mantrachain.io">
+<link rel="alternate" hreflang="ar" href="https://ar.mantrachain.io">
+<link rel="alternate" hreflang="pt-br" href="https://pt-br.mantrachain.io">
+<link rel="alternate" hreflang="id" href="https://id.mantrachain.io">
+<link rel="alternate" hreflang="ja" href="https://ja.mantrachain.io">
+<link rel="alternate" hreflang="ko" href="https://ko.mantrachain.io">
+<link rel="alternate" hreflang="ru" href="https://ru.mantrachain.io">
+<link rel="alternate" hreflang="es" href="https://es.mantrachain.io">
+<link rel="alternate" hreflang="tr" href="https://tr.mantrachain.io">
+<link rel="alternate" hreflang="vi" href="https://vi.mantrachain.io">
+<link rel="alternate" hreflang="th" href="https://th.mantrachain.io">
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+<script>
+  Weglot.initialize({
+    api_key: 'wg_ad3565b80fc0dc8c6d3680216cd2ba3f5'
+  });
+</script> <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Powered by the OM Token | Stake and Earn with $OM | MANTRA",
+  "url": "https://mantrachain.io/ecosystem/om",
+  "description": "Harness the power of $OM to unlock the full potential of MANTRA’s ecosystem. Participate in staking, earn rewards, and access community governance with the $OM token.",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "MANTRA",
+    "url": "https://mantrachain.io/",
+    "logo": "https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17d980ac2709c36f0ccb_m%20webclip.webp",
+    "sameAs": [
+      "https://discord.gg/gfks4TwAJV",
+      "https://twitter.com/MANTRA_Chain",
+      "https://t.me/MANTRA_Chain",
+      "https://www.youtube.com/@MANTRAChain",
+      "https://www.instagram.com/mantra_chain/",
+      "https://mantrachain.medium.com/",
+      "https://www.linkedin.com/company/mantrachain/"
+    ]
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "$OM Token",
+    "description": "The $OM token is utilized for securing the MANTRA network through PoS, paying transaction fees, accessing the Guard Module, and participating in community governance."
+  },
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66506323b279af48034d363c_mantra-opengraph.webp",
+    "width": 800,
+    "height": 600
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mantrachain.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "$OM Token",
+        "item": "https://mantrachain.io/ecosystem/om"
+      }
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MANTRA",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17d980ac2709c36f0ccb_m%20webclip.webp",
+      "width": 60,
+      "height": 60
+    }
+  }
+}
+</script></head><body data-start="hidden"><div class="embed"><div class="css-utils w-embed"><style>
+  /* ----- in this file (in order): 
+  - master styling
+  - variables
+  - utility 
+  - line clamp
+  - pointer events
+  - lenis
+  - custom cursor
+  - preloader
+  - performance
+  - container
+  - headings 
+  - text 
+  - padding classes **not needed**
+
+  ----- */
+
+  html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  *:before,
+  *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+  }
+
+  /* --------------------------------------- utility */
+  :root {
+    --app-height: 100%;
+  }
+
+  ::selection {
+    background: var(--color--white);
+    color: var(--color--black);
+    text-shadow: none;
+  }
+
+  [data-select-normal]::selection {
+    background: #fff !important;
+    color: #000 !important; 
+    -webkit-text-fill-color: #000 !important;
+    -webkit-background-clip: initial !important;
+    background-clip: initial !important;
+  }
+
+  img::selection,
+  svg::selection {
+    background: transparent;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .display-none,
+  [display-none] {
+    display: none !important;
+  }
+
+  .visibility-hidden,
+  [visibility-hidden] {
+    visibility: hidden;
+  }
+
+  /*:where(:focus-visible) {
+  outline: 2px solid var(--focus-color, Highlight);
+  outline-offset: 2px;
+  } */
+
+  :where([screen-reader]:not(:focus, :active, :focus-within), .screen-reader:not(:focus, :active, :focus-within)) {
+    clip-path: inset(50%) !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+  }
+
+  .w-lightbox-close {
+    right: 5em;
+    height: 5em;
+    outline: transparent;
+  }
+
+  /* --------------------------------------- line clamp */
+  [line-clamp] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  [line-clamp="2"] {
+    -webkit-line-clamp: 2; /*3, 4, 5 etc*/
+  }
+
+  [line-clamp="3"] {
+    -webkit-line-clamp: 3; /*3, 4, 5 etc*/
+  }
+
+  /* --------------------------------------- pointer events */
+  [pointer-none] {
+    pointer-events: none;
+    user-select: none;
+  }
+  [pointer-auto] {
+    pointer-events: auto;
+  }
+
+  /* --------------------------------------- lenis */
+  [data-lenis-prevent] {
+    overscroll-behavior-y: contain;
+  }
+
+  /* --------------------------------------- preloader */
+  .preloader {
+    background-color: var(--primary-color);
+  }
+
+  /* --------------------------------------- performance */
+  [object] {
+    will-change: transform;
+  }
+
+  /* --------------------------------------- utils */
+  [overflow-clip="x"] {
+    overflow-x: clip;
+  }
+  [overflow-clip="y"] {
+    overflow-y: clip;
+  }
+
+  /* --------------------------------------- container */
+  .c {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* --------------------------------------- text */
+
+  p,
+  .text-small,
+  .text-regular,
+  .text-medium,
+  .text-large,
+  .text-xlarge {
+    text-wrap: pretty /* ensures nice wrapping */
+  }
+
+  /* --------------------------------------- forms */
+
+  textarea {
+    resize: vertical;
+  }
+
+  /* --------------------------------------- blog */
+
+  .rich-text p, .rich-text ol, .rich-text li { 
+    /* line heights in rtf */
+    line-height: 1.6;
+  }
+  .rich-text strong {  
+    /* bolds in rtf */
+  }
+  .rich-text .w-embed {
+    /* embed spacing in rtf */
+  }
+  .rich-text a {
+    text-decoration: none;
+  }
+  .rich-text a:hover {
+    text-decoration: underline;
+  }
+
+  /*Secondary Button*/
+  .btn-inner-border {
+    border-radius: 0.5em; /*1*/
+    border: 1px solid transparent; /*2*/
+    background: linear-gradient(-135deg,#F8B994,#FF97D5) border-box; /*3*/
+    -webkit-mask: /*4*/
+      linear-gradient(#fff 0 0) padding-box, 
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor; /*5'*/
+    mask-composite: exclude; /*5*/
+  }
+</style></div><div class="css-global w-embed"><style>
+  /* ----- in this file (in order): 
+  - thing
+
+  ----- */
+
+
+  /* --------------------------------------- page or section */
+  .logo-svg-container linearGradient {
+    transform-origin: center;
+    transition: transform 0.5s ease-out;
+  }
+  .logo-svg-container:hover linearGradient {
+    transform: rotate(180deg);
+  }
+
+  .legals__rich-text blockquote {
+    border-width: 0 0 0 1px; /* Set border width only on the left side */
+    border-style: solid; /* Set border style to solid */
+    border-image: linear-gradient(180deg, rgba(248, 185, 148, 0) 0%, rgba(255, 151, 214, 0.5) 37.24%, rgba(248, 185, 148, 0.5) 80.21%, rgba(255, 151, 214, 0) 100%) 1; /* Apply linear gradient as border */
+  }
+
+  .btn-wrap.w--current {
+    border-width: 0 0 2px 0; /* Set border width only on the left side */
+    border-style: solid; /* Set border style to solid */
+    border-image: linear-gradient(90deg, rgba(248, 185, 148, 0) 0%, rgba(255, 151, 214, 0.5) 37.24%, rgba(248, 185, 148, 0.5) 80.21%, rgba(255, 151, 214, 0) 100%) 1; /* Apply linear gradient as border */
+  }
+
+  .contact__form-field.w-select {
+    color: #dbd9d8;
+  }
+
+  [aria-expanded="false"] .language-list {
+    pointer-events: none !important;
+  }
+
+  [aria-expanded="true"] .language-list {
+    pointer-events: auto !important;
+  }
+  .popup__close--line {
+  	transition: 0.3s width ease;
+  }
+  .popup__close--w:hover .popup__close--line {
+  	width: 80%;
+  }
+</style></div><div class="css-breakpoints w-embed"><style>
+  /* ----- desktop only */
+  @media only screen and (min-width: 992px) {
+    body {
+      min-height: 0vw;
+      /* font-size: 1.1111111111111112vw;  1440px */
+      font-size: 1.0582010582010584vw; /* 1512px*/
+    }
+
+    [data-hide="d"] {
+      display: none;
+    }
+  }
+
+  /* ----- tablet */
+  @media only screen and (max-width: 991px) {
+
+    body {
+      /* font-size: 0.6881944444444444rem;  1440px */
+      font-size: 1rem; /* 1512px */
+    }
+
+    :root {
+      /* padding */
+      --padding--container: 6vw;  
+
+    }
+
+    /* hide objects on tablet and below */
+    [data-hide="t"] {
+      display: none;
+    }
+  }
+
+  /* ----- mobile landscape */
+  @media screen and (max-width: 767px) {
+
+    /* hide objects on mobile landscape and below */
+    [data-hide="ml"] {
+      display: none;
+    }
+  }
+
+  /* ----- mobile */
+  @media screen and (max-width: 497px) {
+
+    /* hide objects on mobile and below */
+    [data-hide="m"] {
+      display: none;
+    }
+  }
+
+
+  /* ----- Truncation / Max Font Size 
+  * 	refer to:
+  * 	https://wizardry-technique.webflow.io/
+  */
+  @media screen and (min-width:2560px) {
+    body {font-size: 27.089947089947096px;}
+  }
+</style></div><div class="css-editmode w-embed"><style>
+  /*  ----- edit mode ----- */
+  /*  ----- edit mode ----- */
+  
+  [data-edit="true"] {
+  	/* stuff to show/hide */
+  }
+  .w-editor {
+  	/* stuff to show/hide */
+  }
+  
+  [data-edit="true"] .popup--w {
+  	display: flex;
+    position: relative;
+  }
+
+</style></div></div><div overflow-clip="x" class="page-w background-color-dark"><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav"><div class="c nav__c"><div class="navbar__layout"><a href="/" class="nav__logo--w w-nav-brand"><div class="mantra-logo w-embed"><svg class="logo-svg-container" width="100%" height="100%" viewBox="0 0 127 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M103.808 8.71214C103.808 5.33924 101.401 2.77059 96.8345 2.77059H87.7983V23.9681H91.1429V15.3658H97.2073C98.8938 15.3658 100.051 16.0142 100.051 17.9663V23.9717H103.428V17.6581C103.428 14.9655 101.894 13.8813 99.9909 13.7892V13.6368C101.645 13.1408 103.804 11.8725 103.804 8.71568L103.808 8.71214ZM96.4297 12.581H91.1465L91.1784 5.49513H96.3374C99.1814 5.49513 100.371 7.0434 100.371 8.96014C100.371 10.8769 99.121 12.581 96.4333 12.581H96.4297ZM13.6661 2.36315L11.2801 0L8.87996 2.37733L11.2695 4.74048L13.6697 2.36315H13.6661ZM33.0309 2.77059L24.4669 23.9681H28.0636L30.3147 18.3667H39.5355L41.7546 23.9681H45.4117L36.8761 2.77059H33.0309ZM31.1562 15.6457L34.8452 6.26749H35.0014L38.6266 15.6457H31.1562ZM22.5425 4.94597L20.1707 2.54384L13.4779 9.01683C12.2601 10.1931 10.2824 10.1931 9.06814 9.01683L2.37178 2.5403L0 4.94597V23.9717H3.38014V8.21258L6.69281 11.4154C7.95326 12.6377 9.61492 13.2471 11.273 13.2471C12.9311 13.2471 14.5893 12.6377 15.8533 11.4154L19.102 8.27281V23.9681H22.5461V4.94597H22.5425ZM117.864 2.77414H114.019L105.455 23.9717H109.052L111.303 18.3702H120.524L122.743 23.9717H126.4L117.868 2.77414H117.864ZM112.145 15.6492L115.834 6.27104H115.99L119.615 15.6492H112.145ZM62.1242 19.0221H61.968L51.153 2.77059H47.3716V23.9681H50.7482V7.90788H50.9044L61.5632 23.9681L65.5008 24V2.77059H62.1242V19.0186V19.0221ZM67.7092 5.53056H74.995V23.9752H78.2792L78.3112 5.53056H85.5934V2.77059H67.7128V5.52347L67.7092 5.53056Z" fill="url(#paint0_linear_217_8936)"/>
+<defs>
+<linearGradient id="paint0_linear_217_8936" x1="97.527" y1="1.84469" x2="62.3271" y2="54.1664" gradientUnits="userSpaceOnUse">
+<stop offset="0.372396" stop-color="#FF97D6"/>
+<stop offset="0.802083" stop-color="#F8B994"/>
+</linearGradient>
+</defs>
+</svg></div></a><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav__menu--w-mid"><a data-w-id="b9648dfe-61ee-6d8c-1406-b3c74b0591ee" href="/for-builders/about" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">For Builders</div></div></a><a href="/for-traders" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">For Traders</div></div></a><a href="/for-institutions" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">For Institutions</div></div></a></div><div class="nav__menu--w-right"><a href="http://docs.mantrachain.io" target="_blank" class="btn-wrap nav--btn is--external w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">Resources</div></div><div class="external-icon w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.5859 3H14.0001V1H22.0001H23.0001V2V10H21.0001V4.41421L10.7072 14.7071L9.29297 13.2929L19.5859 3Z" fill="currentColor" fill-opacity="1"/>
+<path d="M19 13.5V20C19 21.1046 18.1046 22 17 22H4C2.89543 22 2 21.1046 2 20V7C2 5.89543 2.89543 5 4 5H10.5" stroke="currentColor" stroke-opacity="1" stroke-width="2"/>
+</svg></div></a><div data-w-id="244c9b48-574e-03db-240e-19fe379c51d8" class="btn-wrap nav--btn is--dropdown"><div class="drop--wrap-container"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">Ecosystem</div></div><div class="nav-arrow w-embed"><svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 0.375L5.75 5.625L0.5 0.375" stroke="currentColor" stroke-opacity="0.7"/>
+</svg></div></div><div class="nav-dropdown--wrapper"><div class="dropdown__inner--w"><div class="dropdown-items--w"><a href="/ecosystem/incubator" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-md is--no-wrap">Incubator</p></a><a href="/ecosystem/partners" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-md is--no-wrap">Partners</p></a><a href="/ecosystem/om" aria-current="page" class="btn-wrap nav--drop-btn w-inline-block w--current"><p class="text-md is--no-wrap">$OM Token</p></a></div></div></div></div><a href="https://mantra.zone/" target="_blank" class="btn-wrap w-inline-block"><div data-w-id="d57ff3e3-af31-fce2-4ccf-a209fe7edcbb" class="btn-inner is--secondary"><div class="text-sm is-button-med">Leaderboard</div><div class="btn-secondary--bg"></div></div></a></div></nav><div fs-scrolldisable-element="when-visible2" class="nav-menu__mobile--w"><div fs-scrolldisable-element="preserve" class="mobile-menu__overflow-content"><div class="nav__menu--w-mid"><a href="/for-builders/about" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">For Builders</div></div></a><a href="/for-traders" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">For Traders</div></div></a><a href="/for-institutions" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">For Institutions</div></div></a></div><div class="nav__menu--w-right"><a href="http://docs.mantrachain.io" target="_blank" class="btn-wrap nav--btn w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">Resources</div></div></a><div data-w-id="78dc184b-60e4-7b70-e48d-beaf6316cbba" class="btn-wrap nav--btn is--dropdown"><div class="drop--wrap-container"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">Ecosystem</div></div><div class="nav-arrow w-embed"><svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 0.375L5.75 5.625L0.5 0.375" stroke="currentColor" stroke-opacity="0.7"/>
+</svg></div></div><div class="nav-dropdown--wrapper"><div class="dropdown__inner--w"><div class="dropdown-items--w"><a href="/ecosystem/incubator" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-size-14 is--no-wrap is--20-m">Incubator</p></a><a href="/ecosystem/partners" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-size-14 is--no-wrap is--20-m">Partners</p></a><a href="/ecosystem/om" aria-current="page" class="btn-wrap nav--drop-btn w-inline-block w--current"><p class="text-size-14 is--no-wrap is--20-m">$OM Token</p></a></div></div></div></div><div class="nav__buttons--w"><a href="https://app.mantra.finance/dashboard" target="_blank" class="btn-wrap w-inline-block"><div data-w-id="78dc184b-60e4-7b70-e48d-beaf6316cbc9" class="btn-inner is--secondary is--mobile-btn"><div class="text-sm is-button-med">Launch DEX</div><div class="btn-secondary--bg"></div></div></a><div class="weglot--w is--mobile-nav"><div data-w-id="78211eaf-b73c-06e4-7586-ed35a5607122" class="wg-element-wrapper sw7"><div data-hover="true" data-delay="500" data-w-id="78211eaf-b73c-06e4-7586-ed35a5607123" class="wg-dropdown-2 is--mobile-nav w-dropdown"><div lang="en" class="wg-dd-2-toggle is--mobile-nav w-dropdown-toggle"><div class="text-size-14">English</div></div><nav class="wg-dd-2-list w-dropdown-list"><a href="#" lang="es" class="wg-dropdown-2-link w-dropdown-link">Español</a><a href="#" lang="pt-br" class="wg-dropdown-2-link w-dropdown-link">Português</a><a href="#" lang="ar" class="wg-dropdown-2-link w-dropdown-link">العربية‏</a></nav></div></div><div class="hidden"><div class="globe w-embed"><svg width="1em" height="1em" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.74228 1.49944C7.80911 1.49743 7.87606 1.49642 7.94312 1.49642C8.01011 1.49642 8.07699 1.49743 8.14375 1.49944L10.3245 7.49642H5.56158L7.74228 1.49944ZM6.24464 1.71639C5.11351 2.01444 4.07043 2.60769 3.22907 3.44904C2.13696 4.54115 1.46289 5.97316 1.30984 7.49642H4.14283L6.24464 1.71639ZM1.30984 8.82975C1.46289 10.353 2.13696 11.785 3.22907 12.8771C4.07043 13.7185 5.11351 14.3117 6.24464 14.6098L4.14283 8.82975H1.30984ZM7.74229 14.8267C7.80911 14.8287 7.87606 14.8298 7.94312 14.8298C8.0101 14.8298 8.07699 14.8287 8.14375 14.8267L10.3245 8.82975H5.56158L7.74229 14.8267ZM9.64138 14.6098C10.7726 14.3118 11.8158 13.7185 12.6572 12.8771C13.7493 11.785 14.4233 10.353 14.5764 8.82975H11.7433L9.64138 14.6098ZM14.5764 7.49642C14.4233 5.97316 13.7493 4.54115 12.6572 3.44904C11.8158 2.60763 10.7726 2.01437 9.64138 1.71634L11.7433 7.49642H14.5764ZM7.94312 0.163086C5.82138 0.163086 3.78655 1.00594 2.28626 2.50623C0.78597 4.00652 -0.0568848 6.04135 -0.0568848 8.16309C-0.0568848 10.2848 0.78597 12.3197 2.28626 13.8199C3.78655 15.3202 5.82138 16.1631 7.94312 16.1631C10.0648 16.1631 12.0997 15.3202 13.6 13.8199C15.1003 12.3197 15.9431 10.2848 15.9431 8.16309C15.9431 6.04135 15.1003 4.00652 13.6 2.50623C12.0997 1.00594 10.0648 0.163086 7.94312 0.163086Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div></div></div></div></div></div></div><a href="#" data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa1" class="nav__menu-btn w-inline-block"><div data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa2" class="burger-line is--mt-0"></div><div data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa3" class="burger-line"></div><div data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa4" class="burger-line is--mb-0"></div></a><div class="navbar__spacer"></div><div class="navbar__mobile-bg"></div></div></div></div><main data-taxi="" class="main-w"><section data-w-id="6a3125f6-300b-95f2-9c67-d4f0e712ac45" class="s home-hero__s"><div class="c"><div class="home-hero__layout is--token"><div class="home-hero__info--w"><div class="home-hero__top-info--w"><p class="text-md m__home-hero--eyebrow">The $OM Token</p><h1 class="text-size-54 token-hero__heading">Harness the power of <span data-select-normal="" class="grad-span">$OM</span> to unlock the full potential of MANTRA’s Ecosystem</h1></div><div class="home-hero__bot-info--w"><a href="#om-token" class="btn-wrap w-inline-block"><div data-w-id="8e71255e-1665-6c80-f41c-9bff8a30cbfe" class="btn-inner is--primary"><div class="text-sm is-button-med">Get $OM Token</div><div class="btn-primary--bg"></div></div></a></div></div><div class="home-hero__img--w"><video src="https://assets-global.website-files.com/6622236200773f0f3dbee8a0%2F664b1105203244210f0cf2ec_Single%20Token%20Rotation-transcode.mp4" autoplay="true" muted="" playsinline="true" loop="" width="100%" height="100%" class="token-video"></video></div></div></div></section><section class="s omtoken__s"><div class="c omtoken__c"><div class="omtoken-utils__layout"><h1 class="heading-3xl omtoken-utils__heading">Utilities</h1><div class="home-feats__bot--w"><div class="omtoken-utils__left-col"><div class="home-feat__item is--1"><div class="home-feat__icon w-embed"><svg width="2.5em" height="2.5em" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.83936 3.53076C5.83936 3.53076 5.83936 7.44541 5.83936 19.4054C5.83936 31.3654 20.8392 38.1001 20.8392 38.1001C20.8392 38.1001 35.8394 31.3654 35.8394 19.4054V3.53076H5.83936Z" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+<rect x="20.8394" y="26.2523" width="11" height="11" transform="rotate(-135 20.8394 26.2523)" stroke="#FF97D5" stroke-width="2"/>
+</svg></div><p data-select-normal="" class="heading-sm m__home-feat__item--heading">PoS Security</p><p class="text-md m__home-feat__item--desc">The MANTRA L1 blockchain employs a proof-of-stake (PoS) mechanism, where the OM token is utilized for securing the network. Both validators and delegators can participate in staking and earn rewards.</p></div><div class="build-feat__item is-3"><div class="home-feat__icon w-embed"><svg width="2.5em" height="2.5em" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.9997 10.6667H17.4997C16.0269 10.6667 14.833 11.8606 14.833 13.3333V14.8837C14.833 16.1548 15.7302 17.2492 16.9767 17.4985L16.9767 17.4985L22.6304 18.6292L22.6304 18.6292C22.942 18.6916 23.1663 18.9653 23.1663 19.283V21.6667C23.1663 22.0349 22.8679 22.3333 22.4997 22.3333H17.4997C17.1315 22.3333 16.833 22.0349 16.833 21.6667V20.8333H14.833V21.6667C14.833 23.1395 16.0269 24.3333 17.4997 24.3333H18.9997V27.5H20.9997V24.3333H22.4997C23.9725 24.3333 25.1663 23.1395 25.1663 21.6667V19.283C25.1663 18.0118 24.269 16.9174 23.0227 16.6681L23.0226 16.6681L17.369 15.5374L17.369 15.5374C17.0573 15.475 16.833 15.2014 16.833 14.8837V13.3333C16.833 12.9652 17.1315 12.6667 17.4997 12.6667H22.4997C22.8679 12.6667 23.1663 12.9651 23.1663 13.3333V14.1667H25.1663V13.3333C25.1663 11.8606 23.9725 10.6667 22.4997 10.6667H20.9997V7.5H18.9997V10.6667Z" fill="#FF97D5"/>
+<path d="M9 1.6665C6.79086 1.6665 5 3.45736 5 5.6665V36.6665L13.3333 32.4998L20 37.4998L26.6667 32.4998L35 36.6665V5.6665C35 3.45736 33.2091 1.6665 31 1.6665H9Z" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+</svg></div><p data-select-normal="" class="heading-sm m__home-feat__item--heading">Transaction Fees</p><p class="text-md m__home-feat__item--desc">Fees paid to protocol treasury each time a new token is minted or burnt within the Guard Module</p></div></div><div class="home-feats__bg--w"><div class="omtoken__bg-circles--img w-embed"><svg data-svg-dim xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 916 916" fill="none">
+  <circle data-svg-circ="1" cx="458" cy="458" r="213.713" stroke="#fff" stroke-opacity="0.1"/>
+  <circle data-svg-circ="2" cx="458" cy="458" r="273.661" stroke="#fff" stroke-opacity="0.1"/>
+  <circle data-svg-circ="3" cx="458" cy="458" r="328.812" stroke="#fff" stroke-opacity="0.1"/>
+  <circle data-svg-circ="4" cx="458" cy="458" r="391.957" stroke="#fff" stroke-opacity="0.1"/>
+  <circle data-svg-circ="5" cx="458" cy="458" r="457.5" stroke="#fff" stroke-opacity="0.1"/>
+</svg></div><div class="home-feats__diamonds--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/662798cd756a5ac4d97b1234_home-feat_diamond.webp" loading="eager" width="553" alt="" class="home-feats__bg-diamond--img"/><div class="build-feats__line-diamond is-2"></div><div class="build-feats__line-diamond is-3"></div></div></div><div class="omtoken-utils__right-col"><div class="home-feat__item is--1"><div class="home-feat__icon w-embed"><svg width="2.5em" height="2.5em" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_348_2676)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 20C40 31.0457 31.0457 40 20 40C8.95432 40 0 31.0457 0 20C0 8.95432 8.95432 0 20 0C31.0457 0 40 8.95432 40 20ZM12.7209 15.5162C11.3959 14.0039 10.5135 12.1314 10.5134 9.99704C10.5136 8.85376 10.7454 7.70674 11.137 6.65641C12.0061 4.32536 14.7421 3.73799 17.1719 4.27195C25.0316 5.99914 26.0592 4.73826 26.6306 4.0371L26.6306 4.03706C27.0088 3.57307 27.1872 3.35424 29.0138 4.40886C34.3448 7.4867 37.5019 12.8795 37.9554 18.5843C37.9885 19.001 37.4092 19.1618 37.1641 18.8233C36.3265 17.6662 35.239 16.6629 33.9242 15.9038C31.5886 14.5553 28.9452 14.2096 26.495 14.732L27.6734 15.9105C29.6033 15.5544 31.6128 15.7429 33.4178 16.785C34.4078 17.3567 35.2853 18.131 35.9991 18.9954C37.5834 20.9135 36.724 23.5766 35.0467 25.4139C29.621 31.357 30.1992 32.8774 30.5207 33.7228C30.7335 34.2823 30.8338 34.5462 29.0071 35.6009C23.6762 38.6787 17.4274 38.7164 12.26 36.2567C11.8827 36.0771 12.0331 35.495 12.4488 35.452C13.8696 35.3051 15.2822 34.865 16.597 34.1059C17.8214 33.3991 18.8493 32.4812 19.6617 31.4246L18.8141 30.577C18.147 31.6391 17.2502 32.5581 16.0904 33.2277C15.1002 33.7992 13.9909 34.1719 12.8855 34.358C10.4322 34.7709 8.55552 32.6951 7.80306 30.3238C5.36901 22.6536 3.76326 22.3941 2.87033 22.2498C2.27938 22.1543 2.00065 22.1093 2.00065 20C2.00065 13.8443 5.09242 8.41384 9.80624 5.16863C10.1504 4.93166 10.5794 5.35298 10.4088 5.73446C9.82552 7.0384 9.5004 8.48184 9.5004 10C9.5004 12.4467 10.3418 14.7001 11.7505 16.4866L12.7209 15.5162Z" fill="white" fill-opacity="0.5"/>
+<rect x="20" y="27.7782" width="11" height="11" transform="rotate(-135 20 27.7782)" stroke="#FF97D5" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_348_2676">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg></div><p data-select-normal="" class="heading-sm m__home-feat__item--heading">CosmWasm<br/>Integration</p><p class="text-md m__home-feat__item--desc">Powered by the OM token, MANTRA operates under community governance. The community has the ability to propose and collectively decide on important matters, including chain upgrades, protocol integrations, and more.</p></div><div class="build-feat__item is-3"><div class="home-feat__icon w-embed"><svg width="2.5em" height="2.5em" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_348_2806)">
+<path d="M10.834 26.833C10.834 26.833 15.0007 24.333 20.0007 24.333C25.0007 24.333 29.1673 26.833 29.1673 26.833" stroke="#FF97D5" stroke-width="2"/>
+<path d="M15 16C15 16.6566 15.1293 17.3068 15.3806 17.9134C15.6319 18.52 16.0002 19.0712 16.4645 19.5355C16.9288 19.9998 17.48 20.3681 18.0866 20.6194C18.6932 20.8707 19.3434 21 20 21C20.6566 21 21.3068 20.8707 21.9134 20.6194C22.52 20.3681 23.0712 19.9998 23.5355 19.5355C23.9998 19.0712 24.3681 18.52 24.6194 17.9134C24.8707 17.3068 25 16.6566 25 16C25 15.3434 24.8707 14.6932 24.6194 14.0866C24.3681 13.48 23.9998 12.9288 23.5355 12.4645C23.0712 12.0002 22.52 11.6319 21.9134 11.3806C21.3068 11.1293 20.6566 11 20 11C19.3434 11 18.6932 11.1293 18.0866 11.3806C17.48 11.6319 16.9288 12.0002 16.4645 12.4645C16.0002 12.9288 15.6319 13.48 15.3806 14.0866C15.1293 14.6932 15 15.3434 15 16Z" stroke="#FF97D5" stroke-width="2"/>
+<path d="M3.75391 3.75342H9.57992V9.57942H3.75391V3.75342Z" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M30 6.66634C30 4.82539 31.4923 3.33301 33.3333 3.33301C35.1743 3.33301 36.6667 4.82539 36.6667 6.66634C36.6667 8.50729 35.1743 9.99967 33.3333 9.99967C31.4923 9.99967 30 8.50729 30 6.66634Z" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M3.33398 33.3333C3.33398 31.4923 4.82637 30 6.66732 30C8.50827 30 10.0007 31.4923 10.0007 33.3333C10.0007 35.1743 8.50827 36.6667 6.66732 36.6667C4.82637 36.6667 3.33398 35.1743 3.33398 33.3333Z" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M30.417 30.4165H36.2503V36.2498H30.417V30.4165Z" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M13.3337 2.92159C15.4385 2.09992 17.697 1.6665 20.0003 1.6665C22.3037 1.6665 24.5622 2.09992 26.667 2.92159M26.667 37.0782C24.5622 37.8998 22.3037 38.3332 20.0003 38.3332C17.697 38.3332 15.4385 37.8998 13.3337 37.0782M37.0787 13.3332C37.9003 15.438 38.3337 17.6965 38.3337 19.9998C38.3337 22.3032 37.9003 24.5617 37.0787 26.6665M2.92208 26.6665C2.10041 24.5617 1.66699 22.3032 1.66699 19.9998C1.66699 17.6965 2.10041 15.438 2.92208 13.3332" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_348_2806">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg></div><p data-select-normal="" class="heading-sm m__home-feat__item--heading">Access to Guard<br/>Module</p><p class="text-md m__home-feat__item--desc">After KYC, users receive $OM which is stakeable to gain access to the Guard Module, in which dApps stake to deploy and users stake to access dApps.</p></div></div></div></div></div><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6627eee7b297a94244c646b7_side-blob.svg" loading="eager" width="434.5" style="-webkit-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="decor__top-blob"/></section><section id="om-token" class="s omtoken-labels__s"><div class="c omtoken-labels__c"><div class="omtoken-labels__layout"><div class="home-feats__top--w"><div class="home-feats__top-info--w"><h1 class="heading-2xl text-color-white">Get <span data-select-normal="" class="grad-span">$OM</span> Token</h1><div class="omtoken-labels--w"><a href="https://www.binance.com/en/trade/OM_USDT?type=spot" target="_blank" class="btn-wrap w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.00468 7.56379L9.50027 4.06829L12.9977 7.56564L15.0317 5.53163L9.50027 0L3.9707 5.52979L6.00468 7.56379Z" fill="currentColor"/>
+<path d="M4.56812 8.99979L2.53418 6.96582L0.500139 8.99989L2.53408 11.0339L4.56812 8.99979Z" fill="currentColor"/>
+<path d="M6.00473 10.4363L9.50032 13.9318L12.9976 10.4346L15.0327 12.4674L15.0317 12.4686L9.50032 18.0001L3.97062 12.4704L3.96777 12.4676L6.00473 10.4363Z" fill="currentColor"/>
+<path d="M16.466 11.0346L18.5 9.00049L16.4661 6.96652L14.432 9.00059L16.466 11.0346Z" fill="currentColor"/>
+<path d="M11.5627 8.99906H11.5635L9.49954 6.93506L7.97423 8.46038L7.79894 8.63568L7.43741 8.99721L7.43457 9.00006L7.43741 9.00304L9.49954 11.0652L11.5635 9.00119L11.5645 9.00006L11.5627 8.99906Z" fill="currentColor"/>
+</svg></div><div class="text-sm is-button-med">Binance</div><div class="btn-secondary--bg"></div></div></a><a href="https://www.okx.com/trade-spot/om-usdt" target="_blank" class="btn-wrap w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.1029 6H6.90295C6.68205 6 6.50293 6.17904 6.50293 6.39995V11.6C6.50293 11.821 6.68205 12.0001 6.90295 12.0001H12.1029C12.3238 12.0001 12.5029 11.821 12.5029 11.6V6.39995C12.5029 6.17904 12.3238 6 12.1029 6Z" fill="currentColor"/>
+<path d="M6.09998 0H0.900029C0.679122 0 0.5 0.179042 0.5 0.400032V5.60004C0.5 5.82095 0.679122 6.00007 0.900029 6.00007H6.09998C6.32096 6.00007 6.5 5.82095 6.5 5.60004V0.400032C6.5 0.179042 6.32096 0 6.09998 0Z" fill="currentColor"/>
+<path d="M18.1001 0H12.9C12.6791 0 12.5 0.179042 12.5 0.400032V5.60004C12.5 5.82095 12.6791 6.00007 12.9 6.00007H18.1001C18.321 6.00007 18.5 5.82095 18.5 5.60004V0.400032C18.5 0.179042 18.321 0 18.1001 0Z" fill="currentColor"/>
+<path d="M6.09998 12H0.900029C0.679122 12 0.5 12.179 0.5 12.4V17.6C0.5 17.821 0.679122 18.0001 0.900029 18.0001H6.09998C6.32096 18.0001 6.5 17.821 6.5 17.6V12.4C6.5 12.179 6.32096 12 6.09998 12Z" fill="currentColor"/>
+<path d="M18.1001 12H12.9C12.6791 12 12.5 12.179 12.5 12.4V17.6C12.5 17.821 12.6791 18.0001 12.9 18.0001H18.1001C18.321 18.0001 18.5 17.821 18.5 17.6V12.4C18.5 12.179 18.321 12 18.1001 12Z" fill="currentColor"/>
+</svg></div><div class="text-sm is-button-med">OKX</div><div class="btn-secondary--bg"></div></div></a><a href="https://www.gate.io/trade/OM_USDT" target="_blank" class="btn-wrap w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 13.95C6.26616 13.95 4.05 11.7338 4.05 9C4.05 6.26616 6.26616 4.05 9 4.05V0C4.02912 0 0 4.02912 0 9C0 13.9702 4.02912 18 9 18C13.9702 18 18 13.9709 18 9H13.95C13.95 11.7338 11.7338 13.95 9 13.95Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 9.00029H13.95V4.05029H9V9.00029Z" fill="currentColor"/>
+</svg></div><div class="text-sm is-button-med">Gate.io</div><div class="btn-secondary--bg"></div></div></a><a href="https://www.bybit.com/trade/usdt/OMUSDT" target="_blank" class="btn-wrap is-alt w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="33" height="12" viewBox="0 0 33 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_348_4089)">
+<path d="M23.5156 8.97701V0.496582H25.2204V8.97701H23.5156Z" fill="white"/>
+<path d="M3.65292 11.4957H-0.000976562V3.0166H3.50635C5.20983 3.0166 6.20419 3.94625 6.20419 5.39883C6.20419 6.34037 5.56637 6.94649 5.12399 7.14985C5.65088 7.38755 6.32567 7.92368 6.32567 9.05538C6.32567 10.6374 5.20983 11.4957 3.65292 11.4957ZM3.37165 4.49427H1.7025V6.44733H3.37165C4.0953 6.44733 4.5007 6.05382 4.5007 5.47014C4.5007 4.88647 4.0953 4.49427 3.37165 4.49427ZM3.48126 7.93557H1.7025V10.0194H3.47994C4.25377 10.0194 4.62087 9.54265 4.62087 8.97086C4.62087 8.39907 4.25244 7.93557 3.48126 7.93557Z" fill="currentColor"/>
+<path d="M11.5248 8.01744V11.4957H9.8319V8.01744L7.20801 3.0166H9.06071L10.6902 6.43413L12.2973 3.0166H14.1487L11.5248 8.01744Z" fill="currentColor"/>
+<path d="M18.981 11.4957H15.3271V3.0166H18.8345C20.538 3.0166 21.5323 3.94625 21.5323 5.39883C21.5323 6.34037 20.8945 6.94649 20.4521 7.14985C20.979 7.38755 21.6538 7.92368 21.6538 9.05538C21.6538 10.6374 20.5393 11.4957 18.981 11.4957ZM18.6998 4.49427H17.0319V6.44733H18.6998C19.4234 6.44733 19.8288 6.05382 19.8288 5.47014C19.8275 4.88647 19.4221 4.49427 18.6998 4.49427ZM18.8094 7.93557H17.0319V10.0194H18.8094C19.5832 10.0194 19.9503 9.54265 19.9503 8.97086C19.9503 8.39907 19.5819 7.93557 18.8094 7.93557Z" fill="currentColor"/>
+<path d="M30.7158 4.49427V11.497H29.011V4.49427H26.7305V3.0166H32.9964V4.49427H30.7158Z" fill="currentColor"/>
+</g>
+<defs>
+<clipPath id="clip0_348_4089">
+<rect width="33.0132" height="11" fill="white" transform="translate(-0.00683594 0.5)"/>
+</clipPath>
+</defs>
+</svg></div><div class="text-sm is-button-med">Bybit</div><div class="btn-secondary--bg"></div></div></a><a href="https://app.uniswap.org/swap" target="_blank" class="btn-wrap w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.40176 4.09664C6.20754 4.06652 6.19933 4.06297 6.29076 4.04894C6.46592 4.02197 6.87952 4.05871 7.16456 4.12646C7.82995 4.28465 8.43544 4.68984 9.08175 5.40943L9.25346 5.60062L9.49907 5.56113C10.5339 5.39484 11.5866 5.52699 12.4671 5.93374C12.7093 6.04564 13.0912 6.26842 13.1389 6.32567C13.1541 6.34389 13.1821 6.46134 13.2009 6.58664C13.2663 7.02016 13.2336 7.35248 13.101 7.60066C13.0289 7.73573 13.0248 7.77852 13.0734 7.89411C13.1121 7.98637 13.22 8.05462 13.3269 8.05449C13.5458 8.05419 13.7813 7.70046 13.8904 7.2083L13.9337 7.01281L14.0196 7.11006C14.4906 7.64371 14.8606 8.37148 14.9241 8.88951L14.9406 9.02455L14.8615 8.90177C14.7252 8.6905 14.5883 8.54665 14.413 8.43066C14.097 8.22154 13.7629 8.1504 12.8779 8.10376C12.0787 8.06163 11.6264 7.99338 11.1778 7.8471C10.4147 7.59829 10.03 7.26694 9.12354 6.07759C8.72091 5.54936 8.47204 5.25707 8.2245 5.02169C7.662 4.48688 7.10927 4.20639 6.40176 4.09664Z" fill="currentColor"/>
+<path d="M13.319 5.27595C13.3391 4.92199 13.3871 4.68847 13.4836 4.47527C13.5218 4.39086 13.5576 4.32178 13.5631 4.32178C13.5687 4.32178 13.5521 4.38408 13.5262 4.46021C13.4561 4.66716 13.4445 4.95018 13.4929 5.27951C13.5542 5.69733 13.5891 5.7576 14.0307 6.20897C14.2379 6.42068 14.4788 6.68767 14.5661 6.8023L14.7249 7.01075L14.5661 6.86178C14.3719 6.67963 13.9253 6.32437 13.8266 6.27357C13.7605 6.23953 13.7506 6.24009 13.7098 6.28072C13.6722 6.31815 13.6643 6.37437 13.6591 6.64023C13.651 7.05457 13.5945 7.32053 13.4582 7.58646C13.3845 7.73028 13.3728 7.69959 13.4396 7.53725C13.4894 7.41604 13.4944 7.36275 13.4941 6.96161C13.4933 6.15572 13.3976 5.96196 12.8365 5.63004C12.6943 5.54597 12.4601 5.42469 12.3161 5.36056C12.1719 5.29643 12.0575 5.24054 12.0616 5.23639C12.0775 5.22056 12.6247 5.38027 12.845 5.46498C13.1726 5.59101 13.2267 5.60734 13.2665 5.59214C13.2931 5.58197 13.306 5.50428 13.319 5.27595Z" fill="currentColor"/>
+<path d="M6.77915 6.65484C6.38483 6.11198 6.14088 5.27962 6.19367 4.6574L6.21003 4.46484L6.29976 4.48123C6.46834 4.51199 6.75894 4.62017 6.89504 4.70281C7.26848 4.92961 7.43015 5.22822 7.59464 5.99502C7.64281 6.21959 7.70601 6.47375 7.7351 6.55982C7.78194 6.69832 7.95887 7.02183 8.10272 7.23194C8.20635 7.38324 8.13753 7.45495 7.90847 7.43427C7.55867 7.40269 7.08483 7.07569 6.77915 6.65484Z" fill="currentColor"/>
+<path d="M12.8414 10.695C10.9986 9.95308 10.3496 9.30906 10.3496 8.2224C10.3496 8.06249 10.3551 7.93164 10.3618 7.93164C10.3685 7.93164 10.4398 7.98443 10.5203 8.04893C10.8939 8.34864 11.3124 8.47666 12.4708 8.64565C13.1524 8.74512 13.5361 8.82544 13.8899 8.94279C15.0146 9.3158 15.7105 10.0728 15.8765 11.1039C15.9247 11.4035 15.8964 11.9653 15.8182 12.2614C15.7565 12.4953 15.5682 12.9168 15.5182 12.933C15.5043 12.9375 15.4908 12.8844 15.4872 12.8122C15.4683 12.425 15.2726 12.0481 14.9441 11.7657C14.5705 11.4447 14.0686 11.1891 12.8414 10.695Z" fill="currentColor"/>
+<path d="M11.5474 11.0036C11.5243 10.8663 11.4842 10.6908 11.4584 10.6137L11.4114 10.4736L11.4987 10.5717C11.6195 10.7073 11.7151 10.8809 11.796 11.1121C11.8578 11.2886 11.8647 11.341 11.8643 11.6278C11.8638 11.9093 11.8561 11.9683 11.799 12.1271C11.7091 12.3776 11.5974 12.5552 11.4101 12.7458C11.0735 13.0884 10.6407 13.2781 10.0162 13.3568C9.90764 13.3705 9.59125 13.3935 9.31309 13.408C8.61205 13.4444 8.15068 13.5197 7.73612 13.6653C7.67651 13.6863 7.62329 13.699 7.6179 13.6936C7.60111 13.6769 7.88339 13.5086 8.11654 13.3963C8.44526 13.2379 8.77249 13.1515 9.50571 13.0294C9.86791 12.9691 10.2419 12.8959 10.3369 12.8668C11.2339 12.5918 11.6949 11.8821 11.5474 11.0036Z" fill="currentColor"/>
+<path d="M12.3922 12.5038C12.1474 11.9775 12.0911 11.4694 12.2252 10.9954C12.2396 10.9448 12.2627 10.9033 12.2766 10.9033C12.2904 10.9033 12.3482 10.9346 12.4049 10.9727C12.5178 11.0487 12.744 11.1766 13.3469 11.5053C14.0992 11.9154 14.528 12.233 14.8197 12.5959C15.0752 12.9137 15.2332 13.2756 15.3093 13.7169C15.3524 13.9669 15.3272 14.5684 15.263 14.8201C15.0608 15.6139 14.5907 16.2373 13.9202 16.6011C13.822 16.6544 13.7338 16.6982 13.7243 16.6984C13.7147 16.6986 13.7505 16.6076 13.8038 16.4961C14.0293 16.0246 14.055 15.566 13.8845 15.0555C13.7801 14.743 13.5672 14.3616 13.1374 13.717C12.6376 12.9676 12.5151 12.7681 12.3922 12.5038Z" fill="currentColor"/>
+<path d="M5.47019 15.3432C6.15404 14.7658 7.00487 14.3557 7.77994 14.2298C8.11395 14.1755 8.67037 14.197 8.97968 14.2762C9.47549 14.4031 9.91897 14.6872 10.1496 15.0258C10.3751 15.3568 10.4718 15.6451 10.5725 16.2868C10.6122 16.5399 10.6554 16.794 10.6684 16.8516C10.744 17.1841 10.8912 17.4499 11.0735 17.5834C11.3632 17.7953 11.8619 17.8085 12.3524 17.6172C12.4357 17.5847 12.508 17.5622 12.5131 17.5673C12.5309 17.585 12.2838 17.7504 12.1095 17.8374C11.8751 17.9545 11.6886 17.9998 11.4408 17.9998C10.9915 17.9998 10.6185 17.7712 10.3072 17.3052C10.246 17.2134 10.1083 16.9387 10.0013 16.6947C9.67263 15.9451 9.51033 15.7167 9.12875 15.4668C8.79666 15.2493 8.36841 15.2104 8.04623 15.3684C7.62302 15.5759 7.50494 16.1167 7.80806 16.4595C7.92851 16.5957 8.15318 16.7132 8.33689 16.736C8.68054 16.7788 8.97589 16.5173 8.97589 16.1703C8.97589 15.945 8.88928 15.8165 8.6713 15.7181C8.37356 15.5838 8.05354 15.7408 8.05507 16.0205C8.05574 16.1398 8.10767 16.2147 8.22722 16.2687C8.30391 16.3035 8.30571 16.3062 8.24314 16.2932C7.96997 16.2366 7.90597 15.9072 8.12562 15.6886C8.38932 15.4261 8.93463 15.5419 9.1219 15.9002C9.20056 16.0507 9.2097 16.3504 9.14111 16.5314C8.98759 16.9364 8.54001 17.1494 8.08596 17.0335C7.77685 16.9546 7.65098 16.8692 7.27828 16.4852C6.63063 15.8181 6.3792 15.6888 5.44552 15.5431L5.2666 15.5151L5.47019 15.3432Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.587079 0.399046C2.74991 3.02411 6.08433 7.11118 6.24989 7.34001C6.38656 7.52894 6.33513 7.69879 6.10099 7.83191C5.97077 7.90594 5.70305 7.98095 5.569 7.98095C5.41741 7.98095 5.24663 7.90794 5.12226 7.78995C5.03433 7.70657 4.67954 7.17678 3.86049 5.90588C3.23379 4.93346 2.70932 4.12676 2.69502 4.11326C2.66195 4.08201 2.66251 4.08308 3.79659 6.11227C4.50869 7.38646 4.74909 7.83693 4.74909 7.89717C4.74909 8.01971 4.71568 8.08411 4.56451 8.25273C4.31252 8.53385 4.19988 8.84971 4.11857 9.50344C4.02738 10.2363 3.77106 10.7539 3.06068 11.6399C2.64486 12.1585 2.57681 12.2536 2.47189 12.4626C2.3397 12.7258 2.30337 12.8732 2.28864 13.2056C2.27308 13.5571 2.3034 13.7841 2.41078 14.1201C2.50476 14.4143 2.60287 14.6085 2.8537 14.997C3.07016 15.3323 3.19483 15.5815 3.19483 15.6789C3.19483 15.7565 3.20962 15.7566 3.54506 15.6808C4.34775 15.4995 4.99959 15.1807 5.36618 14.79C5.59304 14.5482 5.6463 14.4147 5.64803 14.0833C5.64916 13.8665 5.64154 13.8211 5.58296 13.6964C5.48759 13.4935 5.31395 13.3247 4.93123 13.0631C4.4298 12.7203 4.21564 12.4443 4.15646 12.0648C4.10793 11.7534 4.16424 11.5337 4.44164 10.9523C4.72877 10.3505 4.79992 10.094 4.84806 9.48745C4.87914 9.09552 4.92219 8.94097 5.03479 8.81693C5.15221 8.68754 5.25793 8.64375 5.54856 8.60403C6.02236 8.5393 6.32406 8.41672 6.57206 8.1882C6.78719 7.98995 6.87722 7.79893 6.89105 7.51136L6.90152 7.2934L6.78131 7.15324C6.34593 6.64559 0.295516 0 0.26872 0C0.262999 0 0.406264 0.179583 0.587079 0.399046ZM3.43921 13.6033C3.53765 13.429 3.48535 13.2048 3.32069 13.0954C3.16511 12.9919 2.92342 13.0406 2.92342 13.1754C2.92342 13.2166 2.94619 13.2465 2.99745 13.2729C3.08376 13.3173 3.09004 13.3673 3.02212 13.4694C2.95334 13.5728 2.95889 13.6636 3.03778 13.7254C3.16494 13.825 3.34493 13.7702 3.43921 13.6033Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.20086 8.71854C6.97845 8.78686 6.76223 9.0226 6.69527 9.26981C6.65445 9.42061 6.67762 9.68514 6.73879 9.76683C6.8376 9.89878 6.93314 9.93355 7.19189 9.93172C7.6984 9.9282 8.13876 9.71094 8.18996 9.43933C8.23195 9.21672 8.03853 8.90817 7.77214 8.77273C7.63467 8.70285 7.34232 8.67512 7.20086 8.71854ZM7.79302 9.18158C7.87114 9.07061 7.83697 8.95062 7.70412 8.86951C7.45113 8.71502 7.06851 8.84284 7.06851 9.08188C7.06851 9.20086 7.26802 9.33065 7.45093 9.33065C7.57264 9.33065 7.73923 9.25808 7.79302 9.18158Z" fill="currentColor"/>
+</svg></div><div class="text-sm is-button-med">Uniswap</div><div class="btn-secondary--bg"></div></div></a><a href="https://pancakeswap.finance/swap" target="_blank" class="btn-wrap w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.29023 2.8125C3.00898 1.35 4.13399 0 5.59649 0C6.89023 0 7.95899 1.06875 7.95899 2.3625V5.2875C8.29648 5.2875 8.63399 5.23125 8.97149 5.23125C9.30899 5.23125 9.59024 5.23125 9.92774 5.2875V2.3625C9.92774 1.06875 10.9965 0 12.2902 0C13.7527 0 14.8777 1.35 14.6527 2.8125L14.034 6.24375C16.2277 7.2 17.9152 8.8875 17.9152 10.9688V12.2625C17.9152 14.0062 16.7902 15.4688 15.159 16.425C13.5277 17.4375 11.3902 18 8.97149 18C6.55273 18 4.41524 17.4375 2.78398 16.425C1.20898 15.4688 0.0839844 14.0062 0.0839844 12.2625V10.9688C0.0839844 8.8875 1.71523 7.2 3.90898 6.24375L3.29023 2.8125ZM13.1902 6.69375L13.9215 2.64375C14.0902 1.63125 13.359 0.675 12.2902 0.675C11.3902 0.675 10.659 1.40625 10.659 2.30625V6.01875C10.434 5.9625 10.1527 5.9625 9.92774 5.9625C9.59024 5.9625 9.30899 5.90625 8.97149 5.90625C8.63399 5.90625 8.29648 5.90625 7.95899 5.9625C7.73398 5.9625 7.45273 6.01875 7.22774 6.01875V2.3625C7.22774 1.4625 6.49649 0.73125 5.59649 0.73125C4.58398 0.73125 3.79648 1.6875 4.02148 2.7L4.75274 6.75C2.39023 7.65 0.815234 9.225 0.815234 11.025V12.3187C0.815234 15.075 4.47149 17.325 8.97149 17.325C13.4715 17.325 17.1277 15.075 17.1277 12.3187V11.025C17.184 9.16875 15.609 7.59375 13.1902 6.69375Z" fill="currentColor"/>
+<path d="M14.0687 2.72636L14.0687 2.72636L14.0691 2.72437C14.2524 1.62408 13.3987 0.580957 12.2898 0.580957C11.307 0.580957 10.5086 1.37936 10.5086 2.36221V5.90901C10.0008 5.8587 9.48646 5.81221 8.9711 5.81221C8.40508 5.81221 7.88603 5.85867 7.37735 5.90901V2.36221C7.37735 1.37936 6.57894 0.580957 5.59609 0.580957C4.48937 0.580957 3.62965 1.62377 3.87422 2.73026L4.63741 6.65521C2.31851 7.57062 0.721094 9.16109 0.721094 11.0247C0.721094 12.4747 1.68212 13.7671 3.18321 14.6892C4.68692 15.6129 6.75409 16.181 9.02734 16.181C11.3006 16.181 13.3678 15.6129 14.8715 14.6892C16.3726 13.7671 17.3336 12.4747 17.3336 11.0247C17.3336 9.15885 15.6784 7.56885 13.3594 6.65457L14.0687 2.72636Z" stroke="currentColor" stroke-width="0.3"/>
+<path d="M6.72187 10.6312C6.72187 11.3625 6.32812 11.9812 5.82187 11.9812C5.31562 11.9812 4.92188 11.3625 4.92188 10.6312C4.92188 9.9 5.31562 9.28125 5.82187 9.28125C6.32812 9.28125 6.72187 9.9 6.72187 10.6312Z" fill="currentColor"/>
+<path d="M12.966 10.6312C12.966 11.3625 12.5723 11.9812 12.066 11.9812C11.5598 11.9812 11.166 11.3625 11.166 10.6312C11.166 9.9 11.5598 9.28125 12.066 9.28125C12.5723 9.28125 12.966 9.9 12.966 10.6312Z" fill="currentColor"/>
+</svg></div><div class="text-sm is-button-med">Pancakeswap</div><div class="btn-secondary--bg"></div></div></a><a href="https://quickswap.exchange/#/swap" target="_blank" class="btn-wrap w-inline-block"><div class="btn-inner is--secondary-alt"><div class="token-logo w-embed"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.53822 9.09264C9.54079 9.09386 9.54335 9.09508 9.54567 9.09679C9.55238 9.10118 9.55812 9.10704 9.563 9.11339L9.56923 9.12193C9.55776 9.11266 9.54762 9.10289 9.53822 9.09264Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.48427 0.0154893C12.918 -0.243544 16.8693 2.77233 17.7977 7.11217C18.0496 8.29991 18.064 9.53771 17.8266 10.7325C17.2435 13.6835 15.2282 16.1449 12.4572 17.3109C10.5643 18.1026 8.40517 18.2179 6.4402 17.6276C3.74843 16.8287 1.58205 14.8133 0.581559 12.1864C-0.138167 10.3006 -0.188582 8.17735 0.423234 6.26305C1.55324 2.71471 4.7632 0.231554 8.47707 0.0154893H8.48427ZM13.283 15.0455C13.283 15.0377 13.2836 15.0304 13.2848 15.0233C13.3826 14.9393 13.4664 14.8453 13.543 14.7447C13.6093 14.6573 13.6699 14.5651 13.7291 14.4698C14.3842 13.4549 14.5569 12.3392 14.3338 11.1588C14.0747 9.77696 13.3766 8.66149 12.2538 7.81212C11.1742 6.99156 9.92897 6.66783 8.59023 6.68932H8.30238V6.71813C8.57594 6.84044 8.81337 7.00597 9.04372 7.17882C9.11574 7.17149 9.18044 7.1859 9.24526 7.19322C9.61232 7.22911 9.97218 7.30113 10.3248 7.41637C10.987 7.62511 11.5988 7.95616 12.1314 8.39513C12.177 8.43224 12.2222 8.47032 12.2667 8.50914L12.3225 8.55821L12.3543 8.58678C12.4243 8.6505 12.4929 8.71593 12.5598 8.78331C12.7403 8.96495 12.9082 9.1588 13.0598 9.35948C13.3118 9.69786 13.5277 10.0648 13.6933 10.4537C13.9236 10.9791 14.0747 11.5333 14.1107 12.1019C14.1161 12.1937 14.1201 12.286 14.1221 12.3785C14.1242 12.4823 14.1236 12.5863 14.1193 12.6908C14.1121 12.8658 14.0941 13.0416 14.0603 13.2174C13.9452 13.8219 13.7363 14.3761 13.3838 14.8729C13.3733 14.8868 13.3618 14.9 13.3506 14.913C13.3208 14.9474 13.2923 14.9801 13.2848 15.0233L13.2758 15.0311L13.283 15.0455ZM9.33766 7.8961C9.29884 7.84752 9.25856 7.8004 9.21669 7.75475L9.20717 7.75157C9.1902 7.74547 9.17592 7.74034 9.15151 7.74034C9.00575 7.70787 8.86 7.67858 8.71376 7.65294C8.47023 7.61046 8.22572 7.57848 7.97841 7.56041C7.20827 7.50279 6.44533 7.55309 5.69679 7.77623C5.1498 7.93468 4.65321 8.20812 4.19252 8.53209C4.21413 8.55358 4.22133 8.53209 4.23573 8.52477C4.26113 8.50792 4.287 8.49132 4.31313 8.47521C4.34731 8.45397 4.3821 8.4337 4.41725 8.41417C4.5154 8.35924 4.61696 8.30992 4.71828 8.26573C4.959 8.15831 5.20412 8.07457 5.45363 8.0111C5.75624 7.93395 6.06532 7.88634 6.38088 7.86266C6.43312 7.85826 6.48537 7.8546 6.53761 7.85191L6.60207 7.84923L6.66799 7.84703C6.71498 7.84581 6.76198 7.84532 6.80898 7.84557C6.91811 7.84581 7.02736 7.84923 7.13661 7.85533C7.24269 7.8607 7.34877 7.8673 7.45448 7.87608C7.62843 7.89024 7.80141 7.91051 7.97145 7.94176C8.51845 8.04259 9.05824 8.18663 9.57643 8.38097C9.5818 8.38268 9.58717 8.38536 9.59255 8.38805L9.59511 8.38951C9.61049 8.39757 9.62587 8.40563 9.64125 8.39537C9.65456 8.38194 9.64882 8.36876 9.64064 8.35533L9.63698 8.34947L9.63258 8.34215C9.63027 8.33824 9.62819 8.33434 9.62685 8.33043C9.56056 8.21031 9.48708 8.09483 9.40651 7.9857C9.38405 7.95543 9.3611 7.9254 9.33766 7.8961ZM12.2538 2.42125L12.2537 2.41417C12.2537 2.37828 12.2609 2.34947 12.2681 2.32067C12.362 1.98448 12.4253 1.63805 12.4581 1.29064C12.4732 1.13243 12.4818 0.973985 12.484 0.816271V0.809191L12.4839 0.804064L12.4833 0.799669C12.4824 0.796739 12.4806 0.794786 12.4768 0.794786C12.412 0.816271 12.4264 0.881212 12.412 0.924425C12.1889 1.63683 11.8219 2.29186 11.3396 2.86046C11.3425 2.88097 11.349 2.88951 11.3577 2.89244L11.3635 2.89366C11.3674 2.89391 11.3716 2.89366 11.376 2.89293L11.3843 2.89147L11.3869 2.89073C11.3925 2.89 11.3985 2.88927 11.4044 2.88927C11.4558 2.88048 11.5061 2.8629 11.558 2.84459L11.5819 2.83629C11.6167 2.82433 11.6525 2.81261 11.6898 2.80382L11.7144 2.79845C11.7271 2.79601 11.74 2.79405 11.7532 2.79234C11.7731 2.7899 11.7936 2.78844 11.8147 2.78844C11.7571 2.86046 11.7067 2.92516 11.6635 2.98277C11.1525 3.64488 10.5335 4.15587 9.74904 4.46544C9.71303 4.47984 9.67702 4.51573 9.66982 4.55895C9.60964 4.7567 9.52895 4.94151 9.42006 5.10899C9.34657 5.22203 9.26027 5.32701 9.15883 5.42272L9.15053 5.43004C9.14382 5.43541 9.13759 5.44054 9.13576 5.44786C9.13417 5.45421 9.13612 5.46202 9.14443 5.47301C9.15285 5.47301 9.16127 5.47057 9.16823 5.46861C9.17323 5.46715 9.17751 5.46593 9.18044 5.46593C9.40505 5.37901 9.62404 5.27916 9.83669 5.16857C10.0468 5.05943 10.2505 4.93956 10.4472 4.8109C10.4866 4.78453 10.525 4.75548 10.5635 4.72618C10.6281 4.67735 10.693 4.62804 10.7631 4.59166L10.7639 4.60216C10.7919 4.61461 10.8225 4.62023 10.8541 4.6234C10.8743 4.62535 10.8948 4.62608 10.9153 4.62682C10.9372 4.62779 10.9589 4.62877 10.9799 4.63097C11.8004 4.73155 12.5849 4.9691 13.3262 5.33629C13.8588 5.588 14.3554 5.90489 14.8161 6.27916C14.9932 6.42003 15.1659 6.56554 15.33 6.71959C15.5259 6.90367 15.7096 7.09996 15.874 7.31554L15.8742 7.32726L15.8748 7.33531C15.8756 7.34191 15.8775 7.34776 15.8812 7.35143C15.8668 7.35143 15.8596 7.34435 15.8524 7.33702C15.8292 7.31847 15.806 7.30284 15.7829 7.29039C15.789 7.28868 15.7925 7.28697 15.7936 7.28429C15.7958 7.27892 15.7886 7.26988 15.7733 7.25084C15.6137 7.12169 15.4502 6.99718 15.2829 6.87804C14.9373 6.6317 14.5753 6.40831 14.197 6.21446C14.1613 6.19444 14.1256 6.17467 14.09 6.15611C14.0609 6.14098 14.0319 6.12657 14.0028 6.11363L13.9845 6.10314C13.9735 6.09654 13.9627 6.08995 13.9525 6.08775C13.942 6.08531 13.9323 6.08775 13.9236 6.09923C13.9041 6.11876 13.9143 6.13487 13.9252 6.15221L13.9267 6.15441C13.9314 6.16197 13.9359 6.16979 13.938 6.17833C13.9465 6.19542 13.9557 6.21227 13.9652 6.22887C13.9967 6.28307 14.0322 6.33556 14.0629 6.39513C14.0723 6.41344 14.0813 6.43224 14.0896 6.45201L14.1035 6.4879C14.0105 6.43981 13.9173 6.39391 13.8234 6.35045C13.7534 6.31798 13.6831 6.28697 13.6124 6.25743C13.5558 6.23351 13.4989 6.21056 13.4417 6.18858L13.3533 6.15538L13.2482 6.11778C13.1918 6.09825 13.135 6.07945 13.078 6.06163C13.0383 6.04942 12.9986 6.03746 12.9586 6.02623L12.8584 5.9984C12.5242 5.90441 12.0802 5.82555 11.7874 5.80333C11.6765 5.79479 11.5874 5.7943 11.5341 5.80406C11.5414 5.80773 11.5487 5.80968 11.556 5.81163L11.5689 5.81505L11.5773 5.81847C12.2322 5.92638 12.8584 6.14952 13.427 6.48058C13.5465 6.54747 13.6597 6.62096 13.7728 6.6942L13.7813 6.69933L13.7893 6.70445L13.797 6.70958C13.8462 6.74156 13.8953 6.77355 13.9452 6.80455H13.9533L13.9452 6.81163C14.2835 7.07799 14.6001 7.35875 14.8808 7.68981C15.075 7.91564 15.2493 8.15831 15.4037 8.41466C15.429 8.45641 15.4538 8.49864 15.4779 8.54112C15.5108 8.59899 15.5426 8.65734 15.5735 8.71642C15.6027 8.77184 15.6309 8.82775 15.6582 8.88439C15.9747 9.54674 16.1548 10.2591 16.1908 10.9933L16.198 11.0077C16.2052 11.0221 16.2123 11.0365 16.2267 11.0294C16.8601 8.58214 16.2195 5.98399 14.521 4.11266C13.8804 3.40733 13.1102 2.83141 12.2538 2.42125ZM8.30959 4.71739L8.35304 4.69591L8.44093 4.65367C8.60194 4.57677 8.76405 4.49938 8.89967 4.38634C8.90761 4.38634 8.91383 4.38732 8.91847 4.38927C8.92677 4.39269 8.93031 4.39855 8.93019 4.40587C8.93019 4.40978 8.92922 4.41417 8.92738 4.41857L8.92128 4.42955C8.75575 5.10607 8.24477 5.55235 7.55385 5.61705L7.54335 5.61778C7.4811 5.62438 7.4203 5.63097 7.35951 5.63439C7.29054 5.63854 7.22157 5.63902 7.15077 5.63146C7.12953 5.57042 7.12758 5.51354 7.13832 5.45983C7.14528 5.42491 7.15761 5.39171 7.17348 5.35948C7.19118 5.32384 7.21327 5.28966 7.23732 5.25694C7.28835 5.19127 7.34865 5.13854 7.41457 5.0941C7.47865 5.05089 7.54787 5.01549 7.61879 4.98351C7.70558 4.9442 7.79347 4.90709 7.88197 4.87193C8.01796 4.81774 8.15541 4.76769 8.29311 4.72032L8.30238 4.71031L8.30959 4.71739ZM4.79592 7.30675C4.79762 7.3026 4.79897 7.29845 4.79958 7.29381C4.80055 7.28722 4.80007 7.28014 4.79738 7.27233L4.79018 7.265C4.80458 7.24352 4.80458 7.22179 4.80458 7.2003C4.82619 7.03478 4.73976 6.95567 4.57424 6.99156C4.53114 7.00597 4.49513 7.02037 4.46633 7.04186C4.32961 7.14269 4.21437 7.25792 4.16408 7.42345L4.15688 7.41612V7.40904C4.14406 7.43028 4.13637 7.45177 4.13063 7.47911C4.12673 7.49791 4.1238 7.5194 4.12087 7.54576L4.16408 7.49547L4.1642 7.4901C4.19045 7.47008 4.21633 7.44982 4.23598 7.42345C4.3224 7.32994 4.43752 7.265 4.55983 7.23619C4.68227 7.21471 4.73976 7.25792 4.76857 7.37291C4.76515 7.35631 4.77419 7.34288 4.78322 7.32872L4.78578 7.32506L4.78981 7.31847L4.79592 7.30675ZM10.7382 11.3658L10.7711 11.3387H10.7567C10.7783 11.1876 10.7783 11.0292 10.7639 10.878C10.7423 10.6117 10.6704 10.3456 10.5552 10.108C10.3176 9.61852 9.92909 9.28014 9.4684 9.01402L9.46425 9.01183C9.45863 9.0089 9.45229 9.00548 9.44582 9.00377C9.44167 9.00255 9.43752 9.00206 9.43349 9.00279C9.19338 8.85973 8.93459 8.77233 8.66945 8.69762C8.32399 8.59679 7.98573 8.50304 7.63307 8.48155C7.20119 8.45275 6.76943 8.47447 6.34474 8.58238L6.33669 8.58458C6.13686 8.63414 5.90358 8.69249 5.75453 8.84874C5.66713 8.94127 5.64955 9.06334 5.67287 9.1859C5.68215 9.23473 5.69801 9.2838 5.71852 9.33092C5.74123 9.3839 5.75197 9.41881 5.76759 9.45177C5.78163 9.48131 5.79958 9.50914 5.83376 9.54674C5.75978 9.53697 5.69179 9.53136 5.62587 9.52574C5.49941 9.51525 5.38075 9.50548 5.24355 9.46764C4.78285 9.34532 4.3943 9.10777 4.09914 8.72618C4.08473 8.7047 4.06313 8.68321 4.03444 8.67589C3.92641 8.74059 3.8329 8.83434 3.73207 8.91344C3.67445 8.95665 3.64577 8.97814 3.62416 8.87731C3.38661 7.78331 3.58095 6.76134 4.50942 6.09923C4.53591 6.07872 4.5602 6.05602 4.58412 6.03356C4.6443 5.97691 4.70241 5.92247 4.79006 5.91222V5.9193L4.78029 5.96178C4.73232 6.17052 4.64504 6.54942 4.9269 6.60314C5.35146 6.78307 6.1144 6.08483 6.31593 5.86168C6.36635 5.79698 6.49587 6.12071 6.97817 5.96959C6.5967 5.869 6.38796 5.73229 6.38796 5.34361H6.38075L6.38796 5.33629L6.38075 5.32189C6.36537 4.71202 7.13088 4.41588 7.78346 4.16368C8.04738 4.06163 8.29286 3.96666 8.46071 3.86095C9.03652 3.50109 9.49721 2.86046 9.49721 2.81725C9.68434 3.22032 9.72035 3.14122 9.82826 3.70983C10.5408 3.23473 11.4549 2.41417 11.6204 2.11192C10.5552 1.73766 9.4756 1.59361 8.3528 1.69444C7.64748 1.75914 6.94936 1.92467 6.28713 2.19103C4.08473 3.0692 2.42214 4.93321 1.80324 7.22203C1.6664 7.72594 1.5873 8.25133 1.55849 8.77672C1.54408 9.05724 1.5298 9.01402 1.5298 9.13634C1.58022 9.38121 1.96877 10.0939 2.18471 10.4464C2.65248 11.1879 3.23549 11.8285 3.98403 12.2963C4.88368 12.8575 5.86977 13.088 6.92775 12.9728C7.51796 12.9081 8.09364 12.7279 8.61195 12.4401C9.12294 12.1593 9.54762 11.7779 9.84267 11.267C10.0082 10.9791 10.0946 10.6695 10.0874 10.3458C10.0802 9.87071 9.89308 9.46739 9.56923 9.12193C9.61037 9.16564 9.65346 9.20665 9.69631 9.24742C9.77333 9.32091 9.84987 9.39391 9.91469 9.4818C10.3032 10.0287 10.4473 10.6334 10.296 11.3028C10.26 11.4681 10.2025 11.6195 10.1306 11.7706C10.374 11.6625 10.5538 11.5162 10.736 11.368L10.7382 11.3658ZM6.65431 15.7579C7.28053 15.7867 7.90675 15.6859 8.49696 15.4701C9.06557 15.2613 9.59816 14.9664 10.0731 14.5848C10.5338 14.2106 10.9368 13.7787 11.2031 13.2389C11.3471 12.951 11.4335 12.6344 11.4622 12.3175C11.491 12.0296 11.4406 11.7562 11.3615 11.4828C11.3666 11.4369 11.4005 11.4054 11.4326 11.3756C11.4459 11.3634 11.4589 11.3514 11.4694 11.3387C11.5318 11.2567 11.5867 11.1715 11.6321 11.0814C11.6862 10.974 11.7267 10.8595 11.7501 10.7342C11.7573 10.7054 11.7645 10.6766 11.7789 10.6478C11.8653 10.8207 11.9373 11.0006 11.9805 11.1876C12.0227 11.3614 12.0558 11.5353 12.0676 11.711C12.0722 11.7782 12.0736 11.8456 12.0713 11.9134C12.0705 11.9401 12.069 11.9669 12.0668 11.9938C12.0308 12.4615 11.8869 12.9222 11.6566 13.3324C11.5427 13.5326 11.414 13.7179 11.2726 13.8915C11.1193 14.0799 10.9512 14.2545 10.7713 14.4193C10.4618 14.6927 10.1236 14.9303 9.76369 15.1246C9.3246 15.3622 8.85683 15.5421 8.37453 15.6573C8.25429 15.6859 8.13295 15.7098 8.011 15.7298C7.82619 15.7599 7.63979 15.7809 7.45326 15.7941C7.30214 15.8011 7.15102 15.8155 7.0071 15.8082C6.97975 15.8065 6.95155 15.8055 6.92275 15.8046C6.83779 15.8019 6.7477 15.7992 6.66164 15.7723L6.65431 15.7579Z" fill="currentColor"/>
+</svg></div><div class="text-sm is-button-med">Quickswap</div><div class="btn-secondary--bg"></div></div></a></div></div><div class="omtoken-lot__img--w"><div class="home-feats__lottie" data-w-id="37bfc4dc-494c-4d4a-4342-f6e7004818b6" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6641c2f548d986fbedf81097_Mantra_particles_update2.lottie" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-duration="0"></div><div class="lottie-grads"></div></div></div></div></div></section><section class="s get-started__s"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6627eee7b297a94244c646b7_side-blob.svg" loading="eager" width="434.5" style="-webkit-transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="decor__side-blob"/><div class="c get-started__c"><div class="get-started__layout"><div class="omtoken_prefooter__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665409fdd07978fc221f38a5_OMToken%201%20(1)%20(1).png" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665409fdd07978fc221f38a5_OMToken%201%20(1)%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665409fdd07978fc221f38a5_OMToken%201%20(1)%20(1)-p-800.png 800w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665409fdd07978fc221f38a5_OMToken%201%20(1)%20(1).png 914w" alt=""/></div></div></div></section><section class="s footer__s"><div class="c footer__c"><div class="footer__layout"><div class="footer__subs--w"><a href="/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/662a42d26a0892bfdcb319e1_footer_white-logo.svg" loading="lazy" alt="Mantra logo" class="footer__logo"/></a><div class="contact__form-block is--footer w-form"><form id="wf-form-Newsletter-Form" name="wf-form-Newsletter-Form" data-name="Newsletter Form" method="post" data-klaviyo-list-id="SYjaQT" class="contact__form klaviyo-form" data-wf-page-id="6633a3ec4614dd1332585a1b" data-wf-element-id="2a4e9e33-8176-a638-42f1-a3160a4e5305"><p class="heading-sm m__footer-col-heading">Sign up to our weekly newsletter</p><div class="contact-form__row"><div class="contact-form__item"><div class="contact-form__input--wrap"><input class="contact__form-field w-input" maxlength="256" name="Email-Address" wr-type="required-field" data-name="Email Address" placeholder="Email Address" type="email" id="Email-Address-3" required=""/><p wr-type="error" class="text-md is--error">This field is required.</p></div></div></div><div data-w-id="2a4e9e33-8176-a638-42f1-a3160a4e5334" class="btn-wrap"><input type="submit" data-wait="Please wait..." wr-type="submit" class="submit-button w-button" value="Subscribe"/><div data-w-id="8e71255e-1665-6c80-f41c-9bff8a30cbfe" class="btn-inner is--primary"><div class="text-sm is-button-med">Subscribe</div><div class="btn-primary--bg"></div></div></div><div class="contact-form__row"><div class="contact-form__item"><div data-theme="dark" data-sitekey="6LfHBeApAAAAALOOkokUIOfIfuRSPLyyjNIhUVTb" class="w-form-formrecaptcha recaptcha g-recaptcha g-recaptcha-error g-recaptcha-disabled"></div></div></div></form><div class="success--w custom-success w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="error--w custom-error w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div><div class="footer__links--w"><div class="footer__links--col"><p class="heading-sm m__footer-col-heading">Community</p><div class="footer__col-list is-socials weglot-exclude"><a href="https://discord.gg/gfks4TwAJV" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_3167)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.3987 4.82438C9.99063 4.05047 9.10222 3.60219 8.20345 3.81939C7.32516 4.03164 6.45838 4.30745 5.61001 4.6468L5.61 4.64681L4.68898 5.01521C4.08534 5.25666 3.63673 5.77646 3.48614 6.40892L1.11302 16.376C0.881001 17.3505 1.40571 18.3463 2.34068 18.7059L7.51311 20.6953C8.60946 21.117 9.83142 20.5075 10.1541 19.3781L10.7249 17.3803H14.6079L15.1787 19.378C15.5014 20.5075 16.7234 21.117 17.8197 20.6953L22.9922 18.7059C23.9271 18.3463 24.4518 17.3505 24.2198 16.376L21.8467 6.40893C21.6961 5.77646 21.2475 5.25666 20.6439 5.01521L19.7228 4.64681L19.7228 4.6468C18.8745 4.30745 18.0077 4.03164 17.1294 3.81939C16.2306 3.6022 15.3422 4.05047 14.9341 4.82439L14.5632 5.52785L10.7696 5.52785L10.3987 4.82438ZM16.6879 17.3803L17.1018 18.8286L22.2742 16.8392L19.9011 6.87217L18.98 6.50376L18.98 6.50375C18.2325 6.20471 17.469 5.96084 16.6954 5.77213L16.3323 6.46069C15.9862 7.11705 15.3052 7.52785 14.5632 7.52785H10.7696C10.0276 7.52785 9.3466 7.11705 9.00051 6.46069L8.63744 5.77213C7.8639 5.96084 7.1004 6.20471 6.35278 6.50376L6.35278 6.50376L5.43175 6.87217L3.05864 16.8392L8.23107 18.8286L8.64489 17.3803H7.27482V15.3803H10.7221C10.7231 15.3803 10.724 15.3803 10.7249 15.3803H14.6079C14.6088 15.3803 14.6098 15.3803 14.6107 15.3803H18.058V17.3803H16.6879Z" fill="currentColor" fill-opacity="0.7"/>
+<path d="M8.6665 10.0278V13.0278" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M16.6665 10.0278V13.0278" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_337_3167">
+<rect width="100%" height="100%" fill="currentColor" transform="translate(0.666504 0.527832)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Discord</p></a><a href="https://twitter.com/MANTRA_Chain" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.7143 10.6522L22.7282 1.33667H20.8291L13.8707 9.42519L8.31298 1.33667H1.90283L10.3072 13.5679L1.90283 23.3367H3.80197L11.1503 14.7949L17.0196 23.3367H23.4298L14.7138 10.6522H14.7143ZM12.1132 13.6757L11.2616 12.4577L4.48626 2.76632H7.40324L12.871 10.5876L13.7226 11.8056L20.83 21.972H17.9131L12.1132 13.6762V13.6757Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><p class="text-md m__footer-col-item--text">X</p></a><a href="https://t.me/MANTRA_Chain" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_558_26918)">
+<path d="M23.0265 1.97668L2.86646 9.05153L10.6665 14.3367L15.9443 22.1367L23.0265 1.97668Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M10.6665 14.3367L15.6665 9.33667" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_558_26918">
+<rect width="24" height="24" fill="currentColor" transform="translate(0.666504 0.33667)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Telegram</p></a><a href="https://www.youtube.com/@MANTRAChain" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_4698)">
+<path d="M1.6665 6.62891C1.6665 5.52434 2.56193 4.62891 3.6665 4.62891H21.6665C22.7711 4.62891 23.6665 5.52434 23.6665 6.62891V20.6289C23.6665 21.7335 22.7711 22.6289 21.6665 22.6289H3.6665C2.56193 22.6289 1.6665 21.7335 1.6665 20.6289V6.62891Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M9.66064 17.7191V9.5387L16.6724 13.6289L9.66064 17.7191Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_337_4698">
+<rect width="100%" height="100%" fill="currentColor" transform="translate(0.666504 1.62891)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Youtube</p></a><a href="https://www.instagram.com/mantra_chain/" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon is--opac-70 w-embed"><svg width="100%" height="100%" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.0086 0.982788C7.33965 0.982788 6.95043 0.982788 5.89397 1.03855C5.05991 1.03855 4.22586 1.20582 3.44741 1.48461C2.78017 1.7634 2.16853 2.15371 1.6681 2.65554C1.16767 3.15736 0.778448 3.7707 0.500431 4.4398C0.222414 5.22042 0.0556034 6.0568 0.0556034 6.89317C0 7.95258 0 8.28713 0 11.0193C0 13.7514 0 14.086 0.0556034 15.1454C0.0556034 15.9818 0.222414 16.8182 0.500431 17.5988C0.778448 18.2121 1.16767 18.8255 1.6681 19.3273C2.16853 19.8291 2.78017 20.2194 3.44741 20.4982C4.22586 20.777 5.05991 20.9443 5.89397 20.9443C6.95043 21 7.33965 21 10.0086 21C12.6776 21 13.0668 21 14.1233 20.9443C14.9573 20.9443 15.7914 20.777 16.5698 20.4982C17.2371 20.2194 17.8487 19.8291 18.3491 19.3273C18.8496 18.8255 19.2388 18.2121 19.5168 17.543C19.7948 16.7624 19.9616 15.926 19.9616 15.0896C20.0172 14.0302 20.0172 13.6399 20.0172 10.9635C20.0172 8.28713 20.0172 7.89682 19.9616 6.83741C19.9616 6.00104 19.7948 5.16466 19.5168 4.38405C19.2388 3.7707 18.8496 3.15736 18.2935 2.65554C17.7931 2.15371 17.1815 1.7634 16.5142 1.48461C15.7358 1.20582 14.9017 1.03855 14.0677 1.03855C13.0112 0.982788 12.6776 0.982788 10.0086 0.982788V0.982788ZM10.0086 19.2158C7.28405 19.2158 7.00603 19.2158 5.94957 19.16C5.33793 19.16 4.67069 19.0485 4.11466 18.8255C3.66983 18.6582 3.2806 18.4351 2.94698 18.1006C2.61336 17.766 2.33534 17.3757 2.22414 16.9297C2.00172 16.3163 1.89052 15.703 1.89052 15.0896C1.83491 14.0302 1.83491 13.7514 1.83491 11.0193C1.83491 8.28713 1.83491 8.00834 1.89052 6.94893C1.89052 6.33559 2.00172 5.66649 2.22414 5.1089C2.39095 4.66284 2.61336 4.27253 2.94698 3.93798C3.2806 3.60343 3.66983 3.32464 4.11466 3.21312C4.72629 2.99009 5.33793 2.87857 5.94957 2.87857C7.00603 2.82281 7.33965 2.82281 10.0086 2.82281C12.6776 2.82281 13.0112 2.82281 14.0677 2.87857C14.6793 2.87857 15.3466 2.99009 15.9026 3.21312C16.3474 3.3804 16.7366 3.60343 17.0703 3.93798C17.4039 4.27253 17.6819 4.66284 17.7931 5.1089C18.0155 5.72225 18.1267 6.33559 18.1267 6.94893C18.1823 8.00834 18.1823 8.28713 18.1823 11.0193C18.1823 13.7514 18.1823 14.0302 18.1267 15.0896C18.1267 15.703 18.0155 16.3721 17.7931 16.9297C17.6263 17.3757 17.4039 17.766 17.0703 18.1006C16.7366 18.4351 16.3474 18.7139 15.9026 18.8255C15.2909 19.0485 14.6793 19.16 14.0677 19.16C13.0112 19.2158 12.6776 19.2158 10.0086 19.2158ZM10.0086 5.88952C7.17284 5.88952 4.8931 8.17561 4.8931 11.0193C4.8931 13.863 7.17284 16.1491 10.0086 16.1491C12.8444 16.1491 15.1241 13.863 15.1241 11.0193C15.1241 8.17561 12.8444 5.88952 10.0086 5.88952ZM15.3466 4.4398C14.6793 4.4398 14.1233 4.99739 14.1233 5.66649C14.1233 6.33559 14.6793 6.89317 15.3466 6.89317C16.0138 6.89317 16.5698 6.33559 16.5698 5.66649C16.5142 4.99739 16.0138 4.4398 15.3466 4.4398ZM10.0086 14.3648C8.17371 14.3648 6.67241 12.8593 6.67241 11.0193C6.67241 9.17926 8.17371 7.67379 10.0086 7.67379C11.8435 7.67379 13.3448 9.17926 13.3448 11.0193C13.3448 12.8593 11.8435 14.3648 10.0086 14.3648Z" fill="currentColor"/>
+</svg></div><p class="text-md m__footer-col-item--text">Instagram</p></a><a href="https://mantrachain.medium.com/" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_4706)">
+<circle cx="7.01767" cy="12" r="6.00204" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M19.3472 11.9999C19.3472 13.3762 19.0544 14.5726 18.6293 15.3884C18.1789 16.2529 17.7322 16.4454 17.51 16.4454C17.2878 16.4454 16.8411 16.2529 16.3907 15.3884C15.9656 14.5726 15.6729 13.3762 15.6729 11.9999C15.6729 10.6236 15.9656 9.42725 16.3907 8.61145C16.8411 7.74693 17.2878 7.55444 17.51 7.55444C17.7322 7.55444 18.1789 7.74693 18.6293 8.61145C19.0544 9.42725 19.3472 10.6236 19.3472 11.9999Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<mask id="path-3-inside-1_337_4706" fill="currentColor">
+<ellipse cx="22.5" cy="11.8381" rx="1.50003" ry="3.7308"/>
+</mask>
+<path d="M22.0001 11.8381C22.0001 12.678 21.8595 13.346 21.7051 13.7301C21.6257 13.9276 21.5813 13.9536 21.6343 13.8978C21.6918 13.8373 21.9839 13.5689 22.5 13.5689V17.5689C23.4304 17.5689 24.1171 17.0917 24.5335 16.6537C24.9454 16.2203 25.2243 15.6999 25.4163 15.2223C25.8048 14.2561 26.0001 13.0587 26.0001 11.8381H22.0001ZM22.5 13.5689C23.0162 13.5689 23.3083 13.8373 23.3657 13.8978C23.4188 13.9536 23.3744 13.9276 23.295 13.7301C23.1405 13.346 23 12.678 23 11.8381H19C19 13.0587 19.1953 14.2561 19.5837 15.2223C19.7758 15.6999 20.0546 16.2203 20.4666 16.6537C20.8829 17.0917 21.5697 17.5689 22.5 17.5689V13.5689ZM23 11.8381C23 10.9983 23.1405 10.3302 23.295 9.94611C23.3744 9.74865 23.4188 9.72264 23.3657 9.77843C23.3083 9.83886 23.0162 10.1073 22.5 10.1073V6.1073C21.5697 6.1073 20.8829 6.58453 20.4666 7.02254C20.0546 7.45591 19.7758 7.97626 19.5837 8.45394C19.1953 9.4201 19 10.6175 19 11.8381H23ZM22.5 10.1073C21.9839 10.1073 21.6918 9.83886 21.6343 9.77843C21.5813 9.72264 21.6257 9.74865 21.7051 9.94611C21.8595 10.3302 22.0001 10.9983 22.0001 11.8381H26.0001C26.0001 10.6175 25.8048 9.4201 25.4163 8.45394C25.2243 7.97626 24.9454 7.45591 24.5335 7.02254C24.1171 6.58453 23.4304 6.1073 22.5 6.1073V10.1073Z" fill="currentColor" fill-opacity="0.7" mask="url(#path-3-inside-1_337_4706)"/>
+</g>
+<defs>
+<clipPath id="clip0_337_4706">
+<rect width="100%" height="100%" fill="currentColor"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Medium</p></a><a href="https://www.linkedin.com/company/mantrachain/" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_4713)">
+<path d="M2.08105 11.0813H6.08105V23.0813H2.08105V11.0813Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M22.0811 23.0813V17.0813C22.0811 13.7676 19.3948 11.0813 16.0811 11.0813H10.0811V23.0813H14.0811V15.0813H15.0811C16.738 15.0813 18.0811 16.4244 18.0811 18.0813V23.0813H22.0811Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M2.08105 3.5813H6.08105V7.5813H2.08105V3.5813Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_337_4713">
+<rect width="100%" height="100%" fill="currentColor" transform="translate(0.166504 0.83667)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">LinkedIn</p></a></div></div><div class="footer__right-cols"><div class="footer__links--col"><p class="heading-sm m__footer-col-heading">About</p><div class="footer__col-list"><a href="/company/about-us" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">About Us</p></a><a href="/company/contact-us" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">Contact</p></a></div></div><div class="footer__links--col"><p class="heading-sm m__footer-col-heading">Legal</p><div class="footer__col-list"><a href="/legal/terms-and-conditions" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">Terms &amp; Conditions</p></a><a href="/legal/privacy-policy" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">Privacy Policy</p></a></div></div></div></div></div></div><div class="footer__logo--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/662a05a909397ac0d942aa54_logo-footer.png" loading="eager" alt="" class="footer__big-logo"/></div></section></main></div><div class="cookies--w"><div fs-cc="banner" class="fs-cc-banner_component"><div class="fs-cc-banner_container"><div class="cookies--text"><div class="text-size-14">We use cookies to ensure you get the best experience on our website. By using our website, you consent to use of cookies as outlined in our <a href="/legal/privacy-policy" class="text-link">Privacy Policy</a>.</div></div><div class="fs-cc-banner_buttons-wrapper"><a fs-cc="allow" href="#" class="btn-wrap w-inline-block"><div data-w-id="05e0683a-7c16-34dc-abcd-f3d81f65d4c9" class="btn-inner is--ghost"><div class="text-sm is-button-med text-color-white">Understood</div><div class="btn-inner-bg"><div class="btn-inner__grad"></div></div></div></a></div></div><div fs-cc="interaction" class="fs-cc-banner_trigger"></div></div></div><div data-popup="wrap" class="popup--w"><div class="c is--popup"><div class="popup__content--w"><div class="popup__top--w"><div title="Close Popup" role="button" aria-label="Close Popup" tabindex="0" data-popup="close" class="popup__close--w"><div class="popup__close--x"><div class="popup__close--line is--2"></div><div class="popup__close--line is--1"></div></div></div></div><div data-popup="card" class="popup__btm--w"><div class="popup__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba-p-500.webp 500w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba-p-800.webp 800w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba-p-1080.webp 1080w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba.webp 1268w" alt="" class="image"/></div><div id="w-node-_869a9fc4-15b1-ea9b-4be3-8204f56e8c37-f56e8c2c" class="popup__info--w"><div class="popup__hl--w"><div class="h-eyebrow"><span class="text-span">Live Now</span></div><div class="heading-2xl is--popup">USDY Vault – Stable yield with boosted rewards</div><div class="heading-lg is--popup">Open until 25 June 2024, 8:00 UTC</div></div><div class="popup__rewards--w"><div class="popup__rewards--inner"><div class="popup__rewards--col"><div class="text-lg is--pop-rew">5.3%*</div><div class="text-md is--pop">APY</div></div><div class="popup__rewards--col is--2"><div class="popup__rewards--hl"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66698be400529c9b580da648_booter-rew-icons2.webp" loading="lazy" alt="" class="image-2"/><div class="text-lg is--pop-rew pink">2% - 6%*</div></div><div class="text-md is--pop">Boosted Rewards</div><div class="popup__rewards--line"></div></div></div></div><a tabindex="0" href="https://hongbai.io/vaults/sxRxRTNN9k35g2aBEa9H/details" target="_blank" class="btn-wrap is--popup w-inline-block"><div data-w-id="869a9fc4-15b1-ea9b-4be3-8204f56e8c4f" class="btn-inner is--primary"><div class="text-lg is--pop">Learn More</div><div class="btn-primary--bg"></div><div screen-reader="">about the Vault</div></div></a><div class="h-eyebrow is--tc">*Terms &amp; conditions apply</div></div></div></div></div><div data-popup="ul" class="popup--ul"></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6622236200773f0f3dbee8a0" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/js/webflow.0f9cf96c3.js" type="text/javascript"></script><script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/MotionPathPlugin.min.js"></script>
+
+
+<!-- contact
+<script src="https://mytrvx-5000.csb.app/company/contact.js"></script>
+-->
+<script>
+  $('[wr-type="error"]').hide(); // Hide errors
+  $(".error").removeClass("error"); // Remove error state from fields
+
+  var formErrors = false;
+
+  const fieldError = function (field) {
+    field.parent().find('[wr-type="error"]').show(); // Show error message
+    field.addClass("error"); // Add error state to this field
+    formErrors = true;
+  };
+
+  // Function to validate a name field
+  const validateNameField = function (field) {
+    const nameValue = field.val();
+    const nameRegex = /^[a-zA-Z]+$/; // Regular expression for letters only
+
+    if (!nameRegex.test(nameValue)) {
+      fieldError(field);
+    } else {
+      field.removeClass("error");
+      field.parent().find('[wr-type="error"]').hide();
+    }
+  };
+
+  // Click on the Submit button
+  $('[wr-type="submit"]').click(function () {
+    formErrors = false; // Reset formErrors
+
+    // Check each required field
+    $('[wr-type="required-field"]').each(function () {
+      if ($(this).attr("type") === "checkbox" && !$(this).is(":checked")) {
+        // Checkbox
+        fieldError($(this).siblings(".w-checkbox-input"));
+        return;
+      }
+      if ($(this).val().length === 0) {
+        // If this field is empty
+        fieldError($(this));
+      } else if (
+        $(this).attr("type") === "email" && // Validation for email fields
+        ($(this).val().indexOf("@") === -1 || $(this).val().indexOf(".") === -1)
+      ) {
+        fieldError($(this));
+      }
+    });
+
+    // Validate each name field individually
+    $(".contact__form-field.is--name").each(function () {
+      validateNameField($(this));
+    });
+
+    // Submit parent form if there are no errors
+    if (!formErrors) $(this).parents("form").submit();
+  });
+
+  // Remove errors from field
+  $('[wr-type="required-field"], [type="checkbox"]').on(
+    "keypress blur",
+    function () {
+      $(this).parent().find(".error").removeClass("error");
+      $(this).parent().find('[wr-type="error"]').hide();
+      formErrors = false;
+    },
+  );
+
+  // Press Enter
+  $("input, textarea").keypress(function (e) {
+    if (e.keyCode == 13) {
+      e.preventDefault();
+      $(this).trigger("change");
+      $('[wr-type="submit"]').click();
+    }
+  });
+
+  // Additional event listener for each name field to validate on input
+  $(".contact__form-field.is--name").on("input", function () {
+    validateNameField($(this));
+  });
+
+</script>
+<!-- [Attributes by Finsweet] Disable scrolling -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+<!-- [Finsweet Attributes] Accordion -->
+<script>(()=>{var t="https://cdn.jsdelivr.net/npm/@finsweet/attributes-accordion@1/accordion.js",e=document.querySelector(`script[src="${t}"]`);e||(e=document.createElement("script"),e.async=!0,e.src=t,document.head.append(e));})();</script>
+
+<script>
+  const designSize = 1512;
+
+  // tablet query
+  const tabletMediaQuery = window.matchMedia("(max-width: 991px)");
+  window.isTabletOrBelow = tabletMediaQuery.matches;
+
+  tabletMediaQuery.addEventListener("change", (event) => {
+    window.isTabletOrBelow = event.matches;
+  });
+
+  // Set font size
+  function setFontSize() {
+
+    if (window.innerWidth >= 991 && window.innerWidth <= 2560) {
+      document.body.style.fontSize = window.innerWidth / designSize + 'rem';
+    } else {
+      if (document.body.style.removeProperty) {
+        document.body.style.removeProperty("font-size");
+      } else {
+        document.body.style.removeAttribute("font-size");
+      }
+    }
+  }
+
+  // init listeners
+  function initFontSizeSetting() {
+    // init
+    setFontSize();
+    window.addEventListener('resize', setFontSize);
+  }
+
+  // ----- welcome message
+  function runWelcome() {
+    let msg = "%c ☩ Site built by https://itsoffbrand.com ☩";
+    let styles = [
+      "font-size: 12px",
+      "color: #fffce1",
+      "font-family: monospace",
+      "background: #0e100f",
+      "display: inline-block",
+      "padding: 1rem 3rem",
+      "border: 1px solid #fffce1",
+      "border-radius: 4px;",
+    ].join(";");
+    console.log(msg, styles);
+  }
+
+  // call functions
+  document.addEventListener('DOMContentLoaded', function() {
+    runWelcome();
+    initFontSizeSetting();
+    if (window.isTabletOrBelow) {
+      adjustAppHeight();
+    }
+  });
+
+</script>
+
+<script>
+  //modal overflow
+  $(".mobile-menu__overflow-content").css({
+    "overflow-y": "scroll",
+    "-webkit-overflow-scrolling": "touch"
+  });
+
+  // create svg elements
+  $(".svg-code").each(function (index) {
+    let svgCode = $(this).text();
+    $(svgCode).insertAfter($(this));
+  });
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Set a timeout to move the .globe element after a delay
+    setTimeout(function() {
+      // Select the .globe element
+      const globeElement = document.querySelector('.globe');
+
+      // Select the .language-option.active-language element
+      const activeLanguageElement = document.querySelector('.language-option.active-language');
+
+      // Check if both elements exist
+      if (globeElement && activeLanguageElement) {
+        // Select the first 'a' element inside the .language-option.active-language element
+        const linkElement = activeLanguageElement.querySelector('a');
+
+        // If the link element exists, insert the .globe element before it
+        if (linkElement) {
+          activeLanguageElement.insertBefore(globeElement, linkElement);
+        } else {
+          // If there's no 'a' element, append the .globe element to the activeLanguageElement
+          activeLanguageElement.appendChild(globeElement);
+        }
+      } else {
+        console.error('Either .globe or .language-option.active-language element is not found.');
+      }
+    }, 200); // Delay of 200 milliseconds
+  });
+</script>
+
+<script>
+  // Function to handle the appending of the .weglot-container.wg-default element
+  function handleResponsiveWeglot() {
+    // Select the .weglot-container.wg-default element
+    const weglotContainer = document.querySelector('.weglot-container.wg-default');
+
+    // Select the .weglot--w.is--mobile-nav element
+    const mobileNav = document.querySelector('.weglot--w.is--mobile-nav');
+
+    // Check the screen width
+    if (window.innerWidth <= 991) {
+      // Append the .weglot-container.wg-default to the .weglot--w.is--mobile-nav if both elements exist
+      if (weglotContainer && mobileNav) {
+        mobileNav.appendChild(weglotContainer);
+      } else {
+        console.error('Either .weglot-container.wg-default or .weglot--w.is--mobile-nav element is not found.');
+      }
+    } else {
+      // Optionally, handle the case for larger screens if necessary
+      // console.log('Screen width is greater than 991px.');
+    }
+  }
+
+  // Initial execution with a timeout to ensure DOM is ready
+  setTimeout(handleResponsiveWeglot, 1000); // Adjust the delay if necessary
+
+  // Add a resize event listener to handle screen size changes
+  window.addEventListener('resize', handleResponsiveWeglot);
+</script>
+
+
+<!-- popup 
+<script>
+  // Define the distance
+  const distance = "3rem";
+
+  // Function to prevent scrolling
+  function scrollStop() {
+    document.documentElement.style.overflow = "hidden";
+    document.body.style.overflow = "hidden";
+  }
+
+  // Function to set initial states and animate to their initial positions
+  function initPopup() {
+    // Set elements to their end states
+    document.querySelector("[data-popup='wrap']").style.display = "flex";
+    gsap.set("[data-popup='card']", { y: distance, autoAlpha: 0 });
+    gsap.set("[data-popup='close']", { y: distance, autoAlpha: 0 });
+    gsap.set("[data-popup='ul']", { autoAlpha: 0 });
+
+    // Animate elements to their initial states
+    gsap.to("[data-popup='card']", {
+      delay: 0.4,
+      y: 0,
+      autoAlpha: 1,
+      duration: 1,
+      ease: "power2.inOut"
+    });
+
+    gsap.to("[data-popup='close']", {
+      y: 0,
+      autoAlpha: 1,
+      duration: 1,
+      ease: "power2.inOut",
+      delay: 0.2
+    });
+
+    gsap.to("[data-popup='ul']", {
+      autoAlpha: 1,
+      duration: 0.5,
+      ease: "power2.inOut",
+    });
+  }
+
+  // Function to handle the animations on close/ul click
+  function hidePopup() {
+    // Animate the card
+    gsap.to("[data-popup='card']", {
+      y: distance,
+      autoAlpha: 0,
+      duration: 1,
+      ease: "power2.inOut"
+    });
+
+    // Animate the close button
+    gsap.to("[data-popup='close']", {
+      y: distance,
+      autoAlpha: 0,
+      duration: 1,
+      ease: "power2.inOut",
+      delay: 0.2
+    });
+
+    // Animate the ul element
+    gsap.to("[data-popup='ul']", {
+      autoAlpha: 0,
+      duration: 0.5,
+      ease: "power2.inOut",
+      delay: 0.7,
+      onComplete: function() {
+        // Set wrap to display: none
+        document.querySelector("[data-popup='wrap']").style.display = "none";
+        // Allow scrolling again
+        document.documentElement.style.overflow = "";
+        document.body.style.overflow = "";
+
+        // Set localStorage to mark that the popup has been hidden
+        localStorage.setItem('hasVisited', 'true');
+      }
+    });
+  }
+
+  // Function to check local storage for user visit
+  function checkUserVisit() {
+    const hasVisited = localStorage.getItem('hasVisited');
+    if (!hasVisited) {
+      scrollStop();
+      initPopup();
+    }
+  }
+
+  // Function to clear local storage and reload the page
+  function clearLocalStorageAndReload() {
+    localStorage.clear();
+    location.reload();
+  }
+
+  // Run the check on page load
+  checkUserVisit();
+
+  // Add event listeners to the close and ul elements
+  document.querySelector("[data-popup='close']").addEventListener("click", hidePopup);
+  document.querySelector("[data-popup='ul']").addEventListener("click", hidePopup);
+</script>
+--></body></html>

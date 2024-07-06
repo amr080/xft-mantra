@@ -1,0 +1,1421 @@
+<!DOCTYPE html><!-- Last Published: Fri Jul 05 2024 08:34:03 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.mantrachain.io" data-wf-page="664f2366b22d88a14fbba13d" data-wf-site="6622236200773f0f3dbee8a0" lang="en"><head><meta charset="utf-8"/><title>Incubator</title><meta content="MANTRA Chain presents institutions with a seamless solution for tokenizing real-world assets. Unlock new institutional opportunities for digital asset trading." name="description"/><meta content="Incubator" property="og:title"/><meta content="MANTRA Chain presents institutions with a seamless solution for tokenizing real-world assets. Unlock new institutional opportunities for digital asset trading." property="og:description"/><meta content="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66506323b279af48034d363c_mantra-opengraph.webp" property="og:image"/><meta content="Incubator" property="twitter:title"/><meta content="MANTRA Chain presents institutions with a seamless solution for tokenizing real-world assets. Unlock new institutional opportunities for digital asset trading." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66506323b279af48034d363c_mantra-opengraph.webp" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/css/mantra2024.webflow.28714c653.min.css" rel="stylesheet" type="text/css"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17b6a1c93f7ec3a37eb9_m%20favicon.webp" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17d980ac2709c36f0ccb_m%20webclip.webp" rel="apple-touch-icon"/><script src="https://www.google.com/recaptcha/api.js" type="text/javascript"></script><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=5">
+<!-- 
+ ** Marketing Scripts 
+ -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16577912309"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-16577912309');
+</script>
+<!-- Yahoo -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10202680','he': 'marketing@mantrachain.io','hph': '+85255058483'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<!-- Twitter conversion tracking base code -->
+<script>
+  !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+                                                   },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+                                 a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+  twq('config','om8rv');
+</script>
+<!-- End Twitter conversion tracking base code →
+<!-- Xandr Universal Pixel init -->
+<script>
+  !function(e,i){if(!e.pixie){var n=e.pixie=function(e,i,a){n.actionQueue.push({action:e,actionValue:i,params:a})};n.actionQueue=[];var a=i.createElement("script");a.async=!0,a.src="//acdn.adnxs.com/dmp/up/pixie.js";var t=i.getElementsByTagName("head")[0];t.insertBefore(a,t.firstChild)}}(window,document);
+  pixie('init', '311d6584-4988-40ca-9910-ce634ce92f33');
+</script>
+<!-- Xandr Universal Pixel - PageView Event -->
+<script>
+  pixie('event', 'PageView');
+</script>
+<noscript><img src="https://ib.adnxs.com/pixie?pi=311d6584-4988-40ca-9910-ce634ce92f33&e=PageView&script=0" width="1" height="1" style="display:none"/></noscript>
+
+<!-- Cookie Consent -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="informational"></script>
+<!-- 
+ ** Marketing Scripts 
+ -->
+<!-- Yahoo -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10202680','he': 'marketing@mantrachain.io','hph': '+85255058483'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+
+
+<!-- Styles -->
+<style>  
+  /*
+  @view-transition {
+  navigation: auto;
+  }
+  ::view-transition {
+  background: black;
+  }
+  :root {
+  view-transition-name: none;
+  }
+  body {
+  view-transition-name: page;
+  }
+  ::view-transition-group(page) {
+  animation-duration: 0.7s;
+  }
+  */
+
+  /* ---------------------- General Styling*/
+  .w-webflow-badge { display: none !important; }
+  select {
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+  }
+  .lang__toggle.w-dropdown-toggle.w--open {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+  .nav-menu__mobile--w {
+    min-height: 100dvh !important;}
+  .company-loop__mid-w {
+    margin-top: -15em;
+    margin-bottom: -15em;
+  }
+
+  /* ---------------------- Contact Form Styling*/
+  .contact-form__input--wrap .contact__form-field:focus {
+    border: 0px solid hsla(0, 0%, 100%, 0.3);
+  }
+  /* wrapper for field */
+  .contact-form__input--wrap {
+    background-image: linear-gradient(
+      306deg,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3)
+    );
+  }
+  .contact-form__input--wrap:focus-within {
+    background-image: linear-gradient(306deg, var(--pink), var(--cream));
+  }
+  input,
+  select,
+  textarea {
+    color: #dbd9d8 !important;
+  }
+  textarea:focus,
+  input:focus {
+    color: #dbd9d8;
+  }
+
+  /* ---------------------- Weglot Styling*/
+  .language-option {
+    white-space: nowrap;
+    font-size: 0.88em;
+    text-align: center;
+  }
+  .weglot_switcher.vertical_expand .language-option {
+    font-size: 0.88em !important;
+    line-height: 1 !important;
+    padding: 0.75em 1.5em !important;
+    font-family: inherit !important;
+    height: 2.63em;
+  }
+  .wg-default {
+    right: 0 !important;
+  }
+  .weglot-container.wg-default {
+    min-width: 11em;
+  }
+  .language-option,
+  .language-option.active-language {
+    border-radius: 0 !important;
+    border-color: #343434;
+    display: flex;
+    justify-content: center;
+  }
+  .language-option.active-language {
+    border-top-left-radius: 0.5em !important;
+    border-color: #343434 !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+  }
+  .language-option a {
+    font-weight: inherit !important;
+    line-height: 1 !important;
+  }
+  :where(.nav-dropdown--wrapper) {
+    height: 0px;
+  }
+
+  /*responsive*/
+  @media screen and (max-width: 991px) {
+    .wg-default {
+      position: relative !important;
+      width: 100% !important;
+    }
+    .language-option.active-language {
+      border-radius: 0.5em !important;
+      border-color: #343434 !important;
+      border-width: 1px !important;
+      border-style: solid !important;
+    }
+    .weglot_switcher.vertical_expand .language-option {
+      font-size: 0.88em !important;
+      line-height: 1 !important;
+      padding: 1.25em 1.5em !important;
+      font-family: inherit !important;
+      height: auto !important;
+    }
+    .weglot_switcher.vertical_expand.down .language-list {
+      bottom: 0 !important;
+      top: auto !important;
+    }
+  }
+</style>
+<!-- dev css links
+<link
+      rel="stylesheet"
+      href="https://mytrvx-5000.csb.app/company/contact.css"
+      />
+<link
+      rel="stylesheet"
+      href="https://mytrvx-5000.csb.app/weglot-code.css"
+      />
+--> 
+<!-- [Attributes by Finsweet] Disable scrolling -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+<!-- Weglot hrefs -->
+<link rel="alternate" hreflang="en" href="https://www.mantrachain.io">
+<link rel="alternate" hreflang="ar" href="https://ar.mantrachain.io">
+<link rel="alternate" hreflang="pt-br" href="https://pt-br.mantrachain.io">
+<link rel="alternate" hreflang="id" href="https://id.mantrachain.io">
+<link rel="alternate" hreflang="ja" href="https://ja.mantrachain.io">
+<link rel="alternate" hreflang="ko" href="https://ko.mantrachain.io">
+<link rel="alternate" hreflang="ru" href="https://ru.mantrachain.io">
+<link rel="alternate" hreflang="es" href="https://es.mantrachain.io">
+<link rel="alternate" hreflang="tr" href="https://tr.mantrachain.io">
+<link rel="alternate" hreflang="vi" href="https://vi.mantrachain.io">
+<link rel="alternate" hreflang="th" href="https://th.mantrachain.io">
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+<script>
+  Weglot.initialize({
+    api_key: 'wg_ad3565b80fc0dc8c6d3680216cd2ba3f5'
+  });
+</script> <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "MANTRA Incubator | Cultivating Visionary Projects",
+  "url": "https://mantrachain.io/ecosystem/incubator",
+  "description": "MANTRA’s Incubator program provides developers with essential tools, mentorship, and resources to launch innovative projects in the realm of Real World Asset (RWA) tokenization.",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "MANTRA",
+    "url": "https://mantrachain.io/",
+    "logo": "https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17d980ac2709c36f0ccb_m%20webclip.webp",
+    "sameAs": [
+      "https://discord.gg/gfks4TwAJV",
+      "https://twitter.com/MANTRA_Chain",
+      "https://t.me/MANTRA_Chain",
+      "https://www.youtube.com/@MANTRAChain",
+      "https://www.instagram.com/mantra_chain/",
+      "https://mantrachain.medium.com/",
+      "https://www.linkedin.com/company/mantrachain/"
+    ]
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Blockchain Incubator",
+    "description": "MANTRA’s Incubator supports projects with seed funding, mentorship, compliance guidance, and global networking opportunities."
+  },
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66506323b279af48034d363c_mantra-opengraph.webp",
+    "width": 800,
+    "height": 600
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mantrachain.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Incubator",
+        "item": "https://mantrachain.io/ecosystem/incubator"
+      }
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MANTRA",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/663e17d980ac2709c36f0ccb_m%20webclip.webp",
+      "width": 60,
+      "height": 60
+    }
+  }
+}
+</script>
+
+<style>
+  .hor-scroll__card.is-1.is--active::before, .hor-scroll__card.is-2.is--active::before, .hor-scroll__card.is-3.is--active::before {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+    padding: 2px;
+    border-radius: 0.5em;
+    background: linear-gradient(45deg, #ff97d5, #f8b994);
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    transition: background 1s ease;
+  }
+
+  .hor-scroll__card.is-1.is--active, .hor-scroll__card.is-2.is--active, .hor-scroll__card.is-3.is--active {
+    position: relative;
+  }
+</style>
+</head><body data-start="hidden"><div class="embed"><div class="css-utils w-embed"><style>
+  /* ----- in this file (in order): 
+  - master styling
+  - variables
+  - utility 
+  - line clamp
+  - pointer events
+  - lenis
+  - custom cursor
+  - preloader
+  - performance
+  - container
+  - headings 
+  - text 
+  - padding classes **not needed**
+
+  ----- */
+
+  html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  *:before,
+  *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+  }
+
+  /* --------------------------------------- utility */
+  :root {
+    --app-height: 100%;
+  }
+
+  ::selection {
+    background: var(--color--white);
+    color: var(--color--black);
+    text-shadow: none;
+  }
+
+  [data-select-normal]::selection {
+    background: #fff !important;
+    color: #000 !important; 
+    -webkit-text-fill-color: #000 !important;
+    -webkit-background-clip: initial !important;
+    background-clip: initial !important;
+  }
+
+  img::selection,
+  svg::selection {
+    background: transparent;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .display-none,
+  [display-none] {
+    display: none !important;
+  }
+
+  .visibility-hidden,
+  [visibility-hidden] {
+    visibility: hidden;
+  }
+
+  /*:where(:focus-visible) {
+  outline: 2px solid var(--focus-color, Highlight);
+  outline-offset: 2px;
+  } */
+
+  :where([screen-reader]:not(:focus, :active, :focus-within), .screen-reader:not(:focus, :active, :focus-within)) {
+    clip-path: inset(50%) !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+  }
+
+  .w-lightbox-close {
+    right: 5em;
+    height: 5em;
+    outline: transparent;
+  }
+
+  /* --------------------------------------- line clamp */
+  [line-clamp] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  [line-clamp="2"] {
+    -webkit-line-clamp: 2; /*3, 4, 5 etc*/
+  }
+
+  [line-clamp="3"] {
+    -webkit-line-clamp: 3; /*3, 4, 5 etc*/
+  }
+
+  /* --------------------------------------- pointer events */
+  [pointer-none] {
+    pointer-events: none;
+    user-select: none;
+  }
+  [pointer-auto] {
+    pointer-events: auto;
+  }
+
+  /* --------------------------------------- lenis */
+  [data-lenis-prevent] {
+    overscroll-behavior-y: contain;
+  }
+
+  /* --------------------------------------- preloader */
+  .preloader {
+    background-color: var(--primary-color);
+  }
+
+  /* --------------------------------------- performance */
+  [object] {
+    will-change: transform;
+  }
+
+  /* --------------------------------------- utils */
+  [overflow-clip="x"] {
+    overflow-x: clip;
+  }
+  [overflow-clip="y"] {
+    overflow-y: clip;
+  }
+
+  /* --------------------------------------- container */
+  .c {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* --------------------------------------- text */
+
+  p,
+  .text-small,
+  .text-regular,
+  .text-medium,
+  .text-large,
+  .text-xlarge {
+    text-wrap: pretty /* ensures nice wrapping */
+  }
+
+  /* --------------------------------------- forms */
+
+  textarea {
+    resize: vertical;
+  }
+
+  /* --------------------------------------- blog */
+
+  .rich-text p, .rich-text ol, .rich-text li { 
+    /* line heights in rtf */
+    line-height: 1.6;
+  }
+  .rich-text strong {  
+    /* bolds in rtf */
+  }
+  .rich-text .w-embed {
+    /* embed spacing in rtf */
+  }
+  .rich-text a {
+    text-decoration: none;
+  }
+  .rich-text a:hover {
+    text-decoration: underline;
+  }
+
+  /*Secondary Button*/
+  .btn-inner-border {
+    border-radius: 0.5em; /*1*/
+    border: 1px solid transparent; /*2*/
+    background: linear-gradient(-135deg,#F8B994,#FF97D5) border-box; /*3*/
+    -webkit-mask: /*4*/
+      linear-gradient(#fff 0 0) padding-box, 
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor; /*5'*/
+    mask-composite: exclude; /*5*/
+  }
+</style></div><div class="css-global w-embed"><style>
+  /* ----- in this file (in order): 
+  - thing
+
+  ----- */
+
+
+  /* --------------------------------------- page or section */
+  .logo-svg-container linearGradient {
+    transform-origin: center;
+    transition: transform 0.5s ease-out;
+  }
+  .logo-svg-container:hover linearGradient {
+    transform: rotate(180deg);
+  }
+
+  .legals__rich-text blockquote {
+    border-width: 0 0 0 1px; /* Set border width only on the left side */
+    border-style: solid; /* Set border style to solid */
+    border-image: linear-gradient(180deg, rgba(248, 185, 148, 0) 0%, rgba(255, 151, 214, 0.5) 37.24%, rgba(248, 185, 148, 0.5) 80.21%, rgba(255, 151, 214, 0) 100%) 1; /* Apply linear gradient as border */
+  }
+
+  .btn-wrap.w--current {
+    border-width: 0 0 2px 0; /* Set border width only on the left side */
+    border-style: solid; /* Set border style to solid */
+    border-image: linear-gradient(90deg, rgba(248, 185, 148, 0) 0%, rgba(255, 151, 214, 0.5) 37.24%, rgba(248, 185, 148, 0.5) 80.21%, rgba(255, 151, 214, 0) 100%) 1; /* Apply linear gradient as border */
+  }
+
+  .contact__form-field.w-select {
+    color: #dbd9d8;
+  }
+
+  [aria-expanded="false"] .language-list {
+    pointer-events: none !important;
+  }
+
+  [aria-expanded="true"] .language-list {
+    pointer-events: auto !important;
+  }
+  .popup__close--line {
+  	transition: 0.3s width ease;
+  }
+  .popup__close--w:hover .popup__close--line {
+  	width: 80%;
+  }
+</style></div><div class="css-breakpoints w-embed"><style>
+  /* ----- desktop only */
+  @media only screen and (min-width: 992px) {
+    body {
+      min-height: 0vw;
+      /* font-size: 1.1111111111111112vw;  1440px */
+      font-size: 1.0582010582010584vw; /* 1512px*/
+    }
+
+    [data-hide="d"] {
+      display: none;
+    }
+  }
+
+  /* ----- tablet */
+  @media only screen and (max-width: 991px) {
+
+    body {
+      /* font-size: 0.6881944444444444rem;  1440px */
+      font-size: 1rem; /* 1512px */
+    }
+
+    :root {
+      /* padding */
+      --padding--container: 6vw;  
+
+    }
+
+    /* hide objects on tablet and below */
+    [data-hide="t"] {
+      display: none;
+    }
+  }
+
+  /* ----- mobile landscape */
+  @media screen and (max-width: 767px) {
+
+    /* hide objects on mobile landscape and below */
+    [data-hide="ml"] {
+      display: none;
+    }
+  }
+
+  /* ----- mobile */
+  @media screen and (max-width: 497px) {
+
+    /* hide objects on mobile and below */
+    [data-hide="m"] {
+      display: none;
+    }
+  }
+
+
+  /* ----- Truncation / Max Font Size 
+  * 	refer to:
+  * 	https://wizardry-technique.webflow.io/
+  */
+  @media screen and (min-width:2560px) {
+    body {font-size: 27.089947089947096px;}
+  }
+</style></div><div class="css-editmode w-embed"><style>
+  /*  ----- edit mode ----- */
+  /*  ----- edit mode ----- */
+  
+  [data-edit="true"] {
+  	/* stuff to show/hide */
+  }
+  .w-editor {
+  	/* stuff to show/hide */
+  }
+  
+  [data-edit="true"] .popup--w {
+  	display: flex;
+    position: relative;
+  }
+
+</style></div></div><div display-none="" class="w-embed"><style>
+  :root {
+    --backdrop: #242424;
+    --radius: 14;
+    --border: 2;
+    --backup-border: var(--backdrop);
+    --size: 200;
+  }
+
+  article:first-of-type {
+    --base: 80;
+    --spread: 500;
+    --outer: 1;
+  }
+  article:last-of-type {
+    --outer: 1;
+    --base: 220;
+    --spread: 200;
+  }
+
+  *,
+  *:after,
+  *:before {
+    box-sizing: border-box;
+  }
+
+  /* Glow specific styles */
+  [data-glow] {
+    --border-size: calc(var(--border, 2) * 1px);
+    --spotlight-size: calc(var(--size, 150) * 1px);
+    background-image: radial-gradient(
+      var(--spotlight-size) var(--spotlight-size) at calc(var(--x, 0) * 1px)
+      calc(var(--y, 0) * 1px),
+      hsl(var(--hue, 0) 100% 70% / var(--bg-spot-opacity, 0.1)),
+      transparent
+    );
+    background-color: var(--backdrop, transparent);
+    background-size: calc(100% + (2 * var(--border-size)))
+      calc(100% + (2 * var(--border-size)));
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    border: var(--border-size) solid var(--backup-border);
+    position: relative;
+    touch-action: none;
+  }
+
+  [data-glow]::before,
+  [data-glow]::after {
+    pointer-events: none;
+    content: "";
+    position: absolute;
+    inset: calc(var(--border-size) * -1);
+    border: var(--border-size) solid transparent;
+    border-radius: calc(var(--radius) * 1px);
+    background-attachment: fixed;
+    background-size: calc(100% + (2 * var(--border-size)))
+      calc(100% + (2 * var(--border-size)));
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    mask: linear-gradient(transparent, transparent), linear-gradient(white, white);
+    mask-clip: padding-box, border-box;
+    mask-composite: intersect;
+  }
+
+  /* This is the emphasis light */
+  [data-glow]::before {
+    background-image: radial-gradient(
+      calc(var(--spotlight-size) * 0.75) calc(var(--spotlight-size) * 0.75) at
+      calc(var(--x, 0) * 1px) calc(var(--y, 0) * 1px),
+      var(--color-glow, hsl(var(--hue, 300) 100% 50%)) 0%,
+      transparent 100%
+    );
+    filter: brightness(1);
+  }
+
+  /* This is the spotlight */
+  [data-glow]::after {
+    background-image: radial-gradient(
+      calc(var(--spotlight-size) * 0.5) calc(var(--spotlight-size) * 0.5) at
+      calc(var(--x, 0) * 1px) calc(var(--y, 0) * 1px),
+      var(--color-glow, hsl(0 100% 100%)) 0%,
+      transparent 100%
+    );
+  }
+
+  [data-glow] [data-glow] {
+    position: absolute;
+    inset: 0;
+    will-change: filter;
+    opacity: var(--outer, 1);
+  }
+  [data-glow] > [data-glow] {
+    border-radius: calc(var(--radius) * 1px);
+    border-width: calc(var(--border-size) * 20);
+    filter: blur(calc(var(--border-size) * 10));
+    background: none;
+    pointer-events: none;
+  }
+  [data-glow] > [data-glow]::before {
+    inset: -10px;
+    border-width: 10px;
+  }
+  [data-glow] [data-glow] {
+    border: none;
+  }
+  [data-glow] :is(a, button) {
+    border-radius: calc(var(--radius) * 1px);
+    border: var(--border-size) solid transparent;
+  }
+  [data-glow] :is(a, button) [data-glow] {
+    background: none;
+  }
+  [data-glow] :is(a, button) [data-glow]::before {
+    inset: calc(var(--border-size) * -1);
+    border-width: calc(var(--border-size) * 1);
+  }
+
+  /* hover controls */
+  [data-glow-target] {
+    opacity: 50%;
+    transition-duration: 400ms;
+    transition-property: opacity;
+    transition-timing-function: ease;
+  }
+  .partner-cms-item:hover [data-glow-target] {
+    opacity: 100%;
+    --size: 400;
+  }
+
+</style></div><div overflow-clip="x" class="page-w background-color-dark"><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav"><div class="c nav__c"><div class="navbar__layout"><a href="/" class="nav__logo--w w-nav-brand"><div class="mantra-logo w-embed"><svg class="logo-svg-container" width="100%" height="100%" viewBox="0 0 127 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M103.808 8.71214C103.808 5.33924 101.401 2.77059 96.8345 2.77059H87.7983V23.9681H91.1429V15.3658H97.2073C98.8938 15.3658 100.051 16.0142 100.051 17.9663V23.9717H103.428V17.6581C103.428 14.9655 101.894 13.8813 99.9909 13.7892V13.6368C101.645 13.1408 103.804 11.8725 103.804 8.71568L103.808 8.71214ZM96.4297 12.581H91.1465L91.1784 5.49513H96.3374C99.1814 5.49513 100.371 7.0434 100.371 8.96014C100.371 10.8769 99.121 12.581 96.4333 12.581H96.4297ZM13.6661 2.36315L11.2801 0L8.87996 2.37733L11.2695 4.74048L13.6697 2.36315H13.6661ZM33.0309 2.77059L24.4669 23.9681H28.0636L30.3147 18.3667H39.5355L41.7546 23.9681H45.4117L36.8761 2.77059H33.0309ZM31.1562 15.6457L34.8452 6.26749H35.0014L38.6266 15.6457H31.1562ZM22.5425 4.94597L20.1707 2.54384L13.4779 9.01683C12.2601 10.1931 10.2824 10.1931 9.06814 9.01683L2.37178 2.5403L0 4.94597V23.9717H3.38014V8.21258L6.69281 11.4154C7.95326 12.6377 9.61492 13.2471 11.273 13.2471C12.9311 13.2471 14.5893 12.6377 15.8533 11.4154L19.102 8.27281V23.9681H22.5461V4.94597H22.5425ZM117.864 2.77414H114.019L105.455 23.9717H109.052L111.303 18.3702H120.524L122.743 23.9717H126.4L117.868 2.77414H117.864ZM112.145 15.6492L115.834 6.27104H115.99L119.615 15.6492H112.145ZM62.1242 19.0221H61.968L51.153 2.77059H47.3716V23.9681H50.7482V7.90788H50.9044L61.5632 23.9681L65.5008 24V2.77059H62.1242V19.0186V19.0221ZM67.7092 5.53056H74.995V23.9752H78.2792L78.3112 5.53056H85.5934V2.77059H67.7128V5.52347L67.7092 5.53056Z" fill="url(#paint0_linear_217_8936)"/>
+<defs>
+<linearGradient id="paint0_linear_217_8936" x1="97.527" y1="1.84469" x2="62.3271" y2="54.1664" gradientUnits="userSpaceOnUse">
+<stop offset="0.372396" stop-color="#FF97D6"/>
+<stop offset="0.802083" stop-color="#F8B994"/>
+</linearGradient>
+</defs>
+</svg></div></a><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav__menu--w-mid"><a data-w-id="b9648dfe-61ee-6d8c-1406-b3c74b0591ee" href="/for-builders/about" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">For Builders</div></div></a><a href="/for-traders" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">For Traders</div></div></a><a href="/for-institutions" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">For Institutions</div></div></a></div><div class="nav__menu--w-right"><a href="http://docs.mantrachain.io" target="_blank" class="btn-wrap nav--btn is--external w-inline-block"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">Resources</div></div><div class="external-icon w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.5859 3H14.0001V1H22.0001H23.0001V2V10H21.0001V4.41421L10.7072 14.7071L9.29297 13.2929L19.5859 3Z" fill="currentColor" fill-opacity="1"/>
+<path d="M19 13.5V20C19 21.1046 18.1046 22 17 22H4C2.89543 22 2 21.1046 2 20V7C2 5.89543 2.89543 5 4 5H10.5" stroke="currentColor" stroke-opacity="1" stroke-width="2"/>
+</svg></div></a><div data-w-id="244c9b48-574e-03db-240e-19fe379c51d8" class="btn-wrap nav--btn is--dropdown"><div class="drop--wrap-container"><div class="btn-inner is--text-link"><div class="text-md is--nav text-color-white">Ecosystem</div></div><div class="nav-arrow w-embed"><svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 0.375L5.75 5.625L0.5 0.375" stroke="currentColor" stroke-opacity="0.7"/>
+</svg></div></div><div class="nav-dropdown--wrapper"><div class="dropdown__inner--w"><div class="dropdown-items--w"><a href="/ecosystem/incubator" aria-current="page" class="btn-wrap nav--drop-btn w-inline-block w--current"><p class="text-md is--no-wrap">Incubator</p></a><a href="/ecosystem/partners" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-md is--no-wrap">Partners</p></a><a href="/ecosystem/om" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-md is--no-wrap">$OM Token</p></a></div></div></div></div><a href="https://mantra.zone/" target="_blank" class="btn-wrap w-inline-block"><div data-w-id="d57ff3e3-af31-fce2-4ccf-a209fe7edcbb" class="btn-inner is--secondary"><div class="text-sm is-button-med">Leaderboard</div><div class="btn-secondary--bg"></div></div></a></div></nav><div fs-scrolldisable-element="when-visible2" class="nav-menu__mobile--w"><div fs-scrolldisable-element="preserve" class="mobile-menu__overflow-content"><div class="nav__menu--w-mid"><a href="/for-builders/about" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">For Builders</div></div></a><a href="/for-traders" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">For Traders</div></div></a><a href="/for-institutions" class="btn-wrap nav--btn is--big-m w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">For Institutions</div></div></a></div><div class="nav__menu--w-right"><a href="http://docs.mantrachain.io" target="_blank" class="btn-wrap nav--btn w-inline-block"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">Resources</div></div></a><div data-w-id="78dc184b-60e4-7b70-e48d-beaf6316cbba" class="btn-wrap nav--btn is--dropdown"><div class="drop--wrap-container"><div class="btn-inner is--text-link"><div class="text-sm is-button-regular text-color-white">Ecosystem</div></div><div class="nav-arrow w-embed"><svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 0.375L5.75 5.625L0.5 0.375" stroke="currentColor" stroke-opacity="0.7"/>
+</svg></div></div><div class="nav-dropdown--wrapper"><div class="dropdown__inner--w"><div class="dropdown-items--w"><a href="/ecosystem/incubator" aria-current="page" class="btn-wrap nav--drop-btn w-inline-block w--current"><p class="text-size-14 is--no-wrap is--20-m">Incubator</p></a><a href="/ecosystem/partners" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-size-14 is--no-wrap is--20-m">Partners</p></a><a href="/ecosystem/om" class="btn-wrap nav--drop-btn w-inline-block"><p class="text-size-14 is--no-wrap is--20-m">$OM Token</p></a></div></div></div></div><div class="nav__buttons--w"><a href="https://app.mantra.finance/dashboard" target="_blank" class="btn-wrap w-inline-block"><div data-w-id="78dc184b-60e4-7b70-e48d-beaf6316cbc9" class="btn-inner is--secondary is--mobile-btn"><div class="text-sm is-button-med">Launch DEX</div><div class="btn-secondary--bg"></div></div></a><div class="weglot--w is--mobile-nav"><div data-w-id="78211eaf-b73c-06e4-7586-ed35a5607122" class="wg-element-wrapper sw7"><div data-hover="true" data-delay="500" data-w-id="78211eaf-b73c-06e4-7586-ed35a5607123" class="wg-dropdown-2 is--mobile-nav w-dropdown"><div lang="en" class="wg-dd-2-toggle is--mobile-nav w-dropdown-toggle"><div class="text-size-14">English</div></div><nav class="wg-dd-2-list w-dropdown-list"><a href="#" lang="es" class="wg-dropdown-2-link w-dropdown-link">Español</a><a href="#" lang="pt-br" class="wg-dropdown-2-link w-dropdown-link">Português</a><a href="#" lang="ar" class="wg-dropdown-2-link w-dropdown-link">العربية‏</a></nav></div></div><div class="hidden"><div class="globe w-embed"><svg width="1em" height="1em" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.74228 1.49944C7.80911 1.49743 7.87606 1.49642 7.94312 1.49642C8.01011 1.49642 8.07699 1.49743 8.14375 1.49944L10.3245 7.49642H5.56158L7.74228 1.49944ZM6.24464 1.71639C5.11351 2.01444 4.07043 2.60769 3.22907 3.44904C2.13696 4.54115 1.46289 5.97316 1.30984 7.49642H4.14283L6.24464 1.71639ZM1.30984 8.82975C1.46289 10.353 2.13696 11.785 3.22907 12.8771C4.07043 13.7185 5.11351 14.3117 6.24464 14.6098L4.14283 8.82975H1.30984ZM7.74229 14.8267C7.80911 14.8287 7.87606 14.8298 7.94312 14.8298C8.0101 14.8298 8.07699 14.8287 8.14375 14.8267L10.3245 8.82975H5.56158L7.74229 14.8267ZM9.64138 14.6098C10.7726 14.3118 11.8158 13.7185 12.6572 12.8771C13.7493 11.785 14.4233 10.353 14.5764 8.82975H11.7433L9.64138 14.6098ZM14.5764 7.49642C14.4233 5.97316 13.7493 4.54115 12.6572 3.44904C11.8158 2.60763 10.7726 2.01437 9.64138 1.71634L11.7433 7.49642H14.5764ZM7.94312 0.163086C5.82138 0.163086 3.78655 1.00594 2.28626 2.50623C0.78597 4.00652 -0.0568848 6.04135 -0.0568848 8.16309C-0.0568848 10.2848 0.78597 12.3197 2.28626 13.8199C3.78655 15.3202 5.82138 16.1631 7.94312 16.1631C10.0648 16.1631 12.0997 15.3202 13.6 13.8199C15.1003 12.3197 15.9431 10.2848 15.9431 8.16309C15.9431 6.04135 15.1003 4.00652 13.6 2.50623C12.0997 1.00594 10.0648 0.163086 7.94312 0.163086Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div></div></div></div></div></div></div><a href="#" data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa1" class="nav__menu-btn w-inline-block"><div data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa2" class="burger-line is--mt-0"></div><div data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa3" class="burger-line"></div><div data-w-id="d44c3780-baea-e09d-eeb6-674f3598efa4" class="burger-line is--mb-0"></div></a><div class="navbar__spacer"></div><div class="navbar__mobile-bg"></div></div></div></div><main data-taxi="" class="main-w"><section data-w-id="6a3125f6-300b-95f2-9c67-d4f0e712ac45" class="s inst-hero__s"><div class="c inc-hero__c"><div class="inc-hero__layout"><div class="inst-hero__img--w"><div class="mobile-hero-overlay is--plus"></div><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV.webp" loading="eager" width="1507" data-w-id="88ba9da4-060b-eb07-4d88-8bbd82e92301" alt="" srcset="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV-p-500.webp 500w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV-p-800.webp 800w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV-p-1080.webp 1080w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV-p-1600.webp 1600w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV-p-2000.webp 2000w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV-p-2600.webp 2600w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee9c9feac433ef9e4e022_Incubator-KV.webp 2960w" sizes="(max-width: 479px) 93vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, 98vw" class="image inst-hero--img"/><div class="inst-hero__grad"></div></div></div><div class="inc-hero__svg--w"><div class="inc-hero__info--w"><div class="inc-feats__top-info--w"><p data-select-normal="" class="heading-md text-color-grad">Build with MANTRA</p><h1 class="heading-3xl">MANTRA Incubator</h1><div class="inc-feats__desc--w"><p class="text-lg builders-feats__desc">Level up your project with MANTRA’s dynamic incubator program designed to cultivate and launch visionary projects within the MANTRA ecosystem and advancing the realm of Real World Asset (RWA) tokenization.</p></div><div class="builders-feats__top-cta--w"><a href="https://mantra.jotform.com/241018633912451" target="_blank" class="btn-wrap w-inline-block"><div data-w-id="8e71255e-1665-6c80-f41c-9bff8a30cbfe" class="btn-inner is--primary"><div class="text-sm is-button-med">Apply Now</div><div class="btn-primary--bg"></div></div></a></div></div></div><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66505193271baaf197561cbf_mantra-inc-svg-base.svg" loading="lazy" display-none="" alt="" class="inc-hero__svg"/><div class="inc-hero__svg"><div class="inc__svg--fade is--2"></div><div class="inc__svg--fade"></div><div class="inc-hero__svg-lottie" data-w-id="d0573fe6-ff0b-3f71-c70f-56b6e10e763e" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665ee750dd219db5d1a5cff3_MF_2a.lottie" data-loop="0" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-duration="0"></div></div></div></div></section><section class="s inc-highlight__s"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6627eee7b297a94244c646b7_side-blob.svg" loading="eager" width="434.5" style="-webkit-transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0em, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="decor__side-blob"/><div class="c"><div class="inc-perks__layout"><div class="inc-feats__top-info--w"><h2 class="heading-lg"><span class="grad-span">Incubator Program Highlights</span></h2><div class="inc-feats__desc--w"><p class="text-md">The MANTRA Incubator empowers developers with the vital tools, mentorship, and resources necessary to materialize their ideas. The program is designed to foster innovation and propel the growth of groundbreaking projects within the realm of Real World Asset (RWA) tokenization.</p></div></div><div class="partners__col-list--w"><div class="partners__grid is--inc"><div id="w-node-d8fd0408-e0dd-e15e-2e67-aa453a305a35-4fbba13d" class="partner-cms-item"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><div class="inc-feat__icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" viewBox="0 0 40 40">
+  <g clip-path="url(#ab)">
+    <path stroke="#fff" stroke-opacity=".7" stroke-width="2" d="M6.59 14.653A13.308 13.308 0 0 0 1.667 25c0 7.364 5.97 13.333 13.333 13.333 4.156 0 7.868-1.901 10.313-4.881"/>
+    <path stroke="#FF97D5" stroke-width="2" d="M11.667 15a13.333 13.333 0 1 0 26.666 0 13.333 13.333 0 0 0-26.666 0Z"/>
+    <path fill="#FF97D5" fill-rule="evenodd" d="M24 9h-1.083a2.667 2.667 0 0 0-2.667 2.666v.747c0 1.25.868 2.332 2.088 2.603l4.89 1.087a.667.667 0 0 1 .522.65v1.58a.667.667 0 0 1-.667.667h-4.166a.667.667 0 0 1-.667-.667V17.5h-2v.833A2.667 2.667 0 0 0 22.917 21H24v2.333h2V21h1.083a2.667 2.667 0 0 0 2.667-2.667v-1.58c0-1.25-.868-2.332-2.088-2.603l-4.89-1.086a.667.667 0 0 1-.522-.651v-.747c0-.368.299-.666.667-.666h4.166c.369 0 .667.298.667.666v.834h2v-.834A2.667 2.667 0 0 0 27.083 9H26V6.667h-2V9Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="ab">
+      <path fill="#fff" d="M0 0h40v40H0z"/>
+    </clipPath>
+  </defs>
+</svg></div><p data-select-normal="" class="text-lg inst-item-heading">Seed Funding</p><div class="inst-feat__text"><p class="text-md text-color-white">$100k seed investment directly from MANTRA’s CEO John Patrick Mullin to bootstrap your venture&#x27;s success.</p></div></div></div></div><div id="w-node-d8fd0408-e0dd-e15e-2e67-aa453a305a42-4fbba13d" class="partner-cms-item"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><div class="inc-feat__icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" viewBox="0 0 40 40">
+  <path fill="#FF97D5" fill-rule="evenodd" d="m20.834 3.102 5.929 16.306h-13.81L18.88 3.102c-.75.042-1.494.133-2.226.271l-5.831 16.035h-8.27a17.348 17.348 0 0 0 0 2h8.27l5.83 16.035a17.34 17.34 0 0 0 2.227.27l-5.929-16.305h13.811l-5.93 16.306c.751-.042 1.495-.133 2.227-.271l5.831-16.035h8.271a17.32 17.32 0 0 0 0-2h-8.27L23.06 3.373a17.325 17.325 0 0 0-2.226-.271Z" clip-rule="evenodd"/>
+  <path stroke="#fff" stroke-opacity=".5" stroke-width="2" d="M38.191 20.408a18.334 18.334 0 1 1-36.667 0 18.334 18.334 0 0 1 36.667 0Z"/>
+</svg></div><p data-select-normal="" class="text-lg inst-item-heading">Global Experience</p><div class="inst-feat__text"><p class="text-md text-color-white">Work closely with the MANTRA team all around the globe, side-by-side in our Dubai and Hong Kong offices.</p></div></div></div></div><div id="w-node-d8fd0408-e0dd-e15e-2e67-aa453a305a4f-4fbba13d" class="partner-cms-item"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><div class="inc-feat__icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" viewBox="0 0 40 40">
+  <path stroke="#FF97D5" stroke-width="2" d="M15.417 26.108c-8.147 0-12.22 3.492-12.22 3.492v5.673h24.441V29.6s-4.074-3.492-12.22-3.492ZM9.309 15.416a6.11 6.11 0 1 0 12.218 0 6.11 6.11 0 0 0-12.218 0Z"/>
+  <path stroke="#fff" stroke-opacity=".5" stroke-width="2" d="M24.583 21.525c8.147 0 12.22 3.492 12.22 3.492v5.674h-5.346M24.583 16.942A6.11 6.11 0 1 0 20 6.793"/>
+</svg></div><p data-select-normal="" class="text-lg inst-item-heading">Mentorship</p><div class="inst-feat__text"><p class="text-md text-color-white">Harness the expertise of industry leaders and the core developers of the chain to gain valuable insights.</p></div></div></div></div><div id="w-node-d8fd0408-e0dd-e15e-2e67-aa453a305a5c-4fbba13d" class="partner-cms-item"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><div class="inc-feat__icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" viewBox="0 0 40 40">
+  <path stroke="#FF97D5" stroke-width="2" d="m12.584 17.5 5.833 5.834 10-12.5"/>
+  <path stroke="#fff" stroke-opacity=".5" stroke-width="2" d="M5 3.53v15.875C5 31.365 20 38.1 20 38.1s15-6.735 15-18.695V3.531H5Z"/>
+</svg></div><p data-select-normal="" class="text-lg inst-item-heading">Compliance</p><div class="inst-feat__text"><p class="text-md text-color-white">Gain direct access to regulators and work with the team to navigate crypto regulations.</p></div></div></div></div><div id="w-node-d8fd0408-e0dd-e15e-2e67-aa453a305a69-4fbba13d" class="partner-cms-item"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><div class="inc-feat__icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" viewBox="0 0 40 40">
+  <path stroke="#FF97D5" stroke-width="2" d="M16.666 3.333 23.333 10l-6.667 6.667M10 3.333 3.333 10 10 16.667"/>
+  <path stroke="#fff" stroke-opacity=".5" stroke-width="2" d="M3.333 20v13.667a3 3 0 0 0 3 3h27.333a3 3 0 0 0 3-3V6.333a3 3 0 0 0-3-3h-7"/>
+</svg></div><p data-select-normal="" class="text-lg inst-item-heading">Resources</p><div class="inst-feat__text"><p class="text-md text-color-white">Speed up your development through our developer guidance with exclusive early access to new features and trainings.</p></div></div></div></div><div id="w-node-d8fd0408-e0dd-e15e-2e67-aa453a305a76-4fbba13d" class="partner-cms-item"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><div class="inc-feat__icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" viewBox="0 0 40 40">
+  <g clip-path="url(#a)">
+    <path fill="#fff" fill-opacity=".5" fill-rule="evenodd" d="M20 9.667A3.833 3.833 0 1 0 20 2a3.833 3.833 0 0 0 0 7.667Zm0 2c1.845 0 3.49-.857 4.559-2.194l5.968 5.968A5.823 5.823 0 0 0 28.333 20c0 1.845.857 3.49 2.194 4.559l-5.968 5.968A5.822 5.822 0 0 0 20 28.333c-1.845 0-3.49.857-4.558 2.193l-5.968-5.968A5.822 5.822 0 0 0 11.667 20c0-1.845-.857-3.49-2.193-4.558l5.968-5.968A5.823 5.823 0 0 0 20 11.667ZM7.636 14.45l6.815-6.815a5.833 5.833 0 1 1 11.099 0l6.814 6.814a5.833 5.833 0 1 1 0 11.099l-6.815 6.815a5.833 5.833 0 1 1-11.099 0l-6.814-6.815a5.833 5.833 0 1 1 0-11.099Zm16.197 19.716a3.833 3.833 0 1 1-7.666 0 3.833 3.833 0 0 1 7.666 0Zm10.334-10.334a3.833 3.833 0 1 0 0-7.666 3.833 3.833 0 0 0 0 7.666ZM9.667 20A3.833 3.833 0 1 1 2 20a3.833 3.833 0 0 1 7.667 0Z" clip-rule="evenodd"/><path stroke="#FF97D5" stroke-width="2" d="m20 26.92-6.836-6.836L20 13.248l6.835 6.836z"/>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h40v40H0z"/>
+    </clipPath>
+  </defs>
+</svg></div><p data-select-normal="" class="text-lg inst-item-heading">Networking</p><div class="inst-feat__text"><p class="text-md text-color-white">Get connected with relevant advisors, investors and VCs to take your project to the next level.</p></div></div></div></div></div></div></div></div></section><section class="s inc-location__section"><div class="c"><div class="inc-location__top-info--w"><h2 class="heading-2xl">The Winning Formula</h2><div class="inc-location__hl--w"><div class="inc-location__desc--w"><p data-select-normal="" class="heading-lg grad-span">Three locations, one goal</p><p class="text-lg builders-feats__desc">The Incubator is set to start in Dubai, before transitioning to our Hong Kong offices, followed by the unique opportunity to pitch your project to investors in San Francisco and Singapore.</p></div><div class="inc-location__desc--w"><p data-select-normal="" class="heading-lg grad-span">Tailored to your needs</p><p class="text-lg builders-feats__desc">At MANTRA, we understand that projects may have different needs. This is why we prepared a flexible curriculum tailored to what each incubated project may need.</p></div></div></div></div><div class="c is--inc-track"><div class="inc-location__main-w is-desktop"><div class="scroll_horizontal_wrap"><div class="scroll_horizontal_contain"><div class="inc-location__progress-w"><div class="progress-track-active"></div><div class="progress-track"></div><div class="progress-points__wrap"><div class="progress-point is--1 is--active"></div><div class="progress-point is--2"></div><div class="progress-point is--3"></div></div></div><div class="scroll_horizontal_inner"><div class="scroll_horizontal_track"><div class="scroll_horizontal_list"><div class="scroll_horizontal_card_wrap"><div class="hor-scroll__card is-1"><div class="hor-scroll__info-w"><div class="hor-scroll__top-w"><div class="hor-scroll-card__head"><h1 class="text-size-40 height-1 grad-span">Dubai</h1><p class="heading-lg">Two Weeks</p></div><ul role="list" class="hor-scroll-card__list"><li class="hor-scroll-card__list-item"><p class="heading-sm">Welcome to MANTRA</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Get to know the Incubator Team &amp; Projects</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Meet the Regulators</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Find out where to incorporate your Crypto Business</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Introduction to Crypto Compliance</p></li></ul></div><div class="hor-scroll__bot-w"><div class="gray__spacer"></div><h1 class="heading-md"><span class="grad-span">Goal:</span> Get to an MVP and do your first pitch</h1></div></div><div class="hor-scroll__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665890d18eb4db82c249379e_hong-kong.webp" loading="eager" width="510" alt="dusty picture of hong kong" class="image"/></div></div></div><div class="scroll_horizontal_card_wrap"><div class="hor-scroll__card is-2"><div class="hor-scroll__info-w"><div class="hor-scroll__top-w"><div class="hor-scroll-card__head"><h1 class="text-size-40 height-1 grad-span">Hong Kong</h1><p class="heading-lg">Eight Weeks</p></div><ul role="list" class="hor-scroll-card__list"><li class="hor-scroll-card__list-item"><p class="heading-sm">Development Focus</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Marketing &amp; GTM</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Business Leadership</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Tokenomics &amp; How to launch a token</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Preparation for fundraising</p></li></ul></div><div class="hor-scroll__bot-w"><div class="gray__spacer"></div><h1 class="heading-md"><span class="grad-span">Goal:</span> Get your project launched on the Hongbai Testnet</h1></div></div><div class="hor-scroll__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665eea5fed73020b5ae1afdf_HongKong.webp" loading="eager" width="510" alt="hong kong sealine" class="image"/></div></div></div><div class="scroll_horizontal_card_wrap"><div class="hor-scroll__card is-3"><div class="hor-scroll__info-w"><div class="hor-scroll__top-w"><div class="hor-scroll-card__head"><h1 class="text-size-40 height-1 grad-span">San Francisco / Singapore<br/><span class="is--smaller-span">*only if needed for fundraising</span></h1><p class="heading-lg">Two Weeks</p></div><div class="card-list--w"><p class="text-size-14">Selected projects may be supported by our Partner 280 and have the opportunity to pitch either in Singapore or San Francisco</p><ul role="list" class="hor-scroll-card__list"><li class="hor-scroll-card__list-item"><p class="heading-sm">Term Sheet preparations</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">How to negotiate term sheets</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Pitch your project to investors</p></li></ul></div></div><div class="hor-scroll__bot-w"><div class="gray__spacer"></div><h1 class="heading-md"><span class="grad-span">Goal:</span> Secure seed funding, prepare for launch on Mainnet release</h1></div></div><div class="hor-scroll__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665eea5fb083bc57e1f49f0f_San%20%26%20Sing.webp" loading="eager" width="510" alt="split image of san francisco and singapore" class="image"/></div></div></div></div></div></div></div></div><div class="inc-location__cta--w"><p class="heading-md m__home-chain--cta-heading">This is your story and MANTRA will help it get to the happy end</p><a href="https://mantra.jotform.com/241018633912451" class="btn-wrap w-inline-block"><div data-w-id="8e71255e-1665-6c80-f41c-9bff8a30cbfe" class="btn-inner is--primary"><div class="text-sm is-button-med">Apply Now</div><div class="btn-primary--bg"></div></div></a></div></div></div><div class="inc-location__main-w is-mobile"><div class="scroll_horizontal_wrap_mobile"><div class="scroll_horizontal_contain"><div class="scroll_horizontal_inner"><div class="scroll_horizontal_track swiper"><div class="scroll_horizontal_list swiper-wrapper"><div class="scroll_horizontal_card_wrap swiper-slide"><div class="hor-scroll__card"><div class="hor-scroll__info-w"><div class="hor-scroll__top-w"><div class="hor-scroll-card__head"><h1 class="text-size-40 height-1 grad-span">Dubai</h1><p class="heading-lg">Two Weeks</p></div><ul role="list" class="hor-scroll-card__list"><li class="hor-scroll-card__list-item"><p class="heading-sm">Welcome to MANTRA</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Get to know the Incubator Team &amp; Projects</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Meet the Regulators</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Find out where to incorporate your Crypto Business</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Introduction to Crypto Compliance</p></li></ul></div><div class="hor-scroll__bot-w"><div class="gray__spacer"></div><h1 class="heading-md"><span class="grad-span">Goal:</span> Get to an MVP and do your first pitch</h1></div></div><div class="hor-scroll__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665890d18eb4db82c249379e_hong-kong.webp" loading="eager" width="510" alt="dusty picture of hong kong" class="image"/></div></div></div><div class="scroll_horizontal_card_wrap swiper-slide"><div class="hor-scroll__card"><div class="hor-scroll__info-w"><div class="hor-scroll__top-w"><div class="hor-scroll-card__head"><h1 class="text-size-40 height-1 grad-span">Hong Kong</h1><p class="heading-lg">Two Weeks</p></div><ul role="list" class="hor-scroll-card__list"><li class="hor-scroll-card__list-item"><p class="heading-sm">Marketing &amp; GTM</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Business Leadership</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Tokenomics &amp; How to launch a token</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Preparation for fundraising</p></li></ul></div><div class="hor-scroll__bot-w"><div class="gray__spacer"></div><h1 class="heading-md"><span class="grad-span">Goal:</span> Get your project launched on the Hongbai Testnet</h1></div></div><div class="hor-scroll__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665890d18eb4db82c249379e_hong-kong.webp" loading="eager" width="510" alt="dusty picture of hong kong" class="image"/></div></div></div><div class="scroll_horizontal_card_wrap swiper-slide"><div class="hor-scroll__card"><div class="hor-scroll__info-w"><div class="hor-scroll__top-w"><div class="hor-scroll-card__head"><h1 class="text-size-40 height-1 grad-span">San Francisco / Singapore</h1><p class="heading-lg">Two Weeks</p></div><ul role="list" class="hor-scroll-card__list"><li class="hor-scroll-card__list-item"><p class="heading-sm">Term Sheet preparations</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">How to negotiate term sheets</p></li><li class="hor-scroll-card__list-item"><p class="heading-sm">Pitch your project to investors</p></li></ul></div><div class="hor-scroll__bot-w"><div class="gray__spacer"></div><h1 class="heading-md"><span class="grad-span">Goal:</span> Secure seed funding, prepare for launch on Mainnet release</h1></div></div><div class="hor-scroll__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665890d18eb4db82c249379e_hong-kong.webp" loading="eager" width="510" alt="dusty picture of hong kong" class="image"/></div></div></div></div></div></div></div></div><div class="inc-location__cta--w"><p class="heading-md m__home-chain--cta-heading">This is your story and MANTRA will help it get to the happy end</p><a href="/ecosystem/partners" class="btn-wrap w-inline-block"><div data-w-id="8e71255e-1665-6c80-f41c-9bff8a30cbfe" class="btn-inner is--primary"><div class="text-sm is-button-med">Apply Now</div><div class="btn-primary--bg"></div></div></a></div></div><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6627ee3abcc5fb4a2197b597_Ellipse%2017.svg" loading="eager" width="606" style="-webkit-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="decor__top-blob"/></section><section class="s inc-cohort__s"><div class="c"><div class="inc-perks__layout"><div class="inc-feats__top-info--w"><p data-select-normal="" class="heading-md text-color-grad">1st Cohort</p><h2 class="heading-2xl">Selected Projects</h2><div class="inc-projects__desc--w"><p class="text-lg builders-feats__desc">Congratulations to the first 3 projects taking part in the MANTRA Incubator Program</p></div></div><div class="partners__col-list--w"><div class="partners__grid is--inc-flex"><div id="w-node-b0a24cda-245f-5e62-2682-4a0c1e1e2c50-4fbba13d" class="partner-cms-item is--inc-project"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665875229b7bae8651e7b34b_pyse-logo.png" loading="lazy" width="294.5" alt="pyse logo, looks like a butterfly" class="cohort-logo"/><p class="text-md text-color-white">Pyse tokenizes revenue-generating green assets, making sustainability both purposeful and profitable.</p><div class="partner-social__main-w"><a data-tippy-website="" href="https://pyse.earth" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.74228 1.49944C7.80911 1.49743 7.87606 1.49642 7.94312 1.49642C8.01011 1.49642 8.07699 1.49743 8.14375 1.49944L10.3245 7.49642H5.56158L7.74228 1.49944ZM6.24464 1.71639C5.11351 2.01444 4.07043 2.60769 3.22907 3.44904C2.13696 4.54115 1.46289 5.97316 1.30984 7.49642H4.14283L6.24464 1.71639ZM1.30984 8.82975C1.46289 10.353 2.13696 11.785 3.22907 12.8771C4.07043 13.7185 5.11351 14.3117 6.24464 14.6098L4.14283 8.82975H1.30984ZM7.74229 14.8267C7.80911 14.8287 7.87606 14.8298 7.94312 14.8298C8.0101 14.8298 8.07699 14.8287 8.14375 14.8267L10.3245 8.82975H5.56158L7.74229 14.8267ZM9.64138 14.6098C10.7726 14.3118 11.8158 13.7185 12.6572 12.8771C13.7493 11.785 14.4233 10.353 14.5764 8.82975H11.7433L9.64138 14.6098ZM14.5764 7.49642C14.4233 5.97316 13.7493 4.54115 12.6572 3.44904C11.8158 2.60763 10.7726 2.01437 9.64138 1.71634L11.7433 7.49642H14.5764ZM7.94312 0.163086C5.82138 0.163086 3.78655 1.00594 2.28626 2.50623C0.78597 4.00652 -0.0568848 6.04135 -0.0568848 8.16309C-0.0568848 10.2848 0.78597 12.3197 2.28626 13.8199C3.78655 15.3202 5.82138 16.1631 7.94312 16.1631C10.0648 16.1631 12.0997 15.3202 13.6 13.8199C15.1003 12.3197 15.9431 10.2848 15.9431 8.16309C15.9431 6.04135 15.1003 4.00652 13.6 2.50623C12.0997 1.00594 10.0648 0.163086 7.94312 0.163086Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><div screen-reader="">website</div></a><a data-tippy-twitter="" href="https://x.com/pyseearth" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.7143 10.6522L22.7282 1.33667H20.8291L13.8707 9.42519L8.31298 1.33667H1.90283L10.3072 13.5679L1.90283 23.3367H3.80197L11.1503 14.7949L17.0196 23.3367H23.4298L14.7138 10.6522H14.7143ZM12.1132 13.6757L11.2616 12.4577L4.48626 2.76632H7.40324L12.871 10.5876L13.7226 11.8056L20.83 21.972H17.9131L12.1132 13.6762V13.6757Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><div screen-reader="">x / twitter</div></a><a data-tippy-telegram="" href="https://t.me/pysecommunity" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_558_26918)">
+<path d="M23.0265 1.97668L2.86646 9.05153L10.6665 14.3367L15.9443 22.1367L23.0265 1.97668Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M10.6665 14.3367L15.6665 9.33667" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_558_26918">
+<rect width="24" height="24" fill="currentColor" transform="translate(0.666504 0.33667)"/>
+</clipPath>
+</defs>
+</svg></div><div screen-reader="">telegram</div></a></div></div></div></div><div id="w-node-_673821ad-6276-47d9-2b4c-22788853eb43-4fbba13d" class="partner-cms-item is--inc-project"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/665875226d26dbdcc2a13173_estate-p-logo.png" loading="lazy" width="338" alt="mansa logo, looks like outlines of three houses stacked on top of eachother" class="cohort-logo"/><p class="text-md text-color-white">Estate Protocol tokenizes real estate and bridges the gap between real world assets and the digital world through blockchain.</p><div class="partner-social__main-w"><a data-tippy-website="" href="https://www.estateprotocol.com/" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.74228 1.49944C7.80911 1.49743 7.87606 1.49642 7.94312 1.49642C8.01011 1.49642 8.07699 1.49743 8.14375 1.49944L10.3245 7.49642H5.56158L7.74228 1.49944ZM6.24464 1.71639C5.11351 2.01444 4.07043 2.60769 3.22907 3.44904C2.13696 4.54115 1.46289 5.97316 1.30984 7.49642H4.14283L6.24464 1.71639ZM1.30984 8.82975C1.46289 10.353 2.13696 11.785 3.22907 12.8771C4.07043 13.7185 5.11351 14.3117 6.24464 14.6098L4.14283 8.82975H1.30984ZM7.74229 14.8267C7.80911 14.8287 7.87606 14.8298 7.94312 14.8298C8.0101 14.8298 8.07699 14.8287 8.14375 14.8267L10.3245 8.82975H5.56158L7.74229 14.8267ZM9.64138 14.6098C10.7726 14.3118 11.8158 13.7185 12.6572 12.8771C13.7493 11.785 14.4233 10.353 14.5764 8.82975H11.7433L9.64138 14.6098ZM14.5764 7.49642C14.4233 5.97316 13.7493 4.54115 12.6572 3.44904C11.8158 2.60763 10.7726 2.01437 9.64138 1.71634L11.7433 7.49642H14.5764ZM7.94312 0.163086C5.82138 0.163086 3.78655 1.00594 2.28626 2.50623C0.78597 4.00652 -0.0568848 6.04135 -0.0568848 8.16309C-0.0568848 10.2848 0.78597 12.3197 2.28626 13.8199C3.78655 15.3202 5.82138 16.1631 7.94312 16.1631C10.0648 16.1631 12.0997 15.3202 13.6 13.8199C15.1003 12.3197 15.9431 10.2848 15.9431 8.16309C15.9431 6.04135 15.1003 4.00652 13.6 2.50623C12.0997 1.00594 10.0648 0.163086 7.94312 0.163086Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><div screen-reader="">website</div></a><a data-tippy-twitter="" href="https://x.com/EstateProtocol" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.7143 10.6522L22.7282 1.33667H20.8291L13.8707 9.42519L8.31298 1.33667H1.90283L10.3072 13.5679L1.90283 23.3367H3.80197L11.1503 14.7949L17.0196 23.3367H23.4298L14.7138 10.6522H14.7143ZM12.1132 13.6757L11.2616 12.4577L4.48626 2.76632H7.40324L12.871 10.5876L13.7226 11.8056L20.83 21.972H17.9131L12.1132 13.6762V13.6757Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><div screen-reader="">x / twitter</div></a><a data-tippy-telegram="" href="https://t.me/EPcommunityPlatform" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_558_26918)">
+<path d="M23.0265 1.97668L2.86646 9.05153L10.6665 14.3367L15.9443 22.1367L23.0265 1.97668Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M10.6665 14.3367L15.6665 9.33667" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_558_26918">
+<rect width="24" height="24" fill="currentColor" transform="translate(0.666504 0.33667)"/>
+</clipPath>
+</defs>
+</svg></div><div screen-reader="">telegram</div></a></div></div></div></div><div id="w-node-daf41bad-50f6-7173-c62b-1eb29ea7d160-4fbba13d" class="partner-cms-item is--inc-project"><div class="partner--w"><article data-glow-target="" data-glow="" class="partner--w is--glow"><div data-glow="" class="partner__glow--abs"></div></article><div class="partner-inner--w is--inc"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6658752217b586a12dcdd90d_MANSA-logo.png" loading="lazy" width="390" alt="mansa logo looks like caligraphy symbol" class="cohort-logo"/><p class="text-md text-color-white">Mansa Finance is a DeFi Protocol, backed by Real World Asset (RWA), providing liquidity to businesses in emerging markets.</p><div class="partner-social__main-w"><a data-tippy-website="" href="https://www.mansafinance.co/" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.74228 1.49944C7.80911 1.49743 7.87606 1.49642 7.94312 1.49642C8.01011 1.49642 8.07699 1.49743 8.14375 1.49944L10.3245 7.49642H5.56158L7.74228 1.49944ZM6.24464 1.71639C5.11351 2.01444 4.07043 2.60769 3.22907 3.44904C2.13696 4.54115 1.46289 5.97316 1.30984 7.49642H4.14283L6.24464 1.71639ZM1.30984 8.82975C1.46289 10.353 2.13696 11.785 3.22907 12.8771C4.07043 13.7185 5.11351 14.3117 6.24464 14.6098L4.14283 8.82975H1.30984ZM7.74229 14.8267C7.80911 14.8287 7.87606 14.8298 7.94312 14.8298C8.0101 14.8298 8.07699 14.8287 8.14375 14.8267L10.3245 8.82975H5.56158L7.74229 14.8267ZM9.64138 14.6098C10.7726 14.3118 11.8158 13.7185 12.6572 12.8771C13.7493 11.785 14.4233 10.353 14.5764 8.82975H11.7433L9.64138 14.6098ZM14.5764 7.49642C14.4233 5.97316 13.7493 4.54115 12.6572 3.44904C11.8158 2.60763 10.7726 2.01437 9.64138 1.71634L11.7433 7.49642H14.5764ZM7.94312 0.163086C5.82138 0.163086 3.78655 1.00594 2.28626 2.50623C0.78597 4.00652 -0.0568848 6.04135 -0.0568848 8.16309C-0.0568848 10.2848 0.78597 12.3197 2.28626 13.8199C3.78655 15.3202 5.82138 16.1631 7.94312 16.1631C10.0648 16.1631 12.0997 15.3202 13.6 13.8199C15.1003 12.3197 15.9431 10.2848 15.9431 8.16309C15.9431 6.04135 15.1003 4.00652 13.6 2.50623C12.0997 1.00594 10.0648 0.163086 7.94312 0.163086Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><div screen-reader="">website</div></a><a data-tippy-twitter="" href="https://x.com/MansaFinance_co" target="_blank" class="partner__social-link w-inline-block"><div class="home-feat__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.7143 10.6522L22.7282 1.33667H20.8291L13.8707 9.42519L8.31298 1.33667H1.90283L10.3072 13.5679L1.90283 23.3367H3.80197L11.1503 14.7949L17.0196 23.3367H23.4298L14.7138 10.6522H14.7143ZM12.1132 13.6757L11.2616 12.4577L4.48626 2.76632H7.40324L12.871 10.5876L13.7226 11.8056L20.83 21.972H17.9131L12.1132 13.6762V13.6757Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><div screen-reader="">x / twitter</div></a></div></div></div></div></div></div></div></div><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6627ee3abcc5fb4a2197b597_Ellipse%2017.svg" loading="eager" width="606" style="-webkit-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(-30vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="decor__top-blob"/></section><section class="s faq__s is--inc"><div class="c faq__c"><div class="faq__layout"><h1 class="heading-2xl traders-why--heading">FAQs</h1><div class="section-grad__divider"></div><div id="w-node-afb8d4fb-d785-9960-40d5-78810b2566ba-4fbba13d" class="faq__component"><div class="w-dyn-list"><div role="list" fs-accordion-element="group" fs-accordion-initial="1" fs-accordion-single="true" class="faq__component--list w-dyn-items"><div fs-accordion-element="accordion" role="listitem" class="faq-accordion__item w-dyn-item"><div class="faq--divider"></div><div id="accordion-2-header-1" tabindex="0" role="button" aria-controls="accordion-2-content-1" aria-expanded="false" fs-accordion-element="trigger" class="faq-accordion__header"><div class="faq-accordion__number--w"><p class="text-size-28 faq-accordion__header-text">01</p></div><div class="faq-accordion__right-header"><p data-select-normal="" class="text-size-28 faq-accordion__header-text is-head">Why MANTRA Incubator</p><div fs-accordion-element="arrow" class="faq-accordion__arrow--w is-active-accordion"><div class="faq-accordion__arrow w-embed"><svg width="13" height="9" viewBox="0 0 13 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 1.08325L7.16667 6.91659L1.33333 1.08325" stroke="url(#paint0_linear_381_2741)" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_381_2741" x1="12.1033" y1="5.5841" x2="11.3819" y2="0.472278" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F8B994"/>
+<stop offset="1" stop-color="#FF97D5"/>
+<stop offset="1.0001" stop-color="#FF97D5"/>
+</linearGradient>
+</defs>
+</svg></div></div></div></div><div id="accordion-2-content-1" aria-labelledby="accordion-2-header-1" fs-accordion-element="content" class="faq-accordion__content"><div class="faq-accordion__body"><div class="faq-accordion__number--w is-hidden"></div><div class="faq-accordion__p--w"><div class="w-richtext"><p>At MANTRA Incubator, our mission is to streamline the journey from concept to the MANTRA mainnet. We provide entrepreneurs with comprehensive support to navigate the unique challenges of starting up and thrive within the MANTRA ecosystem. We aim to support your team in the early stages of development. Whether it&#x27;s fundraising, development, tokenomics, marketing or compliance, we are dedicated to assisting you every step of the way.<br/></p></div></div></div></div></div><div fs-accordion-element="accordion" role="listitem" class="faq-accordion__item w-dyn-item"><div class="faq--divider"></div><div id="accordion-2-header-1" tabindex="0" role="button" aria-controls="accordion-2-content-1" aria-expanded="false" fs-accordion-element="trigger" class="faq-accordion__header"><div class="faq-accordion__number--w"><p class="text-size-28 faq-accordion__header-text">02</p></div><div class="faq-accordion__right-header"><p data-select-normal="" class="text-size-28 faq-accordion__header-text is-head">Who can apply?</p><div fs-accordion-element="arrow" class="faq-accordion__arrow--w is-active-accordion"><div class="faq-accordion__arrow w-embed"><svg width="13" height="9" viewBox="0 0 13 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 1.08325L7.16667 6.91659L1.33333 1.08325" stroke="url(#paint0_linear_381_2741)" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_381_2741" x1="12.1033" y1="5.5841" x2="11.3819" y2="0.472278" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F8B994"/>
+<stop offset="1" stop-color="#FF97D5"/>
+<stop offset="1.0001" stop-color="#FF97D5"/>
+</linearGradient>
+</defs>
+</svg></div></div></div></div><div id="accordion-2-content-1" aria-labelledby="accordion-2-header-1" fs-accordion-element="content" class="faq-accordion__content"><div class="faq-accordion__body"><div class="faq-accordion__number--w is-hidden"></div><div class="faq-accordion__p--w"><div class="w-richtext"><p>We are looking for projects that want to build on the MANTRA Chain. As we prepare for our Mainnet, we understand that a variety of projects and dAPPs are needed to grow a highly usable ecosystem.</p><p>As we understand that each project&#x27;s maturity differs and unique problems arise given the nature or focus of the business, we keep our doors open for any dedicated team that is willing to make a difference. - whether you have already launched on another chain, or just got together with a good idea.<br/></p></div></div></div></div></div><div fs-accordion-element="accordion" role="listitem" class="faq-accordion__item w-dyn-item"><div class="faq--divider"></div><div id="accordion-2-header-1" tabindex="0" role="button" aria-controls="accordion-2-content-1" aria-expanded="false" fs-accordion-element="trigger" class="faq-accordion__header"><div class="faq-accordion__number--w"><p class="text-size-28 faq-accordion__header-text">03</p></div><div class="faq-accordion__right-header"><p data-select-normal="" class="text-size-28 faq-accordion__header-text is-head">What does the Program look like?</p><div fs-accordion-element="arrow" class="faq-accordion__arrow--w is-active-accordion"><div class="faq-accordion__arrow w-embed"><svg width="13" height="9" viewBox="0 0 13 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 1.08325L7.16667 6.91659L1.33333 1.08325" stroke="url(#paint0_linear_381_2741)" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_381_2741" x1="12.1033" y1="5.5841" x2="11.3819" y2="0.472278" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F8B994"/>
+<stop offset="1" stop-color="#FF97D5"/>
+<stop offset="1.0001" stop-color="#FF97D5"/>
+</linearGradient>
+</defs>
+</svg></div></div></div></div><div id="accordion-2-content-1" aria-labelledby="accordion-2-header-1" fs-accordion-element="content" class="faq-accordion__content"><div class="faq-accordion__body"><div class="faq-accordion__number--w is-hidden"></div><div class="faq-accordion__p--w"><div class="w-richtext"><p>The MANTRA Incubator is a 12-14 week program tailored to the needs of your project. Each cohort consists of up to 5 projects that will go on a product development and growth journey with us, sharing the ultimate goal to bring their product to life on MANTRA Chain. </p><p>The program is set to solve problems unique to your business, while also providing extensive training and workshops on the blockchain industry, fundraising and business leadership.</p></div></div></div></div></div></div></div><div id="w-node-afb8d4fb-d785-9960-40d5-78810b2566cf-4fbba13d" class="faq_bot--divider"></div></div></div></div></section><section class="s footer__s"><div class="c footer__c"><div class="footer__layout"><div class="footer__subs--w"><a href="/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/662a42d26a0892bfdcb319e1_footer_white-logo.svg" loading="lazy" alt="Mantra logo" class="footer__logo"/></a><div class="contact__form-block is--footer w-form"><form id="wf-form-Newsletter-Form" name="wf-form-Newsletter-Form" data-name="Newsletter Form" method="post" data-klaviyo-list-id="SYjaQT" class="contact__form klaviyo-form" data-wf-page-id="664f2366b22d88a14fbba13d" data-wf-element-id="2a4e9e33-8176-a638-42f1-a3160a4e5305"><p class="heading-sm m__footer-col-heading">Sign up to our weekly newsletter</p><div class="contact-form__row"><div class="contact-form__item"><div class="contact-form__input--wrap"><input class="contact__form-field w-input" maxlength="256" name="Email-Address" wr-type="required-field" data-name="Email Address" placeholder="Email Address" type="email" id="Email-Address-3" required=""/><p wr-type="error" class="text-md is--error">This field is required.</p></div></div></div><div data-w-id="2a4e9e33-8176-a638-42f1-a3160a4e5334" class="btn-wrap"><input type="submit" data-wait="Please wait..." wr-type="submit" class="submit-button w-button" value="Subscribe"/><div data-w-id="8e71255e-1665-6c80-f41c-9bff8a30cbfe" class="btn-inner is--primary"><div class="text-sm is-button-med">Subscribe</div><div class="btn-primary--bg"></div></div></div><div class="contact-form__row"><div class="contact-form__item"><div data-theme="dark" data-sitekey="6LfHBeApAAAAALOOkokUIOfIfuRSPLyyjNIhUVTb" class="w-form-formrecaptcha recaptcha g-recaptcha g-recaptcha-error g-recaptcha-disabled"></div></div></div></form><div class="success--w custom-success w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="error--w custom-error w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div><div class="footer__links--w"><div class="footer__links--col"><p class="heading-sm m__footer-col-heading">Community</p><div class="footer__col-list is-socials weglot-exclude"><a href="https://discord.gg/gfks4TwAJV" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_3167)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.3987 4.82438C9.99063 4.05047 9.10222 3.60219 8.20345 3.81939C7.32516 4.03164 6.45838 4.30745 5.61001 4.6468L5.61 4.64681L4.68898 5.01521C4.08534 5.25666 3.63673 5.77646 3.48614 6.40892L1.11302 16.376C0.881001 17.3505 1.40571 18.3463 2.34068 18.7059L7.51311 20.6953C8.60946 21.117 9.83142 20.5075 10.1541 19.3781L10.7249 17.3803H14.6079L15.1787 19.378C15.5014 20.5075 16.7234 21.117 17.8197 20.6953L22.9922 18.7059C23.9271 18.3463 24.4518 17.3505 24.2198 16.376L21.8467 6.40893C21.6961 5.77646 21.2475 5.25666 20.6439 5.01521L19.7228 4.64681L19.7228 4.6468C18.8745 4.30745 18.0077 4.03164 17.1294 3.81939C16.2306 3.6022 15.3422 4.05047 14.9341 4.82439L14.5632 5.52785L10.7696 5.52785L10.3987 4.82438ZM16.6879 17.3803L17.1018 18.8286L22.2742 16.8392L19.9011 6.87217L18.98 6.50376L18.98 6.50375C18.2325 6.20471 17.469 5.96084 16.6954 5.77213L16.3323 6.46069C15.9862 7.11705 15.3052 7.52785 14.5632 7.52785H10.7696C10.0276 7.52785 9.3466 7.11705 9.00051 6.46069L8.63744 5.77213C7.8639 5.96084 7.1004 6.20471 6.35278 6.50376L6.35278 6.50376L5.43175 6.87217L3.05864 16.8392L8.23107 18.8286L8.64489 17.3803H7.27482V15.3803H10.7221C10.7231 15.3803 10.724 15.3803 10.7249 15.3803H14.6079C14.6088 15.3803 14.6098 15.3803 14.6107 15.3803H18.058V17.3803H16.6879Z" fill="currentColor" fill-opacity="0.7"/>
+<path d="M8.6665 10.0278V13.0278" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M16.6665 10.0278V13.0278" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_337_3167">
+<rect width="100%" height="100%" fill="currentColor" transform="translate(0.666504 0.527832)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Discord</p></a><a href="https://twitter.com/MANTRA_Chain" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.7143 10.6522L22.7282 1.33667H20.8291L13.8707 9.42519L8.31298 1.33667H1.90283L10.3072 13.5679L1.90283 23.3367H3.80197L11.1503 14.7949L17.0196 23.3367H23.4298L14.7138 10.6522H14.7143ZM12.1132 13.6757L11.2616 12.4577L4.48626 2.76632H7.40324L12.871 10.5876L13.7226 11.8056L20.83 21.972H17.9131L12.1132 13.6762V13.6757Z" fill="currentColor" fill-opacity="0.7"/>
+</svg></div><p class="text-md m__footer-col-item--text">X</p></a><a href="https://t.me/MANTRA_Chain" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_558_26918)">
+<path d="M23.0265 1.97668L2.86646 9.05153L10.6665 14.3367L15.9443 22.1367L23.0265 1.97668Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M10.6665 14.3367L15.6665 9.33667" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_558_26918">
+<rect width="24" height="24" fill="currentColor" transform="translate(0.666504 0.33667)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Telegram</p></a><a href="https://www.youtube.com/@MANTRAChain" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_4698)">
+<path d="M1.6665 6.62891C1.6665 5.52434 2.56193 4.62891 3.6665 4.62891H21.6665C22.7711 4.62891 23.6665 5.52434 23.6665 6.62891V20.6289C23.6665 21.7335 22.7711 22.6289 21.6665 22.6289H3.6665C2.56193 22.6289 1.6665 21.7335 1.6665 20.6289V6.62891Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M9.66064 17.7191V9.5387L16.6724 13.6289L9.66064 17.7191Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_337_4698">
+<rect width="100%" height="100%" fill="currentColor" transform="translate(0.666504 1.62891)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Youtube</p></a><a href="https://www.instagram.com/mantra_chain/" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon is--opac-70 w-embed"><svg width="100%" height="100%" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.0086 0.982788C7.33965 0.982788 6.95043 0.982788 5.89397 1.03855C5.05991 1.03855 4.22586 1.20582 3.44741 1.48461C2.78017 1.7634 2.16853 2.15371 1.6681 2.65554C1.16767 3.15736 0.778448 3.7707 0.500431 4.4398C0.222414 5.22042 0.0556034 6.0568 0.0556034 6.89317C0 7.95258 0 8.28713 0 11.0193C0 13.7514 0 14.086 0.0556034 15.1454C0.0556034 15.9818 0.222414 16.8182 0.500431 17.5988C0.778448 18.2121 1.16767 18.8255 1.6681 19.3273C2.16853 19.8291 2.78017 20.2194 3.44741 20.4982C4.22586 20.777 5.05991 20.9443 5.89397 20.9443C6.95043 21 7.33965 21 10.0086 21C12.6776 21 13.0668 21 14.1233 20.9443C14.9573 20.9443 15.7914 20.777 16.5698 20.4982C17.2371 20.2194 17.8487 19.8291 18.3491 19.3273C18.8496 18.8255 19.2388 18.2121 19.5168 17.543C19.7948 16.7624 19.9616 15.926 19.9616 15.0896C20.0172 14.0302 20.0172 13.6399 20.0172 10.9635C20.0172 8.28713 20.0172 7.89682 19.9616 6.83741C19.9616 6.00104 19.7948 5.16466 19.5168 4.38405C19.2388 3.7707 18.8496 3.15736 18.2935 2.65554C17.7931 2.15371 17.1815 1.7634 16.5142 1.48461C15.7358 1.20582 14.9017 1.03855 14.0677 1.03855C13.0112 0.982788 12.6776 0.982788 10.0086 0.982788V0.982788ZM10.0086 19.2158C7.28405 19.2158 7.00603 19.2158 5.94957 19.16C5.33793 19.16 4.67069 19.0485 4.11466 18.8255C3.66983 18.6582 3.2806 18.4351 2.94698 18.1006C2.61336 17.766 2.33534 17.3757 2.22414 16.9297C2.00172 16.3163 1.89052 15.703 1.89052 15.0896C1.83491 14.0302 1.83491 13.7514 1.83491 11.0193C1.83491 8.28713 1.83491 8.00834 1.89052 6.94893C1.89052 6.33559 2.00172 5.66649 2.22414 5.1089C2.39095 4.66284 2.61336 4.27253 2.94698 3.93798C3.2806 3.60343 3.66983 3.32464 4.11466 3.21312C4.72629 2.99009 5.33793 2.87857 5.94957 2.87857C7.00603 2.82281 7.33965 2.82281 10.0086 2.82281C12.6776 2.82281 13.0112 2.82281 14.0677 2.87857C14.6793 2.87857 15.3466 2.99009 15.9026 3.21312C16.3474 3.3804 16.7366 3.60343 17.0703 3.93798C17.4039 4.27253 17.6819 4.66284 17.7931 5.1089C18.0155 5.72225 18.1267 6.33559 18.1267 6.94893C18.1823 8.00834 18.1823 8.28713 18.1823 11.0193C18.1823 13.7514 18.1823 14.0302 18.1267 15.0896C18.1267 15.703 18.0155 16.3721 17.7931 16.9297C17.6263 17.3757 17.4039 17.766 17.0703 18.1006C16.7366 18.4351 16.3474 18.7139 15.9026 18.8255C15.2909 19.0485 14.6793 19.16 14.0677 19.16C13.0112 19.2158 12.6776 19.2158 10.0086 19.2158ZM10.0086 5.88952C7.17284 5.88952 4.8931 8.17561 4.8931 11.0193C4.8931 13.863 7.17284 16.1491 10.0086 16.1491C12.8444 16.1491 15.1241 13.863 15.1241 11.0193C15.1241 8.17561 12.8444 5.88952 10.0086 5.88952ZM15.3466 4.4398C14.6793 4.4398 14.1233 4.99739 14.1233 5.66649C14.1233 6.33559 14.6793 6.89317 15.3466 6.89317C16.0138 6.89317 16.5698 6.33559 16.5698 5.66649C16.5142 4.99739 16.0138 4.4398 15.3466 4.4398ZM10.0086 14.3648C8.17371 14.3648 6.67241 12.8593 6.67241 11.0193C6.67241 9.17926 8.17371 7.67379 10.0086 7.67379C11.8435 7.67379 13.3448 9.17926 13.3448 11.0193C13.3448 12.8593 11.8435 14.3648 10.0086 14.3648Z" fill="currentColor"/>
+</svg></div><p class="text-md m__footer-col-item--text">Instagram</p></a><a href="https://mantrachain.medium.com/" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_4706)">
+<circle cx="7.01767" cy="12" r="6.00204" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M19.3472 11.9999C19.3472 13.3762 19.0544 14.5726 18.6293 15.3884C18.1789 16.2529 17.7322 16.4454 17.51 16.4454C17.2878 16.4454 16.8411 16.2529 16.3907 15.3884C15.9656 14.5726 15.6729 13.3762 15.6729 11.9999C15.6729 10.6236 15.9656 9.42725 16.3907 8.61145C16.8411 7.74693 17.2878 7.55444 17.51 7.55444C17.7322 7.55444 18.1789 7.74693 18.6293 8.61145C19.0544 9.42725 19.3472 10.6236 19.3472 11.9999Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<mask id="path-3-inside-1_337_4706" fill="currentColor">
+<ellipse cx="22.5" cy="11.8381" rx="1.50003" ry="3.7308"/>
+</mask>
+<path d="M22.0001 11.8381C22.0001 12.678 21.8595 13.346 21.7051 13.7301C21.6257 13.9276 21.5813 13.9536 21.6343 13.8978C21.6918 13.8373 21.9839 13.5689 22.5 13.5689V17.5689C23.4304 17.5689 24.1171 17.0917 24.5335 16.6537C24.9454 16.2203 25.2243 15.6999 25.4163 15.2223C25.8048 14.2561 26.0001 13.0587 26.0001 11.8381H22.0001ZM22.5 13.5689C23.0162 13.5689 23.3083 13.8373 23.3657 13.8978C23.4188 13.9536 23.3744 13.9276 23.295 13.7301C23.1405 13.346 23 12.678 23 11.8381H19C19 13.0587 19.1953 14.2561 19.5837 15.2223C19.7758 15.6999 20.0546 16.2203 20.4666 16.6537C20.8829 17.0917 21.5697 17.5689 22.5 17.5689V13.5689ZM23 11.8381C23 10.9983 23.1405 10.3302 23.295 9.94611C23.3744 9.74865 23.4188 9.72264 23.3657 9.77843C23.3083 9.83886 23.0162 10.1073 22.5 10.1073V6.1073C21.5697 6.1073 20.8829 6.58453 20.4666 7.02254C20.0546 7.45591 19.7758 7.97626 19.5837 8.45394C19.1953 9.4201 19 10.6175 19 11.8381H23ZM22.5 10.1073C21.9839 10.1073 21.6918 9.83886 21.6343 9.77843C21.5813 9.72264 21.6257 9.74865 21.7051 9.94611C21.8595 10.3302 22.0001 10.9983 22.0001 11.8381H26.0001C26.0001 10.6175 25.8048 9.4201 25.4163 8.45394C25.2243 7.97626 24.9454 7.45591 24.5335 7.02254C24.1171 6.58453 23.4304 6.1073 22.5 6.1073V10.1073Z" fill="currentColor" fill-opacity="0.7" mask="url(#path-3-inside-1_337_4706)"/>
+</g>
+<defs>
+<clipPath id="clip0_337_4706">
+<rect width="100%" height="100%" fill="currentColor"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">Medium</p></a><a href="https://www.linkedin.com/company/mantrachain/" target="_blank" class="btn-wrap footer__col-item w-inline-block"><div class="footer-links__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_337_4713)">
+<path d="M2.08105 11.0813H6.08105V23.0813H2.08105V11.0813Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M22.0811 23.0813V17.0813C22.0811 13.7676 19.3948 11.0813 16.0811 11.0813H10.0811V23.0813H14.0811V15.0813H15.0811C16.738 15.0813 18.0811 16.4244 18.0811 18.0813V23.0813H22.0811Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+<path d="M2.08105 3.5813H6.08105V7.5813H2.08105V3.5813Z" stroke="currentColor" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_337_4713">
+<rect width="100%" height="100%" fill="currentColor" transform="translate(0.166504 0.83667)"/>
+</clipPath>
+</defs>
+</svg></div><p class="text-md m__footer-col-item--text">LinkedIn</p></a></div></div><div class="footer__right-cols"><div class="footer__links--col"><p class="heading-sm m__footer-col-heading">About</p><div class="footer__col-list"><a href="/company/about-us" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">About Us</p></a><a href="/company/contact-us" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">Contact</p></a></div></div><div class="footer__links--col"><p class="heading-sm m__footer-col-heading">Legal</p><div class="footer__col-list"><a href="/legal/terms-and-conditions" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">Terms &amp; Conditions</p></a><a href="/legal/privacy-policy" class="btn-wrap footer__col-item w-inline-block"><p class="text-md m__footer-col-item--text">Privacy Policy</p></a></div></div></div></div></div></div><div class="footer__logo--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/662a05a909397ac0d942aa54_logo-footer.png" loading="eager" alt="" class="footer__big-logo"/></div></section></main></div><div class="cookies--w"><div fs-cc="banner" class="fs-cc-banner_component"><div class="fs-cc-banner_container"><div class="cookies--text"><div class="text-size-14">We use cookies to ensure you get the best experience on our website. By using our website, you consent to use of cookies as outlined in our <a href="/legal/privacy-policy" class="text-link">Privacy Policy</a>.</div></div><div class="fs-cc-banner_buttons-wrapper"><a fs-cc="allow" href="#" class="btn-wrap w-inline-block"><div data-w-id="05e0683a-7c16-34dc-abcd-f3d81f65d4c9" class="btn-inner is--ghost"><div class="text-sm is-button-med text-color-white">Understood</div><div class="btn-inner-bg"><div class="btn-inner__grad"></div></div></div></a></div></div><div fs-cc="interaction" class="fs-cc-banner_trigger"></div></div></div><div data-popup="wrap" class="popup--w"><div class="c is--popup"><div class="popup__content--w"><div class="popup__top--w"><div title="Close Popup" role="button" aria-label="Close Popup" tabindex="0" data-popup="close" class="popup__close--w"><div class="popup__close--x"><div class="popup__close--line is--2"></div><div class="popup__close--line is--1"></div></div></div></div><div data-popup="card" class="popup__btm--w"><div class="popup__img--w"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba-p-500.webp 500w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba-p-800.webp 800w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba-p-1080.webp 1080w, https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/6669851ec499c0b31d513f36_f5b8fe8436ca95edd62cfb64c59314ba.webp 1268w" alt="" class="image"/></div><div id="w-node-_869a9fc4-15b1-ea9b-4be3-8204f56e8c37-f56e8c2c" class="popup__info--w"><div class="popup__hl--w"><div class="h-eyebrow"><span class="text-span">Live Now</span></div><div class="heading-2xl is--popup">USDY Vault – Stable yield with boosted rewards</div><div class="heading-lg is--popup">Open until 25 June 2024, 8:00 UTC</div></div><div class="popup__rewards--w"><div class="popup__rewards--inner"><div class="popup__rewards--col"><div class="text-lg is--pop-rew">5.3%*</div><div class="text-md is--pop">APY</div></div><div class="popup__rewards--col is--2"><div class="popup__rewards--hl"><img src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/66698be400529c9b580da648_booter-rew-icons2.webp" loading="lazy" alt="" class="image-2"/><div class="text-lg is--pop-rew pink">2% - 6%*</div></div><div class="text-md is--pop">Boosted Rewards</div><div class="popup__rewards--line"></div></div></div></div><a tabindex="0" href="https://hongbai.io/vaults/sxRxRTNN9k35g2aBEa9H/details" target="_blank" class="btn-wrap is--popup w-inline-block"><div data-w-id="869a9fc4-15b1-ea9b-4be3-8204f56e8c4f" class="btn-inner is--primary"><div class="text-lg is--pop">Learn More</div><div class="btn-primary--bg"></div><div screen-reader="">about the Vault</div></div></a><div class="h-eyebrow is--tc">*Terms &amp; conditions apply</div></div></div></div></div><div data-popup="ul" class="popup--ul"></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6622236200773f0f3dbee8a0" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6622236200773f0f3dbee8a0/js/webflow.0f9cf96c3.js" type="text/javascript"></script><script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/MotionPathPlugin.min.js"></script>
+
+
+<!-- contact
+<script src="https://mytrvx-5000.csb.app/company/contact.js"></script>
+-->
+<script>
+  $('[wr-type="error"]').hide(); // Hide errors
+  $(".error").removeClass("error"); // Remove error state from fields
+
+  var formErrors = false;
+
+  const fieldError = function (field) {
+    field.parent().find('[wr-type="error"]').show(); // Show error message
+    field.addClass("error"); // Add error state to this field
+    formErrors = true;
+  };
+
+  // Function to validate a name field
+  const validateNameField = function (field) {
+    const nameValue = field.val();
+    const nameRegex = /^[a-zA-Z]+$/; // Regular expression for letters only
+
+    if (!nameRegex.test(nameValue)) {
+      fieldError(field);
+    } else {
+      field.removeClass("error");
+      field.parent().find('[wr-type="error"]').hide();
+    }
+  };
+
+  // Click on the Submit button
+  $('[wr-type="submit"]').click(function () {
+    formErrors = false; // Reset formErrors
+
+    // Check each required field
+    $('[wr-type="required-field"]').each(function () {
+      if ($(this).attr("type") === "checkbox" && !$(this).is(":checked")) {
+        // Checkbox
+        fieldError($(this).siblings(".w-checkbox-input"));
+        return;
+      }
+      if ($(this).val().length === 0) {
+        // If this field is empty
+        fieldError($(this));
+      } else if (
+        $(this).attr("type") === "email" && // Validation for email fields
+        ($(this).val().indexOf("@") === -1 || $(this).val().indexOf(".") === -1)
+      ) {
+        fieldError($(this));
+      }
+    });
+
+    // Validate each name field individually
+    $(".contact__form-field.is--name").each(function () {
+      validateNameField($(this));
+    });
+
+    // Submit parent form if there are no errors
+    if (!formErrors) $(this).parents("form").submit();
+  });
+
+  // Remove errors from field
+  $('[wr-type="required-field"], [type="checkbox"]').on(
+    "keypress blur",
+    function () {
+      $(this).parent().find(".error").removeClass("error");
+      $(this).parent().find('[wr-type="error"]').hide();
+      formErrors = false;
+    },
+  );
+
+  // Press Enter
+  $("input, textarea").keypress(function (e) {
+    if (e.keyCode == 13) {
+      e.preventDefault();
+      $(this).trigger("change");
+      $('[wr-type="submit"]').click();
+    }
+  });
+
+  // Additional event listener for each name field to validate on input
+  $(".contact__form-field.is--name").on("input", function () {
+    validateNameField($(this));
+  });
+
+</script>
+<!-- [Attributes by Finsweet] Disable scrolling -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+<!-- [Finsweet Attributes] Accordion -->
+<script>(()=>{var t="https://cdn.jsdelivr.net/npm/@finsweet/attributes-accordion@1/accordion.js",e=document.querySelector(`script[src="${t}"]`);e||(e=document.createElement("script"),e.async=!0,e.src=t,document.head.append(e));})();</script>
+
+<script>
+  const designSize = 1512;
+
+  // tablet query
+  const tabletMediaQuery = window.matchMedia("(max-width: 991px)");
+  window.isTabletOrBelow = tabletMediaQuery.matches;
+
+  tabletMediaQuery.addEventListener("change", (event) => {
+    window.isTabletOrBelow = event.matches;
+  });
+
+  // Set font size
+  function setFontSize() {
+
+    if (window.innerWidth >= 991 && window.innerWidth <= 2560) {
+      document.body.style.fontSize = window.innerWidth / designSize + 'rem';
+    } else {
+      if (document.body.style.removeProperty) {
+        document.body.style.removeProperty("font-size");
+      } else {
+        document.body.style.removeAttribute("font-size");
+      }
+    }
+  }
+
+  // init listeners
+  function initFontSizeSetting() {
+    // init
+    setFontSize();
+    window.addEventListener('resize', setFontSize);
+  }
+
+  // ----- welcome message
+  function runWelcome() {
+    let msg = "%c ☩ Site built by https://itsoffbrand.com ☩";
+    let styles = [
+      "font-size: 12px",
+      "color: #fffce1",
+      "font-family: monospace",
+      "background: #0e100f",
+      "display: inline-block",
+      "padding: 1rem 3rem",
+      "border: 1px solid #fffce1",
+      "border-radius: 4px;",
+    ].join(";");
+    console.log(msg, styles);
+  }
+
+  // call functions
+  document.addEventListener('DOMContentLoaded', function() {
+    runWelcome();
+    initFontSizeSetting();
+    if (window.isTabletOrBelow) {
+      adjustAppHeight();
+    }
+  });
+
+</script>
+
+<script>
+  //modal overflow
+  $(".mobile-menu__overflow-content").css({
+    "overflow-y": "scroll",
+    "-webkit-overflow-scrolling": "touch"
+  });
+
+  // create svg elements
+  $(".svg-code").each(function (index) {
+    let svgCode = $(this).text();
+    $(svgCode).insertAfter($(this));
+  });
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Set a timeout to move the .globe element after a delay
+    setTimeout(function() {
+      // Select the .globe element
+      const globeElement = document.querySelector('.globe');
+
+      // Select the .language-option.active-language element
+      const activeLanguageElement = document.querySelector('.language-option.active-language');
+
+      // Check if both elements exist
+      if (globeElement && activeLanguageElement) {
+        // Select the first 'a' element inside the .language-option.active-language element
+        const linkElement = activeLanguageElement.querySelector('a');
+
+        // If the link element exists, insert the .globe element before it
+        if (linkElement) {
+          activeLanguageElement.insertBefore(globeElement, linkElement);
+        } else {
+          // If there's no 'a' element, append the .globe element to the activeLanguageElement
+          activeLanguageElement.appendChild(globeElement);
+        }
+      } else {
+        console.error('Either .globe or .language-option.active-language element is not found.');
+      }
+    }, 200); // Delay of 200 milliseconds
+  });
+</script>
+
+<script>
+  // Function to handle the appending of the .weglot-container.wg-default element
+  function handleResponsiveWeglot() {
+    // Select the .weglot-container.wg-default element
+    const weglotContainer = document.querySelector('.weglot-container.wg-default');
+
+    // Select the .weglot--w.is--mobile-nav element
+    const mobileNav = document.querySelector('.weglot--w.is--mobile-nav');
+
+    // Check the screen width
+    if (window.innerWidth <= 991) {
+      // Append the .weglot-container.wg-default to the .weglot--w.is--mobile-nav if both elements exist
+      if (weglotContainer && mobileNav) {
+        mobileNav.appendChild(weglotContainer);
+      } else {
+        console.error('Either .weglot-container.wg-default or .weglot--w.is--mobile-nav element is not found.');
+      }
+    } else {
+      // Optionally, handle the case for larger screens if necessary
+      // console.log('Screen width is greater than 991px.');
+    }
+  }
+
+  // Initial execution with a timeout to ensure DOM is ready
+  setTimeout(handleResponsiveWeglot, 1000); // Adjust the delay if necessary
+
+  // Add a resize event listener to handle screen size changes
+  window.addEventListener('resize', handleResponsiveWeglot);
+</script>
+
+
+<!-- popup 
+<script>
+  // Define the distance
+  const distance = "3rem";
+
+  // Function to prevent scrolling
+  function scrollStop() {
+    document.documentElement.style.overflow = "hidden";
+    document.body.style.overflow = "hidden";
+  }
+
+  // Function to set initial states and animate to their initial positions
+  function initPopup() {
+    // Set elements to their end states
+    document.querySelector("[data-popup='wrap']").style.display = "flex";
+    gsap.set("[data-popup='card']", { y: distance, autoAlpha: 0 });
+    gsap.set("[data-popup='close']", { y: distance, autoAlpha: 0 });
+    gsap.set("[data-popup='ul']", { autoAlpha: 0 });
+
+    // Animate elements to their initial states
+    gsap.to("[data-popup='card']", {
+      delay: 0.4,
+      y: 0,
+      autoAlpha: 1,
+      duration: 1,
+      ease: "power2.inOut"
+    });
+
+    gsap.to("[data-popup='close']", {
+      y: 0,
+      autoAlpha: 1,
+      duration: 1,
+      ease: "power2.inOut",
+      delay: 0.2
+    });
+
+    gsap.to("[data-popup='ul']", {
+      autoAlpha: 1,
+      duration: 0.5,
+      ease: "power2.inOut",
+    });
+  }
+
+  // Function to handle the animations on close/ul click
+  function hidePopup() {
+    // Animate the card
+    gsap.to("[data-popup='card']", {
+      y: distance,
+      autoAlpha: 0,
+      duration: 1,
+      ease: "power2.inOut"
+    });
+
+    // Animate the close button
+    gsap.to("[data-popup='close']", {
+      y: distance,
+      autoAlpha: 0,
+      duration: 1,
+      ease: "power2.inOut",
+      delay: 0.2
+    });
+
+    // Animate the ul element
+    gsap.to("[data-popup='ul']", {
+      autoAlpha: 0,
+      duration: 0.5,
+      ease: "power2.inOut",
+      delay: 0.7,
+      onComplete: function() {
+        // Set wrap to display: none
+        document.querySelector("[data-popup='wrap']").style.display = "none";
+        // Allow scrolling again
+        document.documentElement.style.overflow = "";
+        document.body.style.overflow = "";
+
+        // Set localStorage to mark that the popup has been hidden
+        localStorage.setItem('hasVisited', 'true');
+      }
+    });
+  }
+
+  // Function to check local storage for user visit
+  function checkUserVisit() {
+    const hasVisited = localStorage.getItem('hasVisited');
+    if (!hasVisited) {
+      scrollStop();
+      initPopup();
+    }
+  }
+
+  // Function to clear local storage and reload the page
+  function clearLocalStorageAndReload() {
+    localStorage.clear();
+    location.reload();
+  }
+
+  // Run the check on page load
+  checkUserVisit();
+
+  // Add event listeners to the close and ul elements
+  document.querySelector("[data-popup='close']").addEventListener("click", hidePopup);
+  document.querySelector("[data-popup='ul']").addEventListener("click", hidePopup);
+</script>
+--><!-- dev script
+<script src="https://mytrvx-5000.csb.app/incubator.js"></script>
+-->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const grids = document.querySelectorAll(".partners__grid");
+
+    const syncPointer = ({ x, y }) => {
+      const xpGlobal = x / window.innerWidth;
+      const ypGlobal = y / window.innerHeight;
+
+      document.documentElement.style.setProperty("--x", x.toFixed(2));
+      document.documentElement.style.setProperty("--xp", xpGlobal.toFixed(2));
+      document.documentElement.style.setProperty("--y", y.toFixed(2));
+      document.documentElement.style.setProperty("--yp", ypGlobal.toFixed(2));
+
+      let colorSet = false;
+
+      grids.forEach(grid => {
+        const rect = grid.getBoundingClientRect();
+        if (
+          x >= rect.left &&
+          x <= rect.right &&
+          y >= rect.top &&
+          y <= rect.bottom
+        ) {
+          const xpLocal = (x - rect.left) / rect.width; // local x position within the grid
+          const color = getColorFromXPosition(xpLocal);
+          document.documentElement.style.setProperty("--color-glow", color);
+          colorSet = true;
+        }
+      });
+
+      if (!colorSet) {
+        const color = getColorFromXPosition(xpGlobal); // global x position as fallback
+        document.documentElement.style.setProperty("--color-glow", color);
+      }
+    };
+
+    document.body.addEventListener("pointermove", syncPointer);
+  });
+
+  const getColorFromXPosition = (xp) => {
+    const purple = [255, 151, 213]; // #ff97d5
+    const orange = [248, 185, 148]; // #f8b994
+
+    const r = Math.round(purple[0] + (orange[0] - purple[0]) * xp);
+    const g = Math.round(purple[1] + (orange[1] - purple[1]) * xp);
+    const b = Math.round(purple[2] + (orange[2] - purple[2]) * xp);
+
+    return `rgb(${r}, ${g}, ${b})`;
+  };
+
+</script>
+
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+<script>
+  // With the above scripts loaded, you can call `tippy()` with a CSS
+  // selector and a `content` prop:
+  const instanceWebsite = tippy('[data-tippy-website]', {
+    content: '<div style="text-align:center">Website</div>',
+    allowHTML: true,
+  });
+
+  const instanceTwitter = tippy('[data-tippy-twitter]', {
+    content: '<div style="text-align:center">X</div>',
+    allowHTML: true,
+  });
+
+  const instanceTelegram = tippy('[data-tippy-telegram]', {
+    content: '<div style="text-align:center">Telegram</div>',
+    allowHTML: true,
+  });
+</script>
+
+<script>
+  // Ensure gsap and ScrollTrigger are initialized
+  gsap.registerPlugin(ScrollTrigger);
+
+  //Progress bullets active states
+  function checkWidth() {
+    const bar = document.querySelector(".progress-track-active");
+    const point = document.querySelector(".progress-point.is--2");
+    const point2 = document.querySelector(".progress-point.is--3");
+    const cards = document.querySelectorAll(".hor-scroll__card");
+
+    // Get the computed style of the bar
+    const barStyle = window.getComputedStyle(bar);
+    const barWidth = parseFloat(barStyle.width);
+    const parentWidth = bar.parentElement.clientWidth;
+
+    // Check if the bar width is 50% or more of its parent
+    if (barWidth >= parentWidth * 0.5) {
+      point.classList.add("is-active");
+      cards[0].classList.remove("is--active");
+      cards[1].classList.add("is--active");
+    } else {
+      point.classList.remove("is-active");
+      cards[1].classList.remove("is--active");
+      cards[0].classList.add("is--active");
+    }
+
+    // Check if the bar width is 100% of its parent
+    if (barWidth >= parentWidth * 0.98) {
+      point2.classList.add("is-active");
+      cards[1].classList.remove("is--active");
+      cards[2].classList.add("is--active");
+    } else {
+      point2.classList.remove("is-active");
+      cards[2].classList.remove("is--active");
+      if (!point.classList.contains("is-active")) {
+        cards[0].classList.add("is--active");
+      }
+    }
+  }
+
+  // Run the checkWidth function when the window is resized
+  window.addEventListener("resize", checkWidth);
+
+  // Initial check when the page is loaded
+  window.addEventListener("DOMContentLoaded", (event) => {
+    checkWidth();
+  });
+
+  //ScrollTrigger
+  $(".scroll_horizontal_wrap").each(function (index) {
+    let wrap = $(this);
+    let inner = $(this).find(".scroll_horizontal_inner");
+    let track = $(this).find(".scroll_horizontal_track");
+
+    // set section height
+    function setScrollDistance() {
+      wrap.css("height", "calc(" + track.outerWidth() + "px + 100vh)");
+    }
+    setScrollDistance();
+    ScrollTrigger.refresh();
+    window.addEventListener("resize", setScrollDistance);
+
+    // create main horizontal scroll timeline
+    let tl = gsap.timeline({
+      scrollTrigger: {
+        trigger: wrap,
+        start: "top top",
+        end: "bottom bottom",
+        scrub: true,
+        onUpdate: checkWidth, // Call checkWidth on every update
+        // markers: true,
+      },
+      defaults: { ease: "none" },
+    });
+
+    tl.to(track, { xPercent: -100 });
+    tl.from(".progress-track-active", { width: "0%" }, "<");
+
+    // get container left position
+    function containerLeft() {
+      return inner.offset().left + "px";
+    }
+
+    // get container right position
+    function containerRight() {
+      return inner.offset().left + inner.innerWidth() + "px";
+    }
+
+    let tl2 = gsap.timeline({
+      scrollTrigger: {
+        trigger: $(this).find(".scroll_horizontal_hero_wrap"),
+        containerAnimation: tl,
+        start: "left " + containerLeft(),
+        end: "right " + containerLeft(),
+        scrub: true,
+        // markers: true,
+      },
+      defaults: { ease: "none" },
+    });
+  });
+
+  const formulaSwiper = new Swiper(".swiper", {
+    loop: false,
+    spaceBetween: 24,
+    allowTouchMove: true,
+    followFinger: true,
+    slidesPerView: "auto",
+  });
+</script></body></html>
